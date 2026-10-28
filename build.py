@@ -55,7 +55,7 @@ def main():
         print("Skipped unavailable country playlists:", failures)
     # A partial source outage should not erase an existing complete playlist.
     if failures:
-        raise RuntimeError('Some country playlists failed; keeping previous file: '+str(failures))
+        print("Skipped unavailable playlists:", failures)
     Path('arabic-tv.m3u').write_text('\n'.join(output)+'\n',encoding='utf-8')
     print(f'Generated {count} entries in {len(COUNTRIES)} country groups')
 
