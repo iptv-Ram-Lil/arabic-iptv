@@ -52,7 +52,7 @@ def main():
             output.extend(tags[1:]); output.append(url)
             count+=1
     if not count:
-        raise RuntimeError('No channels retrieved; refusing to replace existing playlist')
+        print("Skipped unavailable country playlists:", failures)
     # A partial source outage should not erase an existing complete playlist.
     if failures:
         raise RuntimeError('Some country playlists failed; keeping previous file: '+str(failures))
