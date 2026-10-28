@@ -368,23 +368,26 @@ def country_code(attrs):
 
 
 def rewrite_group(extinf, group):
-    if '"' in group or "\n" in group:
-        raise ValueError("Invalid group name")
-    metadata, sep, name = extinf.partition(",")
-    metadata = GROUP_RE.sub("", metadata)
-    match = DURATION_RE.match(metadata)
-    if not match:
-        raise ValueError(f"Invalid EXTINF duration: {extinf[:100]}")
-    prefix = match.group(1)
-    rest = metadata[match.end():]
-    # EXTINF duration must appear before any attributes.
-    return f'{prefix}{rest} group-title="{group}"{sep}{name}'
+    """Generate a minimal, broadly compatible EXTINF record."""
+    attrs = attributes(extinf)
+    name = channel_name(extinf).replace("\r", " ").replace("\n", " ").strip()
+    if not name:
+        name = attrs.get("tvg-id", "Unnamed channel") or "Unnamed channel"
+    def clean(value):
+        return str(value).replace('"', "'").replace("\r", " ").replace("\n", " ")
+    metadata = ["#EXTINF:-1"]
+    for key in ("tvg-id", "tvg-name", "tvg-logo"):
+        value = attrs.get(key)
+        if value:
+            metadata.append(f'{key}="{clean(value)}"')
+    metadata.append(f'group-title="{clean(group)}"')
+    return " ".join(metadata) + "," + name
 
 
 def add(out, group, item):
-    extinf, extras, url = item
+    extinf, _extras, url = item
     out.append(rewrite_group(extinf, group))
-    out.extend(extras)
+    # Ignore source-specific directives: they can confuse some IPTV players.
     out.append(url)
 
 
@@ -410,13 +413,13 @@ def main():
         combined = " ".join((name, tvg_id, source_group))
         is_arabic = code in ARAB_CODES or bool(ARABIC_RE.search(name))
         if code == "SY":
-            group = "01 | 🇸🇾 سوريا"
+            group = "01 - سوريا"
         elif MBC_RE.search(combined):
-            group = "02 | 📺 جميع قنوات MBC"
+            group = "02 - MBC"
         elif is_arabic and NEWS_RE.search(combined):
-            group = "03 | 📰 الأخبار العربية"
+            group = "03 - الاخبار العربية"
         elif BEIN_RE.search(combined) or (is_arabic and SPORTS_RE.search(combined)):
-            group = "04 | ⚽ الرياضة العربية وbeIN Sports"
+            group = "04 - الرياضة العربية و beIN Sports"
         elif code in ARAB_CODES:
             group = "ARAB:" + code
         else:
@@ -442,19 +445,19 @@ def main():
 
     # Syria first; all MBC; Arabic news; Arabic sports and beIN Sports.
     for group in (
-        "01 | 🇸🇾 سوريا",
-        "02 | 📺 جميع قنوات MBC",
-        "03 | 📰 الأخبار العربية",
-        "04 | ⚽ الرياضة العربية وbeIN Sports",
+        "01 - سوريا",
+        "02 - MBC",
+        "03 - الاخبار العربية",
+        "04 - الرياضة العربية و beIN Sports",
     ):
         emit(group, groups.pop(group, []))
 
     # Optional favorites collection (duplicates intentional).
-    emit("05 | ⭐ المفضلة", favorites)
+    emit("05 - المفضلة", favorites)
 
     # Remaining Arab countries, one group per country, in the chosen order.
     for number, (code, name) in enumerate(ARAB_COUNTRIES[1:], start=6):
-        emit(f"{number:02d} | 🌙 {name}", groups.pop("ARAB:" + code, []))
+        emit(f"{number:02d} - {name}", groups.pop("ARAB:" + code, []))
 
     # Every foreign country gets its own named group, sorted by Arabic name.
     foreign = []
@@ -467,7 +470,7 @@ def main():
             # Safety fallback for unexpected Arabic country codes.
             foreign.append((key, key, items))
     for name, code, items in sorted(foreign, key=lambda x: (x[0], x[1])):
-        emit(f"🌍 {name} ({code})", items)
+        emit(f"{name} ({code})", items)
 
     content = "\n".join(output) + "\n"
     if not content.startswith("#EXTM3U\n"):
