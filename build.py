@@ -35,7 +35,10 @@ def parse(text):
 
 def rewrite_group(extinf,group):
     extinf=re.sub(r'\s+group-title="[^"]*"','',extinf)
-    return extinf.replace('#EXTINF:',f'#EXTINF: group-title="{group}"',1)
+    # M3U attributes must follow the duration (usually -1).
+    return re.sub(r'^(#EXTINF:\s*-?\d+(?:\.\d+)?)',
+                  lambda match: f'{match.group(1)} group-title="{group}"',
+                  extinf, count=1)
 
 def main():
     output=['#EXTM3U']; seen=set(); count=0; failures=[]
@@ -52,8 +55,8 @@ def main():
             output.extend(tags[1:]); output.append(url)
             count+=1
     if not count:
-        print("Skipped unavailable country playlists:", failures)
-    # A partial source outage should not erase an existing complete playlist.
+        raise RuntimeError("No channels were fetched; refusing to overwrite the playlist. Failures: " + str(failures))
+    # Skip unavailable countries, but report them in the workflow log.
     if failures:
         print("Skipped unavailable playlists:", failures)
     Path('arabic-tv.m3u').write_text('\n'.join(output)+'\n',encoding='utf-8')
