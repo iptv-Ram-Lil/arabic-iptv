@@ -219,8 +219,8 @@ https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
 https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
 #EXTINF:-1 tvg-id="beINSports1.qa@MENA" tvg-logo="https://i.imgur.com/Vtk2cGI.png" group-title="04 - الرياضة العربية و beIN Sports",beIN Sports 1
 https://vg162.adcdsd123321.shop/7.m3u8
-#EXTINF:-1 tvg-id="beINSports1Turk.tr@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/27/BeinSports1.svg/revision/latest?cb=20230910184457" group-title="04 - الرياضة العربية و beIN Sports",like Gecko) Chrome/156.0.0.0 Safari/537.36" group-title="Sports",beIN Sports 1 Turk
-http://57.129.0.61:1990/stream/117/index.m3u8
+#EXTINF:-1 tvg-id="beINSports1Turk.tr@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/27/BeinSports1.svg/revision/latest?cb=20230910184457" group-title="04 - الرياضة العربية و beIN Sports",beIN Sports 1 Turk (1080p)
+https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F300113394ceebba66c8ad
 #EXTINF:-1 tvg-id="beINSportsUSA.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/BeIN_Sports_logo_%28vertical_version%29.svg/500px-BeIN_Sports_logo_%28vertical_version%29.svg.png" group-title="04 - الرياضة العربية و beIN Sports",beIN Sports USA (576p)
 https://tvsen6.aynaott.com/beinsports/index.m3u8
 #EXTINF:-1 tvg-id="beINSPORTSXTRA.us@SD" tvg-logo="https://i.ibb.co/HT49GPmB/XTRA-2.png" group-title="04 - الرياضة العربية و beIN Sports",beIN SPORTS XTRA (1080p)
@@ -889,6 +889,8 @@ http://94.130.48.67:8042/stream/109/index.m3u8
 http://92.114.85.87:8007/play/a009
 #EXTINF:-1 tvg-id="CartoonNetworkCEE.uk@Ukraine" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" group-title="UK (UK)",Cartoon Network CEE Ukraine (576p)
 http://45.132.87.69:8080/cartoon_network/index.m3u8
+#EXTINF:-1 tvg-id="CartoonNetworkWesternEurope.uk@Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" group-title="UK (UK)",Cartoon Network Western Europe Portugal (576p)
+https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F327818589842dbaee1327c
 #EXTINF:-1 tvg-id="CartoonitoCEE.uk@SD" tvg-logo="https://i.imgur.com/9MrzLb1.png" group-title="UK (UK)",Cartoonito CEE
 http://193.33.39.108:9019/play/a00t
 #EXTINF:-1 tvg-id="CartoonitoCEE.uk@Bulgary" tvg-logo="https://i.imgur.com/9MrzLb1.png" group-title="UK (UK)",Cartoonito CEE Bulgary
@@ -1251,8 +1253,8 @@ https://ruvlive.akamaized.net/out/v1/2ff7673de40f419fa5164498fae89089/index.m3u8
 https://ruv-web-live.akamaized.net/streymi/ruverl/ruverl.m3u8
 #EXTINF:-1 tvg-id="Visir.is@SD" tvg-logo="https://i.imgur.com/07Vlt6i.jpg" group-title="آيسلندا (IS)",Visir (1080p)
 https://live.visir.is/hls-live/visir.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="APATv.az@SD" tvg-logo="https://i.imgur.com/2CSW4V4.png" group-title="أذربيجان (AZ)",APA Tv
-http://stream.apa.tv/apastream/index.m3u8
+#EXTINF:-1 tvg-id="ARB24.az@SD" tvg-logo="https://i.imgur.com/mtvIFyq.png" group-title="أذربيجان (AZ)",ARB 24
+https://operativmm.az/tvs/arb24/stream/index.m3u8
 #EXTINF:-1 tvg-id="AyazTV.az@SD" tvg-logo="https://www.ayaztv.com/storage/assets/site_logo.png" group-title="أذربيجان (AZ)",Ayaz TV
 https://janya-ayaztv.vgcdn.net/ptnr-WebApp/title-Ayaz_TV/v1/vglive-sk-934820/720p/720p.m3u8
 #EXTINF:-1 tvg-id="AzTV.az@SD" tvg-logo="https://i.imgur.com/snBMMeH.png" group-title="أذربيجان (AZ)",Az TV
@@ -1261,8 +1263,8 @@ https://operativmm.az/tvs/az/stream9/index.m3u8
 https://rtmp.baku.tv/hls/bakutv.m3u8
 #EXTINF:-1 tvg-id="CBCSport.az@HD" tvg-logo="https://i.imgur.com/3mEdjuq.png" group-title="أذربيجان (AZ)",CBC Sport [Geo-blocked]
 https://cbcsports-live.lg.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8
-#EXTINF:-1 tvg-id="ELTV.az@SD" tvg-logo="https://i.imgur.com/tTlokZ2.png" group-title="أذربيجان (AZ)",EL TV (260p)
-http://85.132.53.162:1935/live/eltv/playlist.m3u8
+#EXTINF:-1 tvg-id="ELTV.az@SD" tvg-logo="https://i.imgur.com/tTlokZ2.png" group-title="أذربيجان (AZ)",EL TV [Not 24/7]
+https://live.eltv.az/live/eltv/playlist.m3u8
 #EXTINF:-1 tvg-id="IctimaiTV.az@SD" tvg-logo="https://i.imgur.com/HzY4VMo.png" group-title="أذربيجان (AZ)",Ictimai TV [Geo-blocked]
 https://live.itv.az/itv.m3u8
 #EXTINF:-1 tvg-id="KanalS.az@SD" tvg-logo="https://raw.githubusercontent.com/songwenhui239/Songwenhui239/refs/heads/main/Kanal%20S.png" group-title="أذربيجان (AZ)",Kanal S
@@ -2107,8 +2109,6 @@ https://jmp2.uk/plu-6385e82900ab2e000768a058.m3u8
 https://jmp2.uk/plu-62e7fb67478a5b0007e6c50c.m3u8
 #EXTINF:-1 tvg-id="PlutoTVWesternSerien.de@DACH" tvg-logo="https://images.pluto.tv/channels/682453215c646751955e1204/colorLogoPNG_1758265241676.png" group-title="ألمانيا (DE)",Pluto TV Western Serien
 https://jmp2.uk/plu-682453215c646751955e1204.m3u8
-#EXTINF:-1 tvg-id="PlutoTVWesterns.de@GB" tvg-logo="https://images.pluto.tv/channels/5d4bdb635ce813b38639e6a3/colorLogoPNG.png" group-title="ألمانيا (DE)",Pluto TV Westerns (Germany)
-https://jmp2.uk/plu-5d4bdb635ce813b38639e6a3.m3u8
 #EXTINF:-1 tvg-id="PlutoTVWorstofBundy.de@DACH" tvg-logo="https://images.pluto.tv/channels/69b968ca1c36025fd0a3d92d/colorLogoPNG_1777369824096.png" group-title="ألمانيا (DE)",Pluto TV Worst of Bundy
 https://jmp2.uk/plu-69b968ca1c36025fd0a3d92d.m3u8
 #EXTINF:-1 tvg-id="PlutoTVZombies.de@ES" tvg-logo="https://images.pluto.tv/channels/65786888b228b7000843ad9a/colorLogoPNG.png" group-title="ألمانيا (DE)",Pluto TV Zombies
@@ -2155,8 +2155,6 @@ https://stream01.stream.welocal.world/stream/fhd-rfo_66876/ngrp:stream_all/playl
 https://rictv.iptv-playoutcenter.de/rictv/rictv-web/playlist.m3u8
 #EXTINF:-1 tvg-id="RiCtoday.de@HD" group-title="ألمانيا (DE)",RiC.today
 http://88.212.7.14/live/test_ric_international_avc_25p/playlist.m3u8
-#EXTINF:-1 tvg-id="Ridiculousness.de@FR" tvg-logo="https://images.pluto.tv/channels/5f8eb8a8b2619a000710605c/colorLogoPNG.png" group-title="ألمانيا (DE)",Ridiculousness (Germany) (720p)
-https://jmp2.uk/plu-5f8eb8a8b2619a000710605c.m3u8
 #EXTINF:-1 tvg-id="RockAntenne.de@SD" tvg-logo="https://i.imgur.com/nvFXRjH.png" group-title="ألمانيا (DE)",Rock Antenne [Not 24/7]
 https://stream.rockantenne.de/rockantenne/stream/mp3
 #EXTINF:-1 tvg-id="RocklandTV.de@SD" tvg-logo="https://i.imgur.com/6ve1FTN.png" group-title="ألمانيا (DE)",Rockland TV (480p) [Not 24/7]
@@ -2177,8 +2175,6 @@ https://s6.hopslan.com/rtl2q/index.m3u8
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/rtlzwei_ch/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="RTLup.de@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/RTLup_Logo_2021.svg/960px-RTLup_Logo_2021.svg.png" group-title="ألمانيا (DE)",RTLup (576p)
 https://s6.hopslan.com/rtltupz/index.m3u8
-#EXTINF:-1 tvg-id="Rugrats.de@ES" tvg-logo="https://images.pluto.tv/channels/610c09219fc0430007a3fce6/colorLogoPNG.png" group-title="ألمانيا (DE)",Rugrats (Germany)
-https://jmp2.uk/plu-610c09219fc0430007a3fce6.m3u8
 #EXTINF:-1 tvg-id="SaarlandFernsehen1.de@SD" tvg-logo="https://i.imgur.com/OodehFV.png" group-title="ألمانيا (DE)",Saarland Fernsehen 1 (1080p)
 https://saarland1.iptv-playoutcenter.de/saarland1/saarland1.stream_1/playlist.m3u8
 #EXTINF:-1 tvg-id="SaarlandFernsehen2.de@SD" tvg-logo="https://i.imgur.com/Yv7j4ia.png" group-title="ألمانيا (DE)",Saarland Fernsehen 2 (720p) [Not 24/7]
@@ -2211,7 +2207,7 @@ https://jmp2.uk/plu-676e7b4a4bd636000819c6a7.m3u8
 https://jmp2.uk/plu-5f8ed2d1c34c2300073bf02c.m3u8
 #EXTINF:-1 tvg-id="sixx.de@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Sixx_Logo.svg/960px-Sixx_Logo.svg.png" group-title="ألمانيا (DE)",sixx
 https://dash4.antik.sk/live/test_sixx_tizen/playlist.m3u8
-#EXTINF:-1 tvg-id="SkySportF1.de@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/960px-Sky_Sport_F1_-_Logo_2020.svg.png" group-title="ألمانيا (DE)",like Gecko) Chrome/156.0.0.0 Safari/537.36" group-title="Sports",Sky Sport F1
+#EXTINF:-1 tvg-id="SkySportF1.de@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/960px-Sky_Sport_F1_-_Logo_2020.svg.png" group-title="ألمانيا (DE)",like Gecko) Chrome/156.0.0.0 Safari/537.36" group-title="Sports",Sky Sport F1 (Germany)
 http://94.130.48.67:8042/stream/51/index.m3u8
 #EXTINF:-1 tvg-id="SkySportGolf.de@SD" tvg-logo="https://i.imgur.com/nhhbHvs.png" group-title="ألمانيا (DE)",like Gecko) Chrome/156.0.0.0 Safari/537.36" group-title="Sports",Sky Sport Golf
 http://94.130.48.67:8042/stream/56/index.m3u8
@@ -2233,26 +2229,12 @@ https://bild-und-ton.stream/sophiatv-en/smil:sophia-tv-en.smil/playlist.m3u8
 https://bild-und-ton.stream/sophiatv-es/smil:sophia-tv-es.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="SophiaTVFrancais.de@SD" tvg-logo="https://i.imgur.com/T2JPCq2.png" group-title="ألمانيا (DE)",Sophia TV Francais (720p)
 https://bild-und-ton.stream/sophiatv-fr/smil:sophia-tv-fr.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="SouthPark.de@ES" tvg-logo="https://images.pluto.tv/channels/628751bb7154a40007168843/colorLogoPNG_1748431640253.png" group-title="ألمانيا (DE)",South Park (Germany)
-https://jmp2.uk/plu-628751bb7154a40007168843.m3u8
-#EXTINF:-1 tvg-id="SouthPark.de@GB" tvg-logo="https://images.pluto.tv/channels/628751bb7154a40007168843/colorLogoPNG_1748431640253.png" group-title="ألمانيا (DE)",South Park (Germany) GB
-https://jmp2.uk/plu-64edf6eaa7ec0d000812f58c.m3u8
-#EXTINF:-1 tvg-id="SouthPark.de@IT" tvg-logo="https://images.pluto.tv/channels/628751bb7154a40007168843/colorLogoPNG_1748431640253.png" group-title="ألمانيا (DE)",South Park (Germany) IT
-https://jmp2.uk/plu-62bc1f502b70e3000706298e.m3u8
 #EXTINF:-1 tvg-id="SouthParkVersionOriginal.de@ES" tvg-logo="https://images.pluto.tv/channels/63d7a8e5a9957100086bfc23/colorLogoPNG.png" group-title="ألمانيا (DE)",South Park Version Original
 https://jmp2.uk/plu-63d7a8e5a9957100086bfc23.m3u8
 #EXTINF:-1 tvg-id="SouthParkButtersCollection.de@DACH" tvg-logo="https://images.pluto.tv/channels/646b14a0e94c3800082a8d3a/colorLogoPNG.png" group-title="ألمانيا (DE)",South Park: Butters Collection (Germany)
 https://jmp2.uk/plu-646b14a0e94c3800082a8d3a.m3u8
-#EXTINF:-1 tvg-id="SouthParkCartmanCollection.de@DACH" tvg-logo="https://images.pluto.tv/channels/646b14747cb4b1000875724d/colorLogoPNG.png" group-title="ألمانيا (DE)",South Park: Cartman Collection (Germany)
-https://jmp2.uk/plu-646b14747cb4b1000875724d.m3u8
-#EXTINF:-1 tvg-id="SouthParkKennyCollection.de@DACH" tvg-logo="https://images.pluto.tv/channels/646b1404ee6a2f00082b5d66/colorLogoPNG.png" group-title="ألمانيا (DE)",South Park: Kenny Collection (Germany)
-https://jmp2.uk/plu-646b1404ee6a2f00082b5d66.m3u8
-#EXTINF:-1 tvg-id="SouthParkKyleCollection.de@DACH" tvg-logo="https://images.pluto.tv/channels/646b14d0e1979c0008915a09/colorLogoPNG.png" group-title="ألمانيا (DE)",South Park: Kyle Collection (Germany)
-https://jmp2.uk/plu-646b14d0e1979c0008915a09.m3u8
 #EXTINF:-1 tvg-id="SouthParkOriginalVersion.de@DACH" tvg-logo="https://images.pluto.tv/channels/646b150a15939400089e2702/colorLogoPNG.png" group-title="ألمانيا (DE)",South Park: Original Version
 https://jmp2.uk/plu-646b150a15939400089e2702.m3u8
-#EXTINF:-1 tvg-id="SouthParkStanCollection.de@DACH" tvg-logo="https://images.pluto.tv/channels/646b1438e94c3800082a8cff/colorLogoPNG.png" group-title="ألمانيا (DE)",South Park: Stan Collection (Germany)
-https://jmp2.uk/plu-646b1438e94c3800082a8cff.m3u8
 #EXTINF:-1 tvg-id="SpongeBobSchwammkopf.de@DACH" tvg-logo="https://images.pluto.tv/channels/5d00e8adaab96b5635b2a005/colorLogoPNG.png" group-title="ألمانيا (DE)",SpongeBob Schwammkopf (720p)
 https://jmp2.uk/plu-5d00e8adaab96b5635b2a005.m3u8
 #EXTINF:-1 tvg-id="Sport1.de@SD" tvg-logo="https://i.imgur.com/Tsjt7v9.png" group-title="ألمانيا (DE)",Sport1 (Germany) (540p)
@@ -2261,14 +2243,8 @@ https://r.eu.cdn-redge.media/livehls/oeu/mt/live/sport1/live.livx/playlist.m3u8
 https://srfs.akamaized.net/hls/live/689649/srfsgeo/index.m3u8
 #EXTINF:-1 tvg-id="SRF.de@SD" tvg-logo="https://i.imgur.com/92XNBmr.png" group-title="ألمانيا (DE)",SRF (1080p)
 https://58de7a369a9c4.streamlock.net/srf/stream_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="StarTrekTheNextGeneration.de@DACH" tvg-logo="https://images.pluto.tv/channels/69776ce979545c21a1220bff/colorLogoPNG_1769434849537.png" group-title="ألمانيا (DE)",Star Trek: The Next Generation (Germany)
-https://jmp2.uk/plu-69776ce979545c21a1220bff.m3u8
 #EXTINF:-1 tvg-id="StarTrekTheOriginalSeries.de@DACH" tvg-logo="https://images.pluto.tv/channels/69776b58036e883f39e5ab8a/colorLogoPNG_1769434091096.png" group-title="ألمانيا (DE)",Star Trek: The Original Series (Germany)
 https://jmp2.uk/plu-69776b58036e883f39e5ab8a.m3u8
-#EXTINF:-1 tvg-id="StarTrekVoyager.de@ES" tvg-logo="https://images.pluto.tv/channels/65787f2eb228b7000843fa5c/colorLogoPNG.png" group-title="ألمانيا (DE)",Star Trek: Voyager (Germany)
-https://jmp2.uk/plu-65787f2eb228b7000843fa5c.m3u8
-#EXTINF:-1 tvg-id="StarTrekVoyager.de@IT" tvg-logo="https://images.pluto.tv/channels/65787f2eb228b7000843fa5c/colorLogoPNG.png" group-title="ألمانيا (DE)",Star Trek: Voyager (Germany) IT
-https://jmp2.uk/plu-65cb73d33ba51e00084cabad.m3u8
 #EXTINF:-1 tvg-id="SWR3VisualRadio.de@SD" tvg-logo="https://i.imgur.com/PxSgxRO.jpg" group-title="ألمانيا (DE)",SWR 3 Visual Radio (720p)
 https://swrswr3vr-hls.akamaized.net/hls/live/2018683/swr3vr/master.m3u8
 #EXTINF:-1 tvg-id="SWRFernsehenBadenWurttemberg.de@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/SWR_Logo_2023.svg/960px-SWR_Logo_2023.svg.png" group-title="ألمانيا (DE)",SWR Fernsehen Baden-Wurttemberg (720p) [Geo-blocked]
@@ -2281,12 +2257,6 @@ https://swrrpd-hls.akamaized.net/hls/live/2018676/swrrpd/master.m3u8
 https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
 #EXTINF:-1 tvg-id="TakeshisCastle.de@DACH" tvg-logo="https://images.pluto.tv/channels/6054a9f4bc8a5f000771504c/colorLogoPNG.png" group-title="ألمانيا (DE)",Takeshi's Castle
 https://jmp2.uk/plu-6054a9f4bc8a5f000771504c.m3u8
-#EXTINF:-1 tvg-id="TeenMom.de@IT" tvg-logo="https://images.pluto.tv/channels/62e7fc8c0d061100083946a9/colorLogoPNG.png" group-title="ألمانيا (DE)",Teen Mom (Germany)
-https://jmp2.uk/plu-62e7fc8c0d061100083946a9.m3u8
-#EXTINF:-1 tvg-id="TeenMom.de@FR" tvg-logo="https://images.pluto.tv/channels/62e7fc8c0d061100083946a9/colorLogoPNG.png" group-title="ألمانيا (DE)",Teen Mom (Germany) FR (720p)
-https://jmp2.uk/plu-62f3f05505e621000783df2f.m3u8
-#EXTINF:-1 tvg-id="TeenMom.de@GB" tvg-logo="https://images.pluto.tv/channels/62e7fc8c0d061100083946a9/colorLogoPNG.png" group-title="ألمانيا (DE)",Teen Mom (Germany) GB
-https://jmp2.uk/plu-62d550d81054990007db7798.m3u8
 #EXTINF:-1 tvg-id="TeenageMutantNinjaTurtles.de@IT" tvg-logo="https://images.pluto.tv/channels/62619405c733e8000732d1fe/colorLogoPNG.png" group-title="ألمانيا (DE)",Teenage Mutant Ninja Turtles (720p)
 https://jmp2.uk/plu-62619405c733e8000732d1fe.m3u8
 #EXTINF:-1 tvg-id="TELE5.de@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tele_5_Logo_2021.svg/500px-Tele_5_Logo_2021.svg.png" group-title="ألمانيا (DE)",TELE 5 (576p)
@@ -2299,20 +2269,12 @@ https://53ff3982.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheH
 https://amg01775-amg01775c1-amgplt0343.playout.now3.amagi.tv/playlist/amg01775-amg01775c1-amgplt0343/playlist.m3u8
 #EXTINF:-1 tvg-id="TheLWordWennFrauenlieben.de@DACH" tvg-logo="https://images.pluto.tv/channels/68d2759a59fd82da3226492d/colorLogoPNG_1769617985920.png" group-title="ألمانيا (DE)",The L Word – Wenn Frauen lieben
 https://jmp2.uk/plu-68d2759a59fd82da3226492d.m3u8
-#EXTINF:-1 tvg-id="TheNewDetectives.de@GB" tvg-logo="https://images.pluto.tv/channels/5e393d5c696b3b0009775c8b/colorLogoPNG.png" group-title="ألمانيا (DE)",The New Detectives (Germany)
-https://jmp2.uk/plu-5e393d5c696b3b0009775c8b.m3u8
 #EXTINF:-1 tvg-id="TheYellowCouchwithJeremyLynch.de@GB" tvg-logo="https://images.pluto.tv/channels/68e8ffee9d1d49e672fe790f/colorLogoPNG_1761768607111.png" group-title="ألمانيا (DE)",The Yellow Couch with Jeremy Lynch
 https://jmp2.uk/plu-68e8ffee9d1d49e672fe790f.m3u8
 #EXTINF:-1 tvg-id="TideTV.de@SD" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tidetv.png" group-title="ألمانيا (DE)",Tide TV (1080p)
 https://5889e7d0d6e28.streamlock.net/tide-live/_definst_/smil:livestream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TLC.de@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/960px-TLC_Logo.svg.png" group-title="ألمانيا (DE)",TLC (Germany) (576p)
 https://s6.hopslan.com/tlcX/index.m3u8
-#EXTINF:-1 tvg-id="TortuesNinjaTV.de@FR" tvg-logo="https://images.pluto.tv/channels/5f8ecc1b37867f00071469e9/colorLogoPNG.png" group-title="ألمانيا (DE)",Tortues Ninja TV (Germany) (720p)
-https://jmp2.uk/plu-5f8ecc1b37867f00071469e9.m3u8
-#EXTINF:-1 tvg-id="TotallyTurtles.de@DACH" tvg-logo="https://images.pluto.tv/channels/5d6792bd6be2998ad0ccce30/colorLogoPNG.png" group-title="ألمانيا (DE)",Totally Turtles (Germany) (720p)
-https://jmp2.uk/plu-5d6792bd6be2998ad0ccce30.m3u8
-#EXTINF:-1 tvg-id="TotallyTurtles.de@GB" tvg-logo="https://images.pluto.tv/channels/5d6792bd6be2998ad0ccce30/colorLogoPNG.png" group-title="ألمانيا (DE)",Totally Turtles (Germany) GB
-https://jmp2.uk/plu-656ef4af4261ca00083c8f37.m3u8
 #EXTINF:-1 tvg-id="ToutlemondedetesteChris.de@FR" tvg-logo="https://images.pluto.tv/channels/67b4b4a21a5ca760802d25fd/colorLogoPNG_1747394750060.png" group-title="ألمانيا (DE)",Tout le monde deteste Chris
 https://jmp2.uk/plu-67b4b4a21a5ca760802d25fd.m3u8
 #EXTINF:-1 tvg-id="TrueCrimebyPlutoTV.de@FR" tvg-logo="https://images.pluto.tv/channels/5f914f4b36d67d0007a91a04/colorLogoPNG.png" group-title="ألمانيا (DE)",True Crime by Pluto TV
@@ -2995,8 +2957,8 @@ https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
 https://cdn.jsdelivr.net/gh/Ignac16/voxel-tv@main/src/constants/channels/a3s.mpd
 #EXTINF:-1 tvg-id="Atreseries.es@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/960px-Atreseries_2020_logo.svg.png" group-title="إسبانيا (ES)",Atreseries HD (1080p)
 https://ignac16.github.io/voxel-tv-streams/a3s.mpd
-#EXTINF:-1 tvg-id="AXN.es@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" group-title="إسبانيا (ES)",AXN (Spain)
-http://sultanios.alwaysdata.net/vavo.php?ID=4238619703
+#EXTINF:-1 tvg-id="AXN.es@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" group-title="إسبانيا (ES)",AXN (Spain) (1080p)
+https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F4238619703
 #EXTINF:-1 tvg-id="AXN.es@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" group-title="إسبانيا (ES)",AXN (Spain) HD (1080p)
 http://90.170.214.40:9700/stream/avatel/axn/master.m3u8
 #EXTINF:-1 tvg-id="AXNCEE.es@Hungary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" group-title="إسبانيا (ES)",like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="Movies",AXN CEE
@@ -3007,8 +2969,6 @@ http://85.11.144.9:4222/AXN
 http://88.212.15.50/live/test_axn/playlist.m3u8
 #EXTINF:-1 tvg-id="AXNCEE.es@Romania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" group-title="إسبانيا (ES)",like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18" group-title="Movies",AXN CEE Romania
 https://cronos.mangora1.cfd/axy/usergend3h5jkc9rnd.m3u8
-#EXTINF:-1 tvg-id="AXNMovies.es@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d2/AXN_Movies_logo.svg/revision/latest/scale-to-width-down/512" group-title="إسبانيا (ES)",AXN Movies (Spain)
-http://sultanios.alwaysdata.net/vavo.php?ID=2493319111
 #EXTINF:-1 tvg-id="BailenTV.es@SD" tvg-logo="https://i.imgur.com/a64hwzq.png" group-title="إسبانيا (ES)",Bailen TV (720p) [Not 24/7]
 http://cpd.bailen.tv:8080/Playlist_CANAL_24H/playlist.m3u8
 #EXTINF:-1 tvg-id="BarcaTV.es@SD" tvg-logo="https://i.imgur.com/d8x7c8i.png" group-title="إسبانيا (ES)",Barca TV
@@ -3663,6 +3623,8 @@ https://r.il.cdn-redge.media/livehls/oil/freetv/live/music_il/live.livx/playlist
 https://r.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="One2.il@SD" tvg-logo="https://i.imgur.com/JQLhYEs.png" group-title="إسرائيل (IL)",One 2
 https://r.il.cdn-redge.media/livehls/oil/freetv/live/one_2/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="One.il@SD" tvg-logo="https://i.imgur.com/hYrP2P0.png" group-title="إسرائيل (IL)",One (Israel)
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/one_1/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="OneDoco.il@SD" tvg-logo="https://images.open-epg.com/18748370.png" group-title="إسرائيل (IL)",One Doco
 https://r.il.cdn-redge.media/livehls/oil/freetv/live/one_doco/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="OneEdge.il@SD" tvg-logo="https://images.open-epg.com/x1761.png" group-title="إسرائيل (IL)",One Edge
@@ -4313,8 +4275,6 @@ https://boing.akamaized.net/6380392800112/eu-central-1/6284318116001/eyJhbGciOiJ
 http://95.141.36.9:8080/stream/181/index.m3u8
 #EXTINF:-1 tvg-id="BomChannel.it@SD" tvg-logo="https://bomchannel.it/wp-content/uploads/2025/02/Tavola-disegno-1-768x432.png" group-title="إيطاليا (IT)",Bom Channel (720p)
 https://5f22d76e220e1.streamlock.net/canale6/canale6/playlist.m3u8
-#EXTINF:-1 tvg-id="Boomerang.it@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/960px-Boomerang_2014_logo.svg.png" group-title="إيطاليا (IT)",Boomerang (Italy)
-http://sultanios.alwaysdata.net/vavo.php?ID=2705627802
 #EXTINF:-1 tvg-id="CacciaePesca.it@SD" tvg-logo="https://i.imgur.com/uZr0cXB.png" group-title="إيطاليا (IT)",Caccia e Pesca (720p)
 http://102.129.186.182:81/cacciapesca/index.m3u8
 #EXTINF:-1 tvg-id="CafeTV24.it@SD" tvg-logo="https://i.imgur.com/SRFzjja.png" group-title="إيطاليا (IT)",CafeTV24 (720p)
@@ -4705,6 +4665,8 @@ http://109.169.87.42:8080/stream/22/index.m3u8
 http://109.169.87.42:8080/stream/30/index.m3u8
 #EXTINF:-1 tvg-id="SkyCinemaUno.it@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Sky_Cinema_Uno_-_Logo_2021.svg/960px-Sky_Cinema_Uno_-_Logo_2021.svg.png" group-title="إيطاليا (IT)",like Gecko) Chrome/156.0.0.0 Safari/537.36" group-title="Movies",Sky Cinema Uno
 http://109.169.87.42:8080/stream/2/index.m3u8
+#EXTINF:-1 tvg-id="SkySportF1.it@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/960px-Sky_Sport_F1_-_Logo_2020.svg.png" group-title="إيطاليا (IT)",Sky Sport F1 (Italy)
+https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F22890389722acc4573933d
 #EXTINF:-1 tvg-id="SophiaTV.it@SD" tvg-logo="https://i.imgur.com/RPXusvS.png" group-title="إيطاليا (IT)",Sophia TV (Italy) (720p)
 https://bild-und-ton.stream/sophiatv-it/smil:sophia-tv-it.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Sportitalia24.it@SD" tvg-logo="https://i.imgur.com/RSwnoLn.png" group-title="إيطاليا (IT)",Sportitalia 24 (720p) [Geo-blocked]
@@ -5631,6 +5593,8 @@ https://ogc-nsprt-tcl-roku-syndication.otteravision.com/ogc/nsprt/nsprt.m3u8
 https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8
 #EXTINF:-1 tvg-id="NickOnline.br@HD" tvg-logo="https://x1colegal.com/logo.png" group-title="البرازيل (BR)",NickOnline HD (720p)
 https://x1colegal.com/hls/stream.m3u8
+#EXTINF:-1 tvg-id="NickOnlineBobEsponja.br@HD" tvg-logo="https://x1colegal.com/nickonlinebobesponja.png" group-title="البرازيل (BR)",NickOnline Bob Esponja [Not 24/7]
+https://bob.x1colegal.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="NovaEraTV.br@SD" tvg-logo="https://i.imgur.com/IK3F9Uq.png" group-title="البرازيل (BR)",Nova Era TV (1080p) [Not 24/7]
 http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8
 #EXTINF:-1 tvg-id="NovoTempo.br@SD" group-title="البرازيل (BR)",Novo Tempo (720p)
@@ -5995,7 +5959,7 @@ https://live-tv.waytv.pt/adbtv/adbtv/playlist.m3u8
 https://playout172.livextend.cloud/liveiframe/_definst_/liveartvabr/playlist.m3u8
 #EXTINF:-1 tvg-id="AXN.pt@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" group-title="البرتغال (PT)",AXN (Portugal) (1080p)
 http://188.115.15.121:8000/play/a02z
-#EXTINF:-1 tvg-id="AXNMovies.pt@SD" tvg-logo="https://i.imgur.com/tJQckal.png" group-title="البرتغال (PT)",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",AXN Movies (Portugal) (720p)
+#EXTINF:-1 tvg-id="AXNMovies.pt@SD" tvg-logo="https://i.imgur.com/tJQckal.png" group-title="البرتغال (PT)",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",AXN Movies (720p)
 http://50.7.120.34:8080/AXN_BLACK/index.m3u8
 #EXTINF:-1 tvg-id="CNNPortugal.pt@SD" tvg-logo="https://i.imgur.com/bc6tYVZ.png" group-title="البرتغال (PT)",CNN Portugal (720p)
 https://github.com/thomraider12/canaistvpt/raw/main/m3u8s/cnnpt.m3u8
@@ -6029,6 +5993,8 @@ https://w2.manasat.com/iglesia-online/smil:iglesia-online.smil/playlist.m3u8
 https://w1.manasat.com/igrejaonline/smil:igrejaonline.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ManaTserkovOnlayn.pt@SD" tvg-logo="https://i.imgur.com/PruXLqS.png" group-title="البرتغال (PT)",Mana Tserkov' Onlayn (1080p) [Not 24/7]
 https://w2.manasat.com/tserkov-online/smil:tserkov-online.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.pt@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/960px-Nickelodeon_2009_logo.svg.png" group-title="البرتغال (PT)",Nickelodeon (Portugal)
+https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F398241518529a84217dd1f
 #EXTINF:-1 tvg-id="NPCRadioeTV.pt@SD" tvg-logo="https://i.imgur.com/mw1lYWE.png" group-title="البرتغال (PT)",NPC Radio e TV (720p)
 https://stmv5.samcast.com.br/nasciparacantartv/nasciparacantartv/playlist.m3u8
 #EXTINF:-1 tvg-id="ONFM.pt@SD" tvg-logo="https://onfmwordpressfiles.ams3.digitaloceanspaces.com/wp-content/uploads/2023/03/17130121/logo-on-fm.png" group-title="البرتغال (PT)",ON FM (720p)
@@ -6113,12 +6079,6 @@ https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/tvificcao.m
 https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/tvireality.m3u8
 #EXTINF:-1 tvg-id="VPlusTVI.pt@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/ef/V%2BTVI_Logo.png" group-title="البرتغال (PT)",V+ TVI (720p)
 https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/vmaistvi.m3u8
-#EXTINF:-1 tvg-id="AdriaticSport1.ba@SD" tvg-logo="https://channels2.digital.ugbb.net/wp-content/uploads/2022/04/logo-adriatic-sport-1.png" group-title="البوسنة والهرسك (BA)",Adriatic Sport 1
-http://sultanios.alwaysdata.net/vavo.php?ID=3645291205
-#EXTINF:-1 tvg-id="AdriaticSport2.ba@SD" tvg-logo="https://channels2.digital.ugbb.net/wp-content/uploads/2022/04/logo-adriatic-sport-2.png" group-title="البوسنة والهرسك (BA)",Adriatic Sport 2
-http://sultanios.alwaysdata.net/vavo.php?ID=2665922581
-#EXTINF:-1 tvg-id="AdriaticSport3.ba@SD" tvg-logo="https://channels2.digital.ugbb.net/wp-content/uploads/2022/04/logo-adriatic-sport-3.png" group-title="البوسنة والهرسك (BA)",Adriatic Sport 3
-http://sultanios.alwaysdata.net/vavo.php?ID=2743527845
 #EXTINF:-1 tvg-id="BHRT.ba@SD" tvg-logo="https://i.imgur.com/01bZ5rw.png" group-title="البوسنة والهرسك (BA)",BHRT (720p) [Geo-blocked]
 https://bhrtstream.bhtelecom.ba/bhrtportal.m3u8
 #EXTINF:-1 tvg-id="BHT1.ba@SD" tvg-logo="https://i.imgur.com/LEwlEEE.png" group-title="البوسنة والهرسك (BA)",like Gecko) Version/17.10 Safari/605.1.1" group-title="General",BHT 1 (720p)
@@ -6523,12 +6483,6 @@ https://jmp2.uk/plu-65b1077e0d9ab40008245b20.m3u8
 https://jmp2.uk/plu-65e97d760d456100082da660.m3u8
 #EXTINF:-1 tvg-id="BestofParadiseHotelSkolveckan.se@SE" tvg-logo="https://images.pluto.tv/channels/65e97cd118036500082ed0ce/colorLogoPNG.png" group-title="السويد (SE)",Best of Paradise Hotel: Skolveckan
 https://jmp2.uk/plu-65e97cd118036500082ed0ce.m3u8
-#EXTINF:-1 tvg-id="BestofTheDrewBarrymoreShow.se@SE" tvg-logo="https://images.pluto.tv/channels/62beb692cda2b10007d5fd76/colorLogoPNG.png" group-title="السويد (SE)",Best of The Drew Barrymore Show (Sweden)
-https://jmp2.uk/plu-630483153a21200007f1920f.m3u8
-#EXTINF:-1 tvg-id="BestofTheDrewBarrymoreShow.se@DK" tvg-logo="https://images.pluto.tv/channels/62beb692cda2b10007d5fd76/colorLogoPNG.png" group-title="السويد (SE)",Best of The Drew Barrymore Show (Sweden) DK
-https://jmp2.uk/plu-62beb692cda2b10007d5fd76.m3u8
-#EXTINF:-1 tvg-id="BestofTheDrewBarrymoreShow.se@NO" tvg-logo="https://images.pluto.tv/channels/62beb692cda2b10007d5fd76/colorLogoPNG.png" group-title="السويد (SE)",Best of The Drew Barrymore Show (Sweden) NO
-https://jmp2.uk/plu-630478cfdb5a4a0007ec255e.m3u8
 #EXTINF:-1 tvg-id="BET.se@SE" tvg-logo="https://images.pluto.tv/channels/61c1939b8929e40007ff6382/colorLogoPNG.png" group-title="السويد (SE)",BET
 https://jmp2.uk/plu-61c187ef1efe1b0007571711.m3u8
 #EXTINF:-1 tvg-id="BET.se@DK" tvg-logo="https://images.pluto.tv/channels/61c1939b8929e40007ff6382/colorLogoPNG.png" group-title="السويد (SE)",BET DK
@@ -6541,12 +6495,6 @@ https://jmp2.uk/plu-61c1dc21b9587d0007e3fc15.m3u8
 https://jmp2.uk/plu-63c6a1c46d126a000760b91c.m3u8
 #EXTINF:-1 tvg-id="Boligkobiblinde.se@DK" tvg-logo="https://images.pluto.tv/channels/63c6a27a4faf1c0007b48f7b/colorLogoPNG.png" group-title="السويد (SE)",Boligkob i blinde
 https://jmp2.uk/plu-63c6a27a4faf1c0007b48f7b.m3u8
-#EXTINF:-1 tvg-id="BondiRescue.se@SE" tvg-logo="https://images.pluto.tv/channels/660d66be7bcd8600087cfee5/colorLogoPNG.png" group-title="السويد (SE)",Bondi Rescue (Sweden) (720p)
-https://jmp2.uk/plu-660d67eec8311c0008b8c3f7.m3u8
-#EXTINF:-1 tvg-id="BondiRescue.se@DK" tvg-logo="https://images.pluto.tv/channels/660d66be7bcd8600087cfee5/colorLogoPNG.png" group-title="السويد (SE)",Bondi Rescue (Sweden) DK (720p)
-https://jmp2.uk/plu-660d66be7bcd8600087cfee5.m3u8
-#EXTINF:-1 tvg-id="BondiRescue.se@NO" tvg-logo="https://images.pluto.tv/channels/660d66be7bcd8600087cfee5/colorLogoPNG.png" group-title="السويد (SE)",Bondi Rescue (Sweden) NO (720p)
-https://jmp2.uk/plu-660d67c419ca71000849a4e9.m3u8
 #EXTINF:-1 tvg-id="Breinholts.se@DK" tvg-logo="https://images.pluto.tv/channels/660d6c0094db140008fe2f74/colorLogoPNG.png" group-title="السويد (SE)",Breinholts
 https://jmp2.uk/plu-660d6c0094db140008fe2f74.m3u8
 #EXTINF:-1 tvg-id="BritainsNextTopModel.se@SE" tvg-logo="https://images.pluto.tv/channels/67a09ddc21af380008088dc3/colorLogoPNG.png" group-title="السويد (SE)",Britain's Next Top Model
@@ -6575,12 +6523,6 @@ https://jmp2.uk/plu-63c6a7544faf1c0007b496d7.m3u8
 https://jmp2.uk/plu-6400bf66dff38e00083f4ee8.m3u8
 #EXTINF:-1 tvg-id="CampKulinaris.se@NO" tvg-logo="https://images.pluto.tv/channels/61c1dce2fb9ae40007d0ac15/colorLogoPNG.png" group-title="السويد (SE)",Camp Kulinaris NO
 https://jmp2.uk/plu-61c1dce2fb9ae40007d0ac15.m3u8
-#EXTINF:-1 tvg-id="CarChase.se@SE" tvg-logo="https://images.pluto.tv/channels/65a93b0607e03a000895abda/colorLogoPNG.png" group-title="السويد (SE)",Car Chase (Sweden) (720p)
-https://jmp2.uk/plu-65a93be02fac9c00083cbac4.m3u8
-#EXTINF:-1 tvg-id="CarChase.se@DK" tvg-logo="https://images.pluto.tv/channels/65a93b0607e03a000895abda/colorLogoPNG.png" group-title="السويد (SE)",Car Chase (Sweden) DK (720p)
-https://jmp2.uk/plu-65a93b0607e03a000895abda.m3u8
-#EXTINF:-1 tvg-id="CarChase.se@NO" tvg-logo="https://images.pluto.tv/channels/65a93b0607e03a000895abda/colorLogoPNG.png" group-title="السويد (SE)",Car Chase (Sweden) NO (720p)
-https://jmp2.uk/plu-65a93b870c7ff50008d1ca47.m3u8
 #EXTINF:-1 tvg-id="CarolineintheCity.se@SE" tvg-logo="https://images.pluto.tv/channels/66a7aa44cd0d31000843942b/colorLogoPNG.png" group-title="السويد (SE)",Caroline in the City
 https://jmp2.uk/plu-66a7ab4dcd0d3100084395b4.m3u8
 #EXTINF:-1 tvg-id="CarolineintheCity.se@DK" tvg-logo="https://images.pluto.tv/channels/66a7aa44cd0d31000843942b/colorLogoPNG.png" group-title="السويد (SE)",Caroline in the City DK
@@ -6595,8 +6537,6 @@ https://jmp2.uk/plu-65e976ad0d456100082d9b74.m3u8
 https://jmp2.uk/plu-65e977a618036500082ec972.m3u8
 #EXTINF:-1 tvg-id="Charterfeber.se@NO" tvg-logo="https://images.pluto.tv/channels/61c1dda0fe470d00080f85b8/colorLogoPNG.png" group-title="السويد (SE)",Charterfeber
 https://jmp2.uk/plu-61c1dda0fe470d00080f85b8.m3u8
-#EXTINF:-1 tvg-id="Cheers.se@NO" tvg-logo="https://images.pluto.tv/channels/642e9575af2bd900088527dd/colorLogoPNG.png" group-title="السويد (SE)",Cheers (Sweden) NO
-https://jmp2.uk/plu-63e389dcc111bc0008ee5b8c.m3u8
 #EXTINF:-1 tvg-id="ComedyCentral.se@SE" tvg-logo="https://images.pluto.tv/channels/61c0989431084d0007eab12d/colorLogoPNG.png" group-title="السويد (SE)",Comedy Central (Sweden)
 https://jmp2.uk/plu-61c0b550e0d3a700072b6a2a.m3u8
 #EXTINF:-1 tvg-id="ComedyCentral.se@DK" tvg-logo="https://images.pluto.tv/channels/61c0989431084d0007eab12d/colorLogoPNG.png" group-title="السويد (SE)",Comedy Central (Sweden) DK (720p)
@@ -6609,8 +6549,6 @@ https://jmp2.uk/plu-693ae5b792fad2e93412a2c7.m3u8
 https://jmp2.uk/plu-693ae5660eedebc8d5db6579.m3u8
 #EXTINF:-1 tvg-id="CrazyExGirlfriend.se@NO" tvg-logo="https://images.pluto.tv/channels/693ae5660eedebc8d5db6579/colorLogoPNG_1770039249880.png" group-title="السويد (SE)",Crazy Ex-Girlfriend NO
 https://jmp2.uk/plu-693ae58fc2d0f38be38df821.m3u8
-#EXTINF:-1 tvg-id="CSI.se@DK" tvg-logo="https://images.pluto.tv/channels/6525419dc52b3600083db9c3/colorLogoPNG.png" group-title="السويد (SE)",CSI (Sweden)
-https://jmp2.uk/plu-6525419dc52b3600083db9c3.m3u8
 #EXTINF:-1 tvg-id="DallasCowboysCheerleaders.se@SE" tvg-logo="https://images.pluto.tv/channels/64e87c6b28cec700088ceb55/colorLogoPNG.png" group-title="السويد (SE)",Dallas Cowboys Cheerleaders
 https://jmp2.uk/plu-64e7715c4c5ed800081230e4.m3u8
 #EXTINF:-1 tvg-id="DallasCowboysCheerleaders.se@DK" tvg-logo="https://images.pluto.tv/channels/64e87c6b28cec700088ceb55/colorLogoPNG.png" group-title="السويد (SE)",Dallas Cowboys Cheerleaders DK
@@ -6631,14 +6569,6 @@ https://jmp2.uk/plu-66b22714d512590008c3d573.m3u8
 https://jmp2.uk/plu-660d6bc10cd4630008f4a25a.m3u8
 #EXTINF:-1 tvg-id="DiTV.se@SD" tvg-logo="https://i.imgur.com/zApTDWn.png" group-title="السويد (SE)",Di TV (1080p)
 https://cdn0-03837-liveedge0.dna.ip-only.net/03837-liveedge0/smil:03837-tx4/playlist.m3u8
-#EXTINF:-1 tvg-id="DiagnosisMurder.se@SE" tvg-logo="https://images.pluto.tv/channels/668bf7dd74f5ec000817e6d1/colorLogoPNG.png" group-title="السويد (SE)",Diagnosis Murder
-https://jmp2.uk/plu-668bf9be0642e5000815102d.m3u8
-#EXTINF:-1 tvg-id="DiagnosisMurder.se@DK" tvg-logo="https://images.pluto.tv/channels/668bf7dd74f5ec000817e6d1/colorLogoPNG.png" group-title="السويد (SE)",Diagnosis Murder DK
-https://jmp2.uk/plu-668bf7dd74f5ec000817e6d1.m3u8
-#EXTINF:-1 tvg-id="DiagnosisMurder.se@NO" tvg-logo="https://images.pluto.tv/channels/668bf7dd74f5ec000817e6d1/colorLogoPNG.png" group-title="السويد (SE)",Diagnosis Murder NO
-https://jmp2.uk/plu-668bf91208d5490008065ffd.m3u8
-#EXTINF:-1 tvg-id="DocMartin.se@SE" tvg-logo="https://images.pluto.tv/channels/62724ae034f5190007b63424/colorLogoPNG.png" group-title="السويد (SE)",Doc Martin (Sweden)
-https://jmp2.uk/plu-62b1e5e77d15410007f798c6.m3u8
 #EXTINF:-1 tvg-id="EventyrligOppussing.se@NO" tvg-logo="https://images.pluto.tv/channels/61c1de93244e500007581d69/colorLogoPNG.png" group-title="السويد (SE)",Eventyrlig Oppussing
 https://jmp2.uk/plu-61c1de93244e500007581d69.m3u8
 #EXTINF:-1 tvg-id="EverybodyHatesChris.se@SE" tvg-logo="https://images.pluto.tv/channels/63a1cab19ab2df0007bf1c8b/colorLogoPNG.png" group-title="السويد (SE)",Everybody Hates Chris
@@ -6651,12 +6581,6 @@ https://jmp2.uk/plu-697b5a6c9567bf7b5f71a350.m3u8
 https://cdn0-03837-liveedge0.dna.ip-only.net/03837-liveedge0/smil:03837-tx2/playlist.m3u8
 #EXTINF:-1 tvg-id="FamilienfraBryggen.se@DK" tvg-logo="https://images.pluto.tv/channels/61c19c8c9863900007acaa57/colorLogoPNG.png" group-title="السويد (SE)",Familien fra Bryggen
 https://jmp2.uk/plu-61c19c8c9863900007acaa57.m3u8
-#EXTINF:-1 tvg-id="FamilyTies.se@SE" tvg-logo="https://images.pluto.tv/channels/654a4a3ef91d250008ac089b/colorLogoPNG.png" group-title="السويد (SE)",Family Ties (Sweden)
-https://jmp2.uk/plu-654a510d986ad20008a45874.m3u8
-#EXTINF:-1 tvg-id="FamilyTies.se@DK" tvg-logo="https://images.pluto.tv/channels/654a4a3ef91d250008ac089b/colorLogoPNG.png" group-title="السويد (SE)",Family Ties (Sweden) DK
-https://jmp2.uk/plu-654a4a3ef91d250008ac089b.m3u8
-#EXTINF:-1 tvg-id="FamilyTies.se@NO" tvg-logo="https://images.pluto.tv/channels/654a4a3ef91d250008ac089b/colorLogoPNG.png" group-title="السويد (SE)",Family Ties (Sweden) NO
-https://jmp2.uk/plu-654a4f7bf9cc8200086877d5.m3u8
 #EXTINF:-1 tvg-id="FBoyIsland.se@DK" tvg-logo="https://images.pluto.tv/channels/6790d6c7bc03978b9bfbfd44/colorLogoPNG.png" group-title="السويد (SE)",FBoy Island
 https://jmp2.uk/plu-6790d6c7bc03978b9bfbfd44.m3u8
 #EXTINF:-1 tvg-id="FCKLovinderne.se@DK" tvg-logo="https://images.pluto.tv/channels/68ac5403de4a734954b5ab75/colorLogoPNG_1756124331035.png" group-title="السويد (SE)",FCK Lovinderne
@@ -6665,8 +6589,6 @@ https://jmp2.uk/plu-68ac5403de4a734954b5ab75.m3u8
 https://jmp2.uk/plu-6272511cb389bb0007b30b09.m3u8
 #EXTINF:-1 tvg-id="Forsidefruer.se@DK" tvg-logo="https://images.pluto.tv/channels/61c19dcefbb4b50007d242e1/colorLogoPNG.png" group-title="السويد (SE)",Forsidefruer
 https://jmp2.uk/plu-61c19dcefbb4b50007d242e1.m3u8
-#EXTINF:-1 tvg-id="Frasier.se@DK" tvg-logo="https://images.pluto.tv/channels/6400c095498393000878a634/colorLogoPNG.png" group-title="السويد (SE)",Frasier (Sweden)
-https://jmp2.uk/plu-6400c095498393000878a634.m3u8
 #EXTINF:-1 tvg-id="FrusnaVagar.se@SE" tvg-logo="https://images.pluto.tv/channels/61c19099bf8c520007a93cff/colorLogoPNG.png" group-title="السويد (SE)",Frusna Vagar
 https://jmp2.uk/plu-61c19099bf8c520007a93cff.m3u8
 #EXTINF:-1 tvg-id="GeordieShore.se@SE" tvg-logo="https://images.pluto.tv/channels/6442512cee6a2f0008d3351f/colorLogoPNG.png" group-title="السويد (SE)",Geordie Shore (Sweden)
@@ -6677,12 +6599,6 @@ https://jmp2.uk/plu-6442512cee6a2f0008d3351f.m3u8
 https://jmp2.uk/plu-64424a1d5a0cd500083ed27c.m3u8
 #EXTINF:-1 tvg-id="GustavLinsepaudebane.se@DK" tvg-logo="https://images.pluto.tv/channels/69c290eeed1b1f1acb446dd8/colorLogoPNG_1778675778733.png" group-title="السويد (SE)",Gustav & Linse pa udebane
 https://jmp2.uk/plu-69c290eeed1b1f1acb446dd8.m3u8
-#EXTINF:-1 tvg-id="HappyDays.se@SE" tvg-logo="https://images.pluto.tv/channels/654a4e29ab05240008a18625/colorLogoPNG.png" group-title="السويد (SE)",Happy Days (Sweden)
-https://jmp2.uk/plu-654a52254d6d8f00084eacfc.m3u8
-#EXTINF:-1 tvg-id="HappyDays.se@DK" tvg-logo="https://images.pluto.tv/channels/654a4e29ab05240008a18625/colorLogoPNG.png" group-title="السويد (SE)",Happy Days (Sweden) DK
-https://jmp2.uk/plu-654a4e29ab05240008a18625.m3u8
-#EXTINF:-1 tvg-id="HappyDays.se@NO" tvg-logo="https://images.pluto.tv/channels/654a4e29ab05240008a18625/colorLogoPNG.png" group-title="السويد (SE)",Happy Days (Sweden) NO
-https://jmp2.uk/plu-654a508d986ad20008a456a5.m3u8
 #EXTINF:-1 tvg-id="Hogspanning.se@SE" tvg-logo="https://images.pluto.tv/channels/6537abf42cf1310008441686/colorLogoPNG.png" group-title="السويد (SE)",Hogspanning
 https://jmp2.uk/plu-6537abf42cf1310008441686.m3u8
 #EXTINF:-1 tvg-id="HouseofLies.se@SE" tvg-logo="https://images.pluto.tv/channels/693ae62a43fe00a023e76e0d/colorLogoPNG_1769415649672.png" group-title="السويد (SE)",House of Lies
@@ -6691,24 +6607,6 @@ https://jmp2.uk/plu-693ae6bf0ddf7d2a40b7fd35.m3u8
 https://jmp2.uk/plu-693ae62a43fe00a023e76e0d.m3u8
 #EXTINF:-1 tvg-id="HouseofLies.se@NO" tvg-logo="https://images.pluto.tv/channels/693ae62a43fe00a023e76e0d/colorLogoPNG_1769415649672.png" group-title="السويد (SE)",House of Lies NO
 https://jmp2.uk/plu-693ae65fab5959c036fa6c1e.m3u8
-#EXTINF:-1 tvg-id="iCarly.se@SE" tvg-logo="https://images.pluto.tv/channels/61c0b9aab7facb0007913908/colorLogoPNG.png" group-title="السويد (SE)",iCarly (Sweden)
-https://jmp2.uk/plu-61c185049e0bde0007820039.m3u8
-#EXTINF:-1 tvg-id="iCarly.se@DK" tvg-logo="https://images.pluto.tv/channels/61c0b9aab7facb0007913908/colorLogoPNG.png" group-title="السويد (SE)",iCarly (Sweden) DK
-https://jmp2.uk/plu-61c0b9aab7facb0007913908.m3u8
-#EXTINF:-1 tvg-id="iCarly.se@NO" tvg-logo="https://images.pluto.tv/channels/61c0b9aab7facb0007913908/colorLogoPNG.png" group-title="السويد (SE)",iCarly (Sweden) NO
-https://jmp2.uk/plu-61c1d9b31a9c310008f8ee57.m3u8
-#EXTINF:-1 tvg-id="JAG.se@SE" tvg-logo="https://images.pluto.tv/channels/654a4ab92c1d330008657ae5/colorLogoPNG.png" group-title="السويد (SE)",JAG (Sweden)
-https://jmp2.uk/plu-654a515f986ad20008a4593b.m3u8
-#EXTINF:-1 tvg-id="JAG.se@DK" tvg-logo="https://images.pluto.tv/channels/654a4ab92c1d330008657ae5/colorLogoPNG.png" group-title="السويد (SE)",JAG (Sweden) DK
-https://jmp2.uk/plu-654a4ab92c1d330008657ae5.m3u8
-#EXTINF:-1 tvg-id="JAG.se@NO" tvg-logo="https://images.pluto.tv/channels/654a4ab92c1d330008657ae5/colorLogoPNG.png" group-title="السويد (SE)",JAG (Sweden) NO
-https://jmp2.uk/plu-654a4fc753fc9700083ae79f.m3u8
-#EXTINF:-1 tvg-id="JerseyShore.se@SE" tvg-logo="https://images.pluto.tv/channels/6442508e5a0cd500083edd3c/colorLogoPNG.png" group-title="السويد (SE)",Jersey Shore (Sweden)
-https://jmp2.uk/plu-64424c1be94c380008d0a98c.m3u8
-#EXTINF:-1 tvg-id="JerseyShore.se@DK" tvg-logo="https://images.pluto.tv/channels/6442508e5a0cd500083edd3c/colorLogoPNG.png" group-title="السويد (SE)",Jersey Shore (Sweden) DK
-https://jmp2.uk/plu-6442508e5a0cd500083edd3c.m3u8
-#EXTINF:-1 tvg-id="JerseyShore.se@NO" tvg-logo="https://images.pluto.tv/channels/6442508e5a0cd500083edd3c/colorLogoPNG.png" group-title="السويد (SE)",Jersey Shore (Sweden) NO
-https://jmp2.uk/plu-64424b21e1979c0008379681.m3u8
 #EXTINF:-1 tvg-id="JerseyShoreFamilyVacation.se@SE" tvg-logo="https://images.pluto.tv/channels/6728c831c7626f0008b28127/colorLogoPNG.png" group-title="السويد (SE)",Jersey Shore Family Vacation
 https://jmp2.uk/plu-6728c8b45534bb0008b31f35.m3u8
 #EXTINF:-1 tvg-id="JerseyShoreFamilyVacation.se@DK" tvg-logo="https://images.pluto.tv/channels/6728c831c7626f0008b28127/colorLogoPNG.png" group-title="السويد (SE)",Jersey Shore Family Vacation DK
@@ -6751,12 +6649,6 @@ https://jmp2.uk/plu-61c18f62f5acaf0007f83135.m3u8
 https://jmp2.uk/plu-61c19165decece0007e9b2f3.m3u8
 #EXTINF:-1 tvg-id="LyxfallanNorge.se@SE" tvg-logo="https://images.pluto.tv/channels/67f7d328efc5473b6b4ac5f4/colorLogoPNG_1745915912635.png" group-title="السويد (SE)",Lyxfallan Norge
 https://jmp2.uk/plu-67f7d328efc5473b6b4ac5f4.m3u8
-#EXTINF:-1 tvg-id="MacGyver.se@SE" tvg-logo="https://images.pluto.tv/channels/654a59742c1d33000865a797/colorLogoPNG.png" group-title="السويد (SE)",MacGyver (Sweden)
-https://jmp2.uk/plu-63a19eceb3d0eb0007439c34.m3u8
-#EXTINF:-1 tvg-id="MacGyver.se@DK" tvg-logo="https://images.pluto.tv/channels/654a59742c1d33000865a797/colorLogoPNG.png" group-title="السويد (SE)",MacGyver (Sweden) DK
-https://jmp2.uk/plu-654a59742c1d33000865a797.m3u8
-#EXTINF:-1 tvg-id="MacGyver.se@NO" tvg-logo="https://images.pluto.tv/channels/654a59742c1d33000865a797/colorLogoPNG.png" group-title="السويد (SE)",MacGyver (Sweden) NO
-https://jmp2.uk/plu-654a59d483595c0008187514.m3u8
 #EXTINF:-1 tvg-id="ManwithaPlan.se@SE" tvg-logo="https://images.pluto.tv/channels/678f88bb272ded16b1558c5e/colorLogoPNG.png" group-title="السويد (SE)",Man with a Plan
 https://jmp2.uk/plu-6825efbb9eed174f7ffbe5b0.m3u8
 #EXTINF:-1 tvg-id="ManwithaPlan.se@DK" tvg-logo="https://images.pluto.tv/channels/678f88bb272ded16b1558c5e/colorLogoPNG.png" group-title="السويد (SE)",Man with a Plan DK
@@ -6765,12 +6657,6 @@ https://jmp2.uk/plu-678f88bb272ded16b1558c5e.m3u8
 https://jmp2.uk/plu-6825eeeeb19ce6d4a34ebb2a.m3u8
 #EXTINF:-1 tvg-id="MasterChefDanmarksstorstemadtalenter.se@DK" tvg-logo="https://images.pluto.tv/channels/61c19edbf535220007075c4e/colorLogoPNG.png" group-title="السويد (SE)",MasterChef Danmarks storste madtalenter
 https://jmp2.uk/plu-61c19edbf535220007075c4e.m3u8
-#EXTINF:-1 tvg-id="Matlock.se@SE" tvg-logo="https://images.pluto.tv/channels/66290a779e68c20008a18cf3/colorLogoPNG.png" group-title="السويد (SE)",Matlock (Sweden)
-https://jmp2.uk/plu-66290c12801af8000850c1a9.m3u8
-#EXTINF:-1 tvg-id="Matlock.se@DK" tvg-logo="https://images.pluto.tv/channels/66290a779e68c20008a18cf3/colorLogoPNG.png" group-title="السويد (SE)",Matlock (Sweden) DK
-https://jmp2.uk/plu-66290a779e68c20008a18cf3.m3u8
-#EXTINF:-1 tvg-id="Matlock.se@NO" tvg-logo="https://images.pluto.tv/channels/66290a779e68c20008a18cf3/colorLogoPNG.png" group-title="السويد (SE)",Matlock (Sweden) NO
-https://jmp2.uk/plu-66290b7523e24f000832cc17.m3u8
 #EXTINF:-1 tvg-id="Medknivenforstruben.se@DK" tvg-logo="https://images.pluto.tv/channels/63e3b33e8795f300087e6a46/colorLogoPNG.png" group-title="السويد (SE)",Med kniven for struben
 https://jmp2.uk/plu-63e3b33e8795f300087e6a46.m3u8
 #EXTINF:-1 tvg-id="Medium.se@SE" tvg-logo="https://images.pluto.tv/channels/68f0f54ca362b63a8df4d5a9/colorLogoPNG_1760622009795.png" group-title="السويد (SE)",Medium (Sweden)
@@ -6787,64 +6673,24 @@ https://jmp2.uk/plu-63048147b09fd60007847a08.m3u8
 https://jmp2.uk/plu-63047bd6b0726b000795341d.m3u8
 #EXTINF:-1 tvg-id="MiracleChannel.se@SD" tvg-logo="https://i.imgur.com/yrt7Rw9.png" group-title="السويد (SE)",Miracle Channel (1080p)
 https://live.miracleonline.org/hls/miracle1.m3u8
-#EXTINF:-1 tvg-id="MissionImpossible.se@SE" tvg-logo="https://images.pluto.tv/channels/6478a9e4f77b61000817034b/colorLogoPNG.png" group-title="السويد (SE)",Mission Impossible (Sweden)
-https://jmp2.uk/plu-639b4f14be012600070fe1be.m3u8
-#EXTINF:-1 tvg-id="MissionImpossible.se@DK" tvg-logo="https://images.pluto.tv/channels/6478a9e4f77b61000817034b/colorLogoPNG.png" group-title="السويد (SE)",Mission Impossible (Sweden) DK
-https://jmp2.uk/plu-6478a9e4f77b61000817034b.m3u8
-#EXTINF:-1 tvg-id="MissionImpossible.se@NO" tvg-logo="https://images.pluto.tv/channels/6478a9e4f77b61000817034b/colorLogoPNG.png" group-title="السويد (SE)",Mission Impossible (Sweden) NO
-https://jmp2.uk/plu-639b4eb4da3fda0008036f6e.m3u8
 #EXTINF:-1 tvg-id="Mitplastikmareridt.se@DK" tvg-logo="https://images.pluto.tv/channels/643814ef479f6400086ff043/colorLogoPNG.png" group-title="السويد (SE)",Mit plastikmareridt
 https://jmp2.uk/plu-643814ef479f6400086ff043.m3u8
-#EXTINF:-1 tvg-id="MTVCatfish.se@SE" tvg-logo="https://images.pluto.tv/channels/6177fe76691b2e000702c7fc/colorLogoPNG_1750864554364.png" group-title="السويد (SE)",MTV Catfish (Sweden) (720p)
-https://jmp2.uk/plu-61780d4267bf4d00077ddd73.m3u8
-#EXTINF:-1 tvg-id="MTVCatfish.se@DK" tvg-logo="https://images.pluto.tv/channels/6177fe76691b2e000702c7fc/colorLogoPNG_1750864554364.png" group-title="السويد (SE)",MTV Catfish (Sweden) DK (720p)
-https://jmp2.uk/plu-6177fe76691b2e000702c7fc.m3u8
-#EXTINF:-1 tvg-id="MTVCatfish.se@NO" tvg-logo="https://images.pluto.tv/channels/6177fe76691b2e000702c7fc/colorLogoPNG_1750864554364.png" group-title="السويد (SE)",MTV Catfish (Sweden) NO
-https://jmp2.uk/plu-61781a52a3638a00078fa57e.m3u8
-#EXTINF:-1 tvg-id="MTVDating.se@SE" tvg-logo="https://images.pluto.tv/channels/6851407c21f49d1b9d177493/colorLogoPNG_1750843393149.png" group-title="السويد (SE)",MTV Dating (Sweden) (720p)
-https://jmp2.uk/plu-685140f121f49d1b9d178249.m3u8
-#EXTINF:-1 tvg-id="MTVDating.se@DK" tvg-logo="https://images.pluto.tv/channels/6851407c21f49d1b9d177493/colorLogoPNG_1750843393149.png" group-title="السويد (SE)",MTV Dating (Sweden) DK (720p)
-https://jmp2.uk/plu-6851407c21f49d1b9d177493.m3u8
-#EXTINF:-1 tvg-id="MTVDating.se@NO" tvg-logo="https://images.pluto.tv/channels/6851407c21f49d1b9d177493/colorLogoPNG_1750843393149.png" group-title="السويد (SE)",MTV Dating (Sweden) NO (720p)
-https://jmp2.uk/plu-685140bd21f49d1b9d177e21.m3u8
 #EXTINF:-1 tvg-id="MTVExOnTheBeach.se@SE" tvg-logo="https://images.pluto.tv/channels/61c0909b872c650008ed42e4/colorLogoPNG.png" group-title="السويد (SE)",MTV Ex On The Beach
 https://jmp2.uk/plu-61c09072a09bbe00078f5692.m3u8
 #EXTINF:-1 tvg-id="MTVExOnTheBeach.se@DK" tvg-logo="https://images.pluto.tv/channels/61c0909b872c650008ed42e4/colorLogoPNG.png" group-title="السويد (SE)",MTV Ex On The Beach DK
 https://jmp2.uk/plu-61c0909b872c650008ed42e4.m3u8
 #EXTINF:-1 tvg-id="MTVExOnTheBeach.se@NO" tvg-logo="https://images.pluto.tv/channels/61c0909b872c650008ed42e4/colorLogoPNG.png" group-title="السويد (SE)",MTV Ex On The Beach NO
 https://jmp2.uk/plu-61c1d66518447e000717e4c2.m3u8
-#EXTINF:-1 tvg-id="MTVReality.se@SE" tvg-logo="https://images.pluto.tv/channels/685137f4a1e091e16f2dd471/colorLogoPNG_1780301718240.png" group-title="السويد (SE)",MTV Reality (Sweden) (720p)
-https://jmp2.uk/plu-685139b0f7d8b74b62f41c96.m3u8
-#EXTINF:-1 tvg-id="MTVReality.se@DK" tvg-logo="https://images.pluto.tv/channels/685137f4a1e091e16f2dd471/colorLogoPNG_1780301718240.png" group-title="السويد (SE)",MTV Reality (Sweden) DK (720p)
-https://jmp2.uk/plu-685137f4a1e091e16f2dd471.m3u8
-#EXTINF:-1 tvg-id="MTVReality.se@NO" tvg-logo="https://images.pluto.tv/channels/685137f4a1e091e16f2dd471/colorLogoPNG_1780301718240.png" group-title="السويد (SE)",MTV Reality (Sweden) NO
-https://jmp2.uk/plu-68513950f212bedacf8ec48f.m3u8
-#EXTINF:-1 tvg-id="MTVRidiculousness.se@SE" tvg-logo="https://images.pluto.tv/channels/62cd9641393d8400076f34db/colorLogoPNG_1762770639864.png" group-title="السويد (SE)",MTV Ridiculousness (Sweden) (720p)
-https://jmp2.uk/plu-62cda0dfddc1040008fccacc.m3u8
-#EXTINF:-1 tvg-id="MTVRidiculousness.se@DK" tvg-logo="https://images.pluto.tv/channels/62cd9641393d8400076f34db/colorLogoPNG_1762770639864.png" group-title="السويد (SE)",MTV Ridiculousness (Sweden) DK (720p)
-https://jmp2.uk/plu-62cd9641393d8400076f34db.m3u8
-#EXTINF:-1 tvg-id="MTVRidiculousness.se@NO" tvg-logo="https://images.pluto.tv/channels/62cd9641393d8400076f34db/colorLogoPNG_1762770639864.png" group-title="السويد (SE)",MTV Ridiculousness (Sweden) NO (720p)
-https://jmp2.uk/plu-62cd9e0d10bb020007005628.m3u8
-#EXTINF:-1 tvg-id="MTVTeenMom.se@SE" tvg-logo="https://images.pluto.tv/channels/61c092157e1b8b0007372a35/colorLogoPNG_1748001686588.png" group-title="السويد (SE)",MTV Teen Mom (Sweden) (720p)
-https://jmp2.uk/plu-61c09342b3a6230007a45119.m3u8
-#EXTINF:-1 tvg-id="MTVTeenMom.se@DK" tvg-logo="https://images.pluto.tv/channels/61c092157e1b8b0007372a35/colorLogoPNG_1748001686588.png" group-title="السويد (SE)",MTV Teen Mom (Sweden) DK (720p)
-https://jmp2.uk/plu-61c092157e1b8b0007372a35.m3u8
-#EXTINF:-1 tvg-id="MTVTeenMom.se@NO" tvg-logo="https://images.pluto.tv/channels/61c092157e1b8b0007372a35/colorLogoPNG_1748001686588.png" group-title="السويد (SE)",MTV Teen Mom (Sweden) NO (720p)
-https://jmp2.uk/plu-61c1df62b7672a0007b6c9ba.m3u8
 #EXTINF:-1 tvg-id="MTVTheHills.se@SE" tvg-logo="https://images.pluto.tv/channels/61c09039ebd75200072587f9/colorLogoPNG.png" group-title="السويد (SE)",MTV The Hills
 https://jmp2.uk/plu-61c08d7c73bdb800070eef0a.m3u8
 #EXTINF:-1 tvg-id="MTVTheHills.se@DK" tvg-logo="https://images.pluto.tv/channels/61c09039ebd75200072587f9/colorLogoPNG.png" group-title="السويد (SE)",MTV The Hills DK
 https://jmp2.uk/plu-61c09039ebd75200072587f9.m3u8
 #EXTINF:-1 tvg-id="MTVTheHills.se@NO" tvg-logo="https://images.pluto.tv/channels/61c09039ebd75200072587f9/colorLogoPNG.png" group-title="السويد (SE)",MTV The Hills NO
 https://jmp2.uk/plu-61c1d56f28e94c0007827bdb.m3u8
-#EXTINF:-1 tvg-id="NCIS.se@DK" tvg-logo="https://images.pluto.tv/channels/6319ec31c62c3f00075c90b1/colorLogoPNG.png" group-title="السويد (SE)",NCIS (Sweden)
-https://jmp2.uk/plu-6319ec31c62c3f00075c90b1.m3u8
 #EXTINF:-1 tvg-id="NCISDetbedstemedGibbs.se@DK" tvg-logo="https://images.pluto.tv/channels/6901d952ec12c3c759fdc7cd/colorLogoPNG_1763121346503.png" group-title="السويد (SE)",NCIS: Det bedste med Gibbs
 https://jmp2.uk/plu-6901d952ec12c3c759fdc7cd.m3u8
 #EXTINF:-1 tvg-id="NCISDetbedstemedTonyZiva.se@DK" tvg-logo="https://images.pluto.tv/channels/68921b2f4fa995eff24df6c8/colorLogoPNG_1756105299557.png" group-title="السويد (SE)",NCIS: Det bedste med Tony & Ziva
 https://jmp2.uk/plu-68921b2f4fa995eff24df6c8.m3u8
-#EXTINF:-1 tvg-id="NCISLosAngeles.se@DK" tvg-logo="https://images.pluto.tv/channels/66fbf4d3d7de140008d41f5b/colorLogoPNG.png" group-title="السويد (SE)",NCIS: Los Angeles (Sweden)
-https://jmp2.uk/plu-66fbf4d3d7de140008d41f5b.m3u8
 #EXTINF:-1 tvg-id="NonStopKungFu.se@SE" tvg-logo="https://images.pluto.tv/channels/6728d2be529ac9000830dc15/colorLogoPNG_1732110461260.png" group-title="السويد (SE)",NonStop Kung Fu
 https://jmp2.uk/plu-6728d33f030a2c0008edf4be.m3u8
 #EXTINF:-1 tvg-id="NonStopKungFu.se@DK" tvg-logo="https://images.pluto.tv/channels/6728d2be529ac9000830dc15/colorLogoPNG_1732110461260.png" group-title="السويد (SE)",NonStop Kung Fu DK
@@ -6853,12 +6699,6 @@ https://jmp2.uk/plu-6728d2be529ac9000830dc15.m3u8
 https://jmp2.uk/plu-6728d30cdaad7f000881d979.m3u8
 #EXTINF:-1 tvg-id="NordiskkrimfraViaplay.se@NO" tvg-logo="https://images.pluto.tv/channels/64eca23c9c1e390008524ae6/colorLogoPNG.png" group-title="السويد (SE)",Nordisk krim fra Viaplay
 https://jmp2.uk/plu-64eca23c9c1e390008524ae6.m3u8
-#EXTINF:-1 tvg-id="Numb3rs.se@SE" tvg-logo="https://images.pluto.tv/channels/642e94c1af2bd90008852697/colorLogoPNG_1756716763207.png" group-title="السويد (SE)",Numb3rs
-https://jmp2.uk/plu-63dbe8a1c111bc0008dec8b8.m3u8
-#EXTINF:-1 tvg-id="Numb3rs.se@NO" tvg-logo="https://images.pluto.tv/channels/642e94c1af2bd90008852697/colorLogoPNG_1756716763207.png" group-title="السويد (SE)",Numb3rs NO
-https://jmp2.uk/plu-63dbe78051f5d000083e9249.m3u8
-#EXTINF:-1 tvg-id="Numbers.se@DK" tvg-logo="https://images.pluto.tv/channels/62bebb3a67307900077a7f9d/colorLogoPNG.png" group-title="السويد (SE)",Numbers (Sweden)
-https://jmp2.uk/plu-62bebb3a67307900077a7f9d.m3u8
 #EXTINF:-1 tvg-id="Paradise.se@SE" tvg-logo="https://images.pluto.tv/channels/629e095e511d4b00070c9f44/colorLogoPNG.png" group-title="السويد (SE)",Paradise
 https://jmp2.uk/plu-6380c73f76e43f000721f73b.m3u8
 #EXTINF:-1 tvg-id="Paradise.se@DK" tvg-logo="https://images.pluto.tv/channels/629e095e511d4b00070c9f44/colorLogoPNG.png" group-title="السويد (SE)",Paradise DK
@@ -6871,18 +6711,6 @@ https://jmp2.uk/plu-61c19af83fae0a00078c8918.m3u8
 https://jmp2.uk/plu-61c1db901346480007b7c345.m3u8
 #EXTINF:-1 tvg-id="ParadiseHotelUnderlagnerne.se@DK" tvg-logo="https://images.pluto.tv/channels/662b71658dd8160008fc3abf/colorLogoPNG.png" group-title="السويد (SE)",Paradise Hotel: Under lagnerne
 https://jmp2.uk/plu-662b71658dd8160008fc3abf.m3u8
-#EXTINF:-1 tvg-id="PimpMyRide.se@SE" tvg-logo="https://images.pluto.tv/channels/61c091343bf4940007803e03/colorLogoPNG.png" group-title="السويد (SE)",Pimp My Ride
-https://jmp2.uk/plu-61c09a3894aa450007814aea.m3u8
-#EXTINF:-1 tvg-id="PimpMyRide.se@DK" tvg-logo="https://images.pluto.tv/channels/61c091343bf4940007803e03/colorLogoPNG.png" group-title="السويد (SE)",Pimp My Ride DK
-https://jmp2.uk/plu-61c091343bf4940007803e03.m3u8
-#EXTINF:-1 tvg-id="PimpMyRide.se@NO" tvg-logo="https://images.pluto.tv/channels/61c091343bf4940007803e03/colorLogoPNG.png" group-title="السويد (SE)",Pimp My Ride NO
-https://jmp2.uk/plu-61c1d6e1f5acaf0007f8381d.m3u8
-#EXTINF:-1 tvg-id="PlutoTVAction.se@SE" tvg-logo="https://images.pluto.tv/channels/61c095861782bd000780e0ba/colorLogoPNG.png" group-title="السويد (SE)",Pluto TV Action (Sweden)
-https://jmp2.uk/plu-61c0b0688a80a4000703fbcb.m3u8
-#EXTINF:-1 tvg-id="PlutoTVAction.se@DK" tvg-logo="https://images.pluto.tv/channels/61c095861782bd000780e0ba/colorLogoPNG.png" group-title="السويد (SE)",Pluto TV Action (Sweden) DK
-https://jmp2.uk/plu-61c095861782bd000780e0ba.m3u8
-#EXTINF:-1 tvg-id="PlutoTVAction.se@NO" tvg-logo="https://images.pluto.tv/channels/61c095861782bd000780e0ba/colorLogoPNG.png" group-title="السويد (SE)",Pluto TV Action (Sweden) NO
-https://jmp2.uk/plu-61c1e270489a9c000874d209.m3u8
 #EXTINF:-1 tvg-id="PlutoTVAlienInvasion.se@DK" tvg-logo="https://images.pluto.tv/channels/650999b86a841400083bd1ab/colorLogoPNG.png" group-title="السويد (SE)",Pluto TV Alien Invasion (Sweden)
 https://jmp2.uk/plu-650999b86a841400083bd1ab.m3u8
 #EXTINF:-1 tvg-id="PlutoTVBudTerence.se@SE" tvg-logo="https://images.pluto.tv/channels/64be7398e4391c0008cdedfe/colorLogoPNG_1776936976930.png" group-title="السويد (SE)",Pluto TV Bud & Terence (Sweden)
@@ -6921,14 +6749,6 @@ https://jmp2.uk/plu-68c01bed508ba507f0d0dd60.m3u8
 https://jmp2.uk/plu-68c01afa3efb41cd9759dafb.m3u8
 #EXTINF:-1 tvg-id="PlutoTVHarlequin.se@NO" tvg-logo="https://images.pluto.tv/channels/68c01afa3efb41cd9759dafb/colorLogoPNG_1770018342774.png" group-title="السويد (SE)",Pluto TV Harlequin NO
 https://jmp2.uk/plu-68c01b9a6bdcf3b9a64febcc.m3u8
-#EXTINF:-1 tvg-id="PlutoTVHorror.se@SE" tvg-logo="https://images.pluto.tv/channels/63a1c9790cc44a0007dc8857/colorLogoPNG.png" group-title="السويد (SE)",Pluto TV Horror (Sweden)
-https://jmp2.uk/plu-63a19e1b9ab2df0007bef7a7.m3u8
-#EXTINF:-1 tvg-id="PlutoTVHorror.se@DK" tvg-logo="https://images.pluto.tv/channels/63a1c9790cc44a0007dc8857/colorLogoPNG.png" group-title="السويد (SE)",Pluto TV Horror (Sweden) DK
-https://jmp2.uk/plu-63a1c9790cc44a0007dc8857.m3u8
-#EXTINF:-1 tvg-id="PlutoTVHorror.se@NO" tvg-logo="https://images.pluto.tv/channels/63a1c9790cc44a0007dc8857/colorLogoPNG.png" group-title="السويد (SE)",Pluto TV Horror (Sweden) NO
-https://jmp2.uk/plu-63a19cb7847a090007f230d7.m3u8
-#EXTINF:-1 tvg-id="PlutoTVHumor.se@DK" tvg-logo="https://images.pluto.tv/channels/61c0974945b45d0007aaa5ac/colorLogoPNG.png" group-title="السويد (SE)",Pluto TV Humor (Sweden)
-https://jmp2.uk/plu-61c0974945b45d0007aaa5ac.m3u8
 #EXTINF:-1 tvg-id="PlutoTVJohnWayne.se@SE" tvg-logo="https://images.pluto.tv/channels/655ca7aa635c3c000855d655/colorLogoPNG.png" group-title="السويد (SE)",Pluto TV John Wayne
 https://jmp2.uk/plu-655caaaac0fc8800086f5d99.m3u8
 #EXTINF:-1 tvg-id="PlutoTVJohnWayne.se@DK" tvg-logo="https://images.pluto.tv/channels/655ca7aa635c3c000855d655/colorLogoPNG.png" group-title="السويد (SE)",Pluto TV John Wayne DK
@@ -6963,22 +6783,12 @@ https://jmp2.uk/plu-68ac51dede4a734954b5a67a.m3u8
 https://jmp2.uk/plu-68ac52b05190a45dc990ee39.m3u8
 #EXTINF:-1 tvg-id="PlutoTVOvernaturlig.se@NO" tvg-logo="https://images.pluto.tv/channels/61c1e74354d923000731bf7c/colorLogoPNG.png" group-title="السويد (SE)",Pluto TV Overnaturlig
 https://jmp2.uk/plu-61c1e74354d923000731bf7c.m3u8
-#EXTINF:-1 tvg-id="PlutoTVParanormal.se@SE" tvg-logo="https://images.pluto.tv/channels/62b30beb81f89900071fc7b9/colorLogoPNG.png" group-title="السويد (SE)",Pluto TV Paranormal (Sweden)
-https://jmp2.uk/plu-62b1e4189f5db20007ff03be.m3u8
-#EXTINF:-1 tvg-id="PlutoTVParanormal.se@DK" tvg-logo="https://images.pluto.tv/channels/62b30beb81f89900071fc7b9/colorLogoPNG.png" group-title="السويد (SE)",Pluto TV Paranormal (Sweden) DK
-https://jmp2.uk/plu-62b30beb81f89900071fc7b9.m3u8
 #EXTINF:-1 tvg-id="PlutoTVRomantik.se@SE" tvg-logo="https://images.pluto.tv/channels/63a1c954d3897300079fcb12/colorLogoPNG_1767773445743.png" group-title="السويد (SE)",Pluto TV Romantik
 https://jmp2.uk/plu-63a19da6847a090007f230da.m3u8
 #EXTINF:-1 tvg-id="PlutoTVRomantik.se@DK" tvg-logo="https://images.pluto.tv/channels/63a1c954d3897300079fcb12/colorLogoPNG_1767773445743.png" group-title="السويد (SE)",Pluto TV Romantik DK
 https://jmp2.uk/plu-63a1c954d3897300079fcb12.m3u8
 #EXTINF:-1 tvg-id="PlutoTVRomantikk.se@NO" tvg-logo="https://images.pluto.tv/channels/63a19bb5e6914b000721b5c0/colorLogoPNG_1767773376618.png" group-title="السويد (SE)",Pluto TV Romantikk
 https://jmp2.uk/plu-63a19bb5e6914b000721b5c0.m3u8
-#EXTINF:-1 tvg-id="PlutoTVSciFi.se@SE" tvg-logo="https://images.pluto.tv/channels/60ed498c4248a400077c0b9d/colorLogoPNG.png" group-title="السويد (SE)",Pluto TV Sci-Fi (Sweden)
-https://jmp2.uk/plu-61f9597e78607000074f6c2a.m3u8
-#EXTINF:-1 tvg-id="PlutoTVSciFi.se@DK" tvg-logo="https://images.pluto.tv/channels/60ed498c4248a400077c0b9d/colorLogoPNG.png" group-title="السويد (SE)",Pluto TV Sci-Fi (Sweden) DK
-https://jmp2.uk/plu-61f9598588f86000078ee7d6.m3u8
-#EXTINF:-1 tvg-id="PlutoTVSciFi.se@NO" tvg-logo="https://images.pluto.tv/channels/60ed498c4248a400077c0b9d/colorLogoPNG.png" group-title="السويد (SE)",Pluto TV Sci-Fi (Sweden) NO
-https://jmp2.uk/plu-61f957e051cca800076f2358.m3u8
 #EXTINF:-1 tvg-id="PlutoTVSnooker900.se@SE" tvg-logo="https://images.pluto.tv/channels/68ac5543a1ac0c90f2c8943e/colorLogoPNG_1760517341343.png" group-title="السويد (SE)",Pluto TV Snooker 900 (Sweden) (720p)
 https://jmp2.uk/plu-68ac56363efb41cd979a8005.m3u8
 #EXTINF:-1 tvg-id="PlutoTVSnooker900.se@DK" tvg-logo="https://images.pluto.tv/channels/68ac5543a1ac0c90f2c8943e/colorLogoPNG_1760517341343.png" group-title="السويد (SE)",Pluto TV Snooker 900 (Sweden) DK (720p)
@@ -7003,12 +6813,6 @@ https://jmp2.uk/plu-61c0b6f028e94c000782684a.m3u8
 https://jmp2.uk/plu-61c09938e0d3a700072b68b1.m3u8
 #EXTINF:-1 tvg-id="PlutoTVTegnefilm.se@NO" tvg-logo="https://images.pluto.tv/channels/61c09938e0d3a700072b68b1/colorLogoPNG_1749627293329.png" group-title="السويد (SE)",Pluto TV Tegnefilm NO (720p)
 https://jmp2.uk/plu-61c1e914bf8c520007a93ff1.m3u8
-#EXTINF:-1 tvg-id="PlutoTVTrueCrime.se@SE" tvg-logo="https://images.pluto.tv/channels/615333098185f00008715a56/colorLogoPNG.png" group-title="السويد (SE)",Pluto TV True Crime (Sweden)
-https://jmp2.uk/plu-61c0b438244e50000758083b.m3u8
-#EXTINF:-1 tvg-id="PlutoTVTrueCrime.se@DK" tvg-logo="https://images.pluto.tv/channels/615333098185f00008715a56/colorLogoPNG.png" group-title="السويد (SE)",Pluto TV True Crime (Sweden) DK
-https://jmp2.uk/plu-61c097ec8bb1830008e3f962.m3u8
-#EXTINF:-1 tvg-id="PlutoTVTrueCrime.se@NO" tvg-logo="https://images.pluto.tv/channels/615333098185f00008715a56/colorLogoPNG.png" group-title="السويد (SE)",Pluto TV True Crime (Sweden) NO
-https://jmp2.uk/plu-61c1e51354d923000731bf78.m3u8
 #EXTINF:-1 tvg-id="PlutoTVUngdomsserier.se@SE" tvg-logo="https://images.pluto.tv/channels/67f3fb1cdea1c5e0d588ac1b/colorLogoPNG_1748270797322.png" group-title="السويد (SE)",Pluto TV Ungdomsserier (720p)
 https://jmp2.uk/plu-67f3fc1707d2ba4121bd34a8.m3u8
 #EXTINF:-1 tvg-id="PlutoTVUngdomsserier.se@DK" tvg-logo="https://images.pluto.tv/channels/67f3fb1cdea1c5e0d588ac1b/colorLogoPNG_1748270797322.png" group-title="السويد (SE)",Pluto TV Ungdomsserier DK (720p)
@@ -7031,12 +6835,6 @@ https://jmp2.uk/plu-68c01785b3900870ec7480e4.m3u8
 https://jmp2.uk/plu-67f79fdb3481170e68c0bc38.m3u8
 #EXTINF:-1 tvg-id="r8DioTV.se@DK" tvg-logo="https://images.pluto.tv/channels/698ddf5a8c21a5f2d64c14a8/colorLogoPNG_1774610552478.png" group-title="السويد (SE)",r8Dio TV
 https://jmp2.uk/plu-698ddf5a8c21a5f2d64c14a8.m3u8
-#EXTINF:-1 tvg-id="Rawhide.se@SE" tvg-logo="https://images.pluto.tv/channels/6964ba787e92438c2754e924/colorLogoPNG_1768209194548.png" group-title="السويد (SE)",Rawhide (Sweden)
-https://jmp2.uk/plu-6964bb3640c8de392514a0c6.m3u8
-#EXTINF:-1 tvg-id="Rawhide.se@DK" tvg-logo="https://images.pluto.tv/channels/6964ba787e92438c2754e924/colorLogoPNG_1768209194548.png" group-title="السويد (SE)",Rawhide (Sweden) DK
-https://jmp2.uk/plu-6964ba787e92438c2754e924.m3u8
-#EXTINF:-1 tvg-id="Rawhide.se@NO" tvg-logo="https://images.pluto.tv/channels/6964ba787e92438c2754e924/colorLogoPNG_1768209194548.png" group-title="السويد (SE)",Rawhide (Sweden) NO
-https://jmp2.uk/plu-6964baa63dfd98e10945ac51.m3u8
 #EXTINF:-1 tvg-id="Reno911.se@SE" tvg-logo="https://images.pluto.tv/channels/65e9766eec9fda0008cb418a/colorLogoPNG.png" group-title="السويد (SE)",Reno 911
 https://jmp2.uk/plu-65e9781a2873090008b48d8a.m3u8
 #EXTINF:-1 tvg-id="Reno911.se@DK" tvg-logo="https://images.pluto.tv/channels/65e9766eec9fda0008cb418a/colorLogoPNG.png" group-title="السويد (SE)",Reno 911 DK
@@ -7069,16 +6867,6 @@ https://jmp2.uk/plu-643810f2e8a4aa0008ccf575.m3u8
 https://jmp2.uk/plu-643808dce0789d00084797f6.m3u8
 #EXTINF:-1 tvg-id="Skonneombygninger.se@DK" tvg-logo="https://images.pluto.tv/channels/61c19d329b8260000744331b/colorLogoPNG.png" group-title="السويد (SE)",Skonne ombygninger
 https://jmp2.uk/plu-61c19d329b8260000744331b.m3u8
-#EXTINF:-1 tvg-id="SmithsonianChannelSelects.se@SE" tvg-logo="https://images.pluto.tv/channels/61fb988e032c0100077d5252/colorLogoPNG.png" group-title="السويد (SE)",Smithsonian Channel Selects (Sweden)
-https://jmp2.uk/plu-61fb9907b1b78d000717ed9f.m3u8
-#EXTINF:-1 tvg-id="SmithsonianChannelSelects.se@DK" tvg-logo="https://images.pluto.tv/channels/61fb988e032c0100077d5252/colorLogoPNG.png" group-title="السويد (SE)",Smithsonian Channel Selects (Sweden) DK
-https://jmp2.uk/plu-61fb988e032c0100077d5252.m3u8
-#EXTINF:-1 tvg-id="SouthPark.se@SE" tvg-logo="https://images.pluto.tv/channels/61c098df897b9d00070375c8/colorLogoPNG_1754471522651.png" group-title="السويد (SE)",South Park (Sweden)
-https://jmp2.uk/plu-61c0b627e3ed94000793c18a.m3u8
-#EXTINF:-1 tvg-id="SouthPark.se@DK" tvg-logo="https://images.pluto.tv/channels/61c098df897b9d00070375c8/colorLogoPNG_1754471522651.png" group-title="السويد (SE)",South Park (Sweden) DK
-https://jmp2.uk/plu-61c098df897b9d00070375c8.m3u8
-#EXTINF:-1 tvg-id="SouthPark.se@NO" tvg-logo="https://images.pluto.tv/channels/61c098df897b9d00070375c8/colorLogoPNG_1754471522651.png" group-title="السويد (SE)",South Park (Sweden) NO
-https://jmp2.uk/plu-61c1e88cd168ea0007068133.m3u8
 #EXTINF:-1 tvg-id="SouthParkArmageddon.se@SE" tvg-logo="https://images.pluto.tv/channels/660bff28516d260008479e23/colorLogoPNG.png" group-title="السويد (SE)",South Park Armageddon
 https://jmp2.uk/plu-660bff7dc8311c0008b4bdb4.m3u8
 #EXTINF:-1 tvg-id="SouthParkArmageddon.se@DK" tvg-logo="https://images.pluto.tv/channels/660bff28516d260008479e23/colorLogoPNG.png" group-title="السويد (SE)",South Park Armageddon DK
@@ -7097,36 +6885,12 @@ https://jmp2.uk/plu-65d881d566eec8000887f6bb.m3u8
 https://jmp2.uk/plu-65d87a66ec9fda0008a5ac11.m3u8
 #EXTINF:-1 tvg-id="SouthParkButtersCollection.se@NO" tvg-logo="https://images.pluto.tv/channels/65d87a66ec9fda0008a5ac11/colorLogoPNG.png" group-title="السويد (SE)",South Park: Butters Collection (Sweden) NO
 https://jmp2.uk/plu-65d87fcb66eec8000887f4aa.m3u8
-#EXTINF:-1 tvg-id="SouthParkCartmanCollection.se@SE" tvg-logo="https://images.pluto.tv/channels/65d87a058145cb0008265c2e/colorLogoPNG.png" group-title="السويد (SE)",South Park: Cartman Collection (Sweden)
-https://jmp2.uk/plu-65d881b1332fec000833a122.m3u8
-#EXTINF:-1 tvg-id="SouthParkCartmanCollection.se@DK" tvg-logo="https://images.pluto.tv/channels/65d87a058145cb0008265c2e/colorLogoPNG.png" group-title="السويد (SE)",South Park: Cartman Collection (Sweden) DK
-https://jmp2.uk/plu-65d87a058145cb0008265c2e.m3u8
-#EXTINF:-1 tvg-id="SouthParkCartmanCollection.se@NO" tvg-logo="https://images.pluto.tv/channels/65d87a058145cb0008265c2e/colorLogoPNG.png" group-title="السويد (SE)",South Park: Cartman Collection (Sweden) NO
-https://jmp2.uk/plu-65d87fa0f7f0af0008b2358b.m3u8
 #EXTINF:-1 tvg-id="SouthParkIntotheStars.se@SE" tvg-logo="https://images.pluto.tv/channels/664f0eaa8ce31100088036bd/colorLogoPNG.png" group-title="السويد (SE)",South Park: Into the Stars
 https://jmp2.uk/plu-664f0eea0120f40008bf97d6.m3u8
 #EXTINF:-1 tvg-id="SouthParkIntotheStars.se@DK" tvg-logo="https://images.pluto.tv/channels/664f0eaa8ce31100088036bd/colorLogoPNG.png" group-title="السويد (SE)",South Park: Into the Stars DK
 https://jmp2.uk/plu-664f0eaa8ce31100088036bd.m3u8
 #EXTINF:-1 tvg-id="SouthParkIntotheStars.se@NO" tvg-logo="https://images.pluto.tv/channels/664f0eaa8ce31100088036bd/colorLogoPNG.png" group-title="السويد (SE)",South Park: Into the Stars NO
 https://jmp2.uk/plu-664f0ecc41af640008e37b43.m3u8
-#EXTINF:-1 tvg-id="SouthParkKennyCollection.se@SE" tvg-logo="https://images.pluto.tv/channels/65d879bd0d4561000805d190/colorLogoPNG.png" group-title="السويد (SE)",South Park: Kenny Collection (Sweden)
-https://jmp2.uk/plu-65d880cea25d5e0008315b0a.m3u8
-#EXTINF:-1 tvg-id="SouthParkKennyCollection.se@DK" tvg-logo="https://images.pluto.tv/channels/65d879bd0d4561000805d190/colorLogoPNG.png" group-title="السويد (SE)",South Park: Kenny Collection (Sweden) DK
-https://jmp2.uk/plu-65d879bd0d4561000805d190.m3u8
-#EXTINF:-1 tvg-id="SouthParkKennyCollection.se@NO" tvg-logo="https://images.pluto.tv/channels/65d879bd0d4561000805d190/colorLogoPNG.png" group-title="السويد (SE)",South Park: Kenny Collection (Sweden) NO
-https://jmp2.uk/plu-65d87f53ec9fda0008a5b810.m3u8
-#EXTINF:-1 tvg-id="SouthParkKyleCollection.se@SE" tvg-logo="https://images.pluto.tv/channels/65d87a908145cb0008265c6d/colorLogoPNG.png" group-title="السويد (SE)",South Park: Kyle Collection (Sweden)
-https://jmp2.uk/plu-65d882394e01740008a36768.m3u8
-#EXTINF:-1 tvg-id="SouthParkKyleCollection.se@DK" tvg-logo="https://images.pluto.tv/channels/65d87a908145cb0008265c6d/colorLogoPNG.png" group-title="السويد (SE)",South Park: Kyle Collection (Sweden) DK
-https://jmp2.uk/plu-65d87a908145cb0008265c6d.m3u8
-#EXTINF:-1 tvg-id="SouthParkKyleCollection.se@NO" tvg-logo="https://images.pluto.tv/channels/65d87a908145cb0008265c6d/colorLogoPNG.png" group-title="السويد (SE)",South Park: Kyle Collection (Sweden) NO
-https://jmp2.uk/plu-65d88004ec9fda0008a5b8b3.m3u8
-#EXTINF:-1 tvg-id="SouthParkStanCollection.se@SE" tvg-logo="https://images.pluto.tv/channels/65d879e266eec8000887e91b/colorLogoPNG.png" group-title="السويد (SE)",South Park: Stan Collection (Sweden)
-https://jmp2.uk/plu-65d881914e01740008a36603.m3u8
-#EXTINF:-1 tvg-id="SouthParkStanCollection.se@DK" tvg-logo="https://images.pluto.tv/channels/65d879e266eec8000887e91b/colorLogoPNG.png" group-title="السويد (SE)",South Park: Stan Collection (Sweden) DK
-https://jmp2.uk/plu-65d879e266eec8000887e91b.m3u8
-#EXTINF:-1 tvg-id="SouthParkStanCollection.se@NO" tvg-logo="https://images.pluto.tv/channels/65d879e266eec8000887e91b/colorLogoPNG.png" group-title="السويد (SE)",South Park: Stan Collection (Sweden) NO
-https://jmp2.uk/plu-65d87f7a28730900088e7fbf.m3u8
 #EXTINF:-1 tvg-id="StarTrekMovies.se@SE" tvg-logo="https://images.pluto.tv/channels/6400c281dff38e00083f59da/colorLogoPNG.png" group-title="السويد (SE)",Star Trek Movies
 https://jmp2.uk/plu-6400c2a6cb41a40008dbe5bc.m3u8
 #EXTINF:-1 tvg-id="StarTrekMovies.se@DK" tvg-logo="https://images.pluto.tv/channels/6400c281dff38e00083f59da/colorLogoPNG.png" group-title="السويد (SE)",Star Trek Movies DK
@@ -7175,40 +6939,16 @@ https://jmp2.uk/plu-69afef4b0306b277744de1e4.m3u8
 https://jmp2.uk/plu-69afeefa0a7f2095e768401c.m3u8
 #EXTINF:-1 tvg-id="TheMillers.se@NO" tvg-logo="https://images.pluto.tv/channels/69afeefa0a7f2095e768401c/colorLogoPNG_1776168453662.png" group-title="السويد (SE)",The Millers NO
 https://jmp2.uk/plu-69afef233bd16a4ed07108e9.m3u8
-#EXTINF:-1 tvg-id="TheNewDetectives.se@SE" tvg-logo="https://images.pluto.tv/channels/618147d2a814250007b42916/colorLogoPNG.png" group-title="السويد (SE)",The New Detectives (Sweden)
-https://jmp2.uk/plu-61814dd68a368d0007d78c53.m3u8
-#EXTINF:-1 tvg-id="TheNewDetectives.se@DK" tvg-logo="https://images.pluto.tv/channels/618147d2a814250007b42916/colorLogoPNG.png" group-title="السويد (SE)",The New Detectives (Sweden) DK
-https://jmp2.uk/plu-618147d2a814250007b42916.m3u8
-#EXTINF:-1 tvg-id="TheNewDetectives.se@NO" tvg-logo="https://images.pluto.tv/channels/618147d2a814250007b42916/colorLogoPNG.png" group-title="السويد (SE)",The New Detectives (Sweden) NO
-https://jmp2.uk/plu-6181511c1e13690007b143c2.m3u8
 #EXTINF:-1 tvg-id="TheTwilightZone.se@SE" tvg-logo="https://images.pluto.tv/channels/6512ec9f3a0d700008db4f0c/colorLogoPNG.png" group-title="السويد (SE)",The Twilight Zone
 https://jmp2.uk/plu-6512d6c92ce8e40008bd5c81.m3u8
 #EXTINF:-1 tvg-id="TheTwilightZone.se@DK" tvg-logo="https://images.pluto.tv/channels/6512ec9f3a0d700008db4f0c/colorLogoPNG.png" group-title="السويد (SE)",The Twilight Zone DK
 https://jmp2.uk/plu-6512ec9f3a0d700008db4f0c.m3u8
 #EXTINF:-1 tvg-id="TheTwilightZone.se@NO" tvg-logo="https://images.pluto.tv/channels/6512ec9f3a0d700008db4f0c/colorLogoPNG.png" group-title="السويد (SE)",The Twilight Zone NO
 https://jmp2.uk/plu-6512d3a0bdcb19000799cc82.m3u8
-#EXTINF:-1 tvg-id="TheWildWildWest.se@SE" tvg-logo="https://images.pluto.tv/channels/6964bc3806d76f50db3e315e/colorLogoPNG_1768230352673.png" group-title="السويد (SE)",The Wild Wild West (Sweden)
-https://jmp2.uk/plu-6964bcf9ae33e24d911d7e1c.m3u8
-#EXTINF:-1 tvg-id="TheWildWildWest.se@DK" tvg-logo="https://images.pluto.tv/channels/6964bc3806d76f50db3e315e/colorLogoPNG_1768230352673.png" group-title="السويد (SE)",The Wild Wild West (Sweden) DK
-https://jmp2.uk/plu-6964bc3806d76f50db3e315e.m3u8
-#EXTINF:-1 tvg-id="TheWildWildWest.se@NO" tvg-logo="https://images.pluto.tv/channels/6964bc3806d76f50db3e315e/colorLogoPNG_1768230352673.png" group-title="السويد (SE)",The Wild Wild West (Sweden) NO
-https://jmp2.uk/plu-6964bca2a6c400fd418854a2.m3u8
 #EXTINF:-1 tvg-id="Tiljulefrokosthosr8Dio.se@DK" tvg-logo="https://images.pluto.tv/channels/69256bd7db5cc2f81d8a1a08/colorLogoPNG_1764256965972.png" group-title="السويد (SE)",Til julefrokost hos r8Dio
 https://jmp2.uk/plu-69256bd7db5cc2f81d8a1a08.m3u8
 #EXTINF:-1 tvg-id="TilMiddagHos.se@DK" tvg-logo="https://images.pluto.tv/channels/61c1a05ef30f5d0007e562f3/colorLogoPNG.png" group-title="السويد (SE)",Til Middag Hos
 https://jmp2.uk/plu-61c1a05ef30f5d0007e562f3.m3u8
-#EXTINF:-1 tvg-id="Tosh0.se@SE" tvg-logo="https://images.pluto.tv/channels/65e977042873090008b48be9/colorLogoPNG.png" group-title="السويد (SE)",Tosh.0 (Sweden)
-https://jmp2.uk/plu-65e97856ec9fda0008cb453c.m3u8
-#EXTINF:-1 tvg-id="Tosh0.se@DK" tvg-logo="https://images.pluto.tv/channels/65e977042873090008b48be9/colorLogoPNG.png" group-title="السويد (SE)",Tosh.0 (Sweden) DK
-https://jmp2.uk/plu-65e977042873090008b48be9.m3u8
-#EXTINF:-1 tvg-id="Tosh0.se@NO" tvg-logo="https://images.pluto.tv/channels/65e977042873090008b48be9/colorLogoPNG.png" group-title="السويد (SE)",Tosh.0 (Sweden) NO
-https://jmp2.uk/plu-65e977c48b24c8000805b9ef.m3u8
-#EXTINF:-1 tvg-id="TotallyTurtles.se@SE" tvg-logo="https://images.pluto.tv/channels/61c0bbd95df1da0007bed5a0/colorLogoPNG.png" group-title="السويد (SE)",Totally Turtles (Sweden) (720p)
-https://jmp2.uk/plu-61c185e36faf920007f04b6e.m3u8
-#EXTINF:-1 tvg-id="TotallyTurtles.se@DK" tvg-logo="https://images.pluto.tv/channels/61c0bbd95df1da0007bed5a0/colorLogoPNG.png" group-title="السويد (SE)",Totally Turtles (Sweden) DK (720p)
-https://jmp2.uk/plu-61c0bbd95df1da0007bed5a0.m3u8
-#EXTINF:-1 tvg-id="TotallyTurtles.se@NO" tvg-logo="https://images.pluto.tv/channels/61c0bbd95df1da0007bed5a0/colorLogoPNG.png" group-title="السويد (SE)",Totally Turtles (Sweden) NO (720p)
-https://jmp2.uk/plu-61c1da718a80a4000704013e.m3u8
 #EXTINF:-1 tvg-id="TruecrimefranViaplay.se@SE" tvg-logo="https://images.pluto.tv/channels/645cb7857cb4b1000859c57c/colorLogoPNG.png" group-title="السويد (SE)",True crime fran Viaplay
 https://jmp2.uk/plu-645cb7857cb4b1000859c57c.m3u8
 #EXTINF:-1 tvg-id="UngaMammor.se@SE" tvg-logo="https://images.pluto.tv/channels/61c1e1c445b45d0007aad03e/colorLogoPNG.png" group-title="السويد (SE)",Unga Mammor
@@ -8143,12 +7883,12 @@ https://thelegitpro.in/HDlive/22scope/index.fmp4.m3u8
 https://mumt07.tangotv.in/zHjX9OFlTWENTYFOURNEWS/index.m3u8
 #EXTINF:-1 tvg-id="99TV.in@SD" tvg-logo="https://i.imgur.com/dZA4gel.png" group-title="الهند (IN)",99TV (720p)
 https://cdn.pishow.tv/ott/live/1211/master.m3u8
+#EXTINF:-1 tvg-id="AndTV.in@International" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDTV/images/LOGO_HD/LOGO_HD_image.png" group-title="الهند (IN)",&TV International (1080p)
+https://3f56f997.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9BbmRUVl9ITFM/playlist.m3u8
 #EXTINF:-1 tvg-id="Andpictures.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022J67R.png?lock=720x540" group-title="الهند (IN)",&pictures HD (1080p)
 http://116.90.120.149:8000/play/a132/index.m3u8
 #EXTINF:-1 tvg-id="AndTV.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDTV/images/LOGO_HD/LOGO_HD_image.png" group-title="الهند (IN)",&TV HD (1080p)
 http://116.90.120.149:8000/play/a133/index.m3u8
-#EXTINF:-1 tvg-id="AndTV.in@International" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDTV/images/LOGO_HD/LOGO_HD_image.png" group-title="الهند (IN)",&TV International (1080p)
-https://3f56f997.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9BbmRUVl9ITFM/playlist.m3u8
 #EXTINF:-1 tvg-id="AndxplorHD.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDXPLOR_HD/images/LOGO_HD/LOGO_HD_image.png" group-title="الهند (IN)",&xplor HD (1080p)
 http://116.90.120.149:8000/play/a11o/index.m3u8
 #EXTINF:-1 tvg-id="AadinathTV.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_AADINATH_TV/images/LOGO_HD/image.png" group-title="الهند (IN)",Aadinath TV (576p)
@@ -8271,6 +8011,8 @@ https://anjan.vstream.online/anjanorg/ngrp:anjan_hdall/playlist.m3u8
 https://fta.ektv.in/live/256/master.m3u8
 #EXTINF:-1 tvg-id="APN.in@SD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/APN.png" group-title="الهند (IN)",APN (576p)
 https://d1msejlow1t3l4.cloudfront.net/fta/apnnews/playlist.m3u8
+#EXTINF:-1 tvg-id="ApnaPunjabTV.in@SD" tvg-logo="https://www.apnapunjab.tv/images/logo.png" group-title="الهند (IN)",Apna Punjab TV (India) (576p)
+https://samitaorigin.tangotv.in/APNAPUNJAB/SAMITAORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="AradanaTV.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142649_ld_h9_aa.png?lock=720x540" group-title="الهند (IN)",Aradana TV (576p)
 https://mumbai-edge.smartplaytv.in/AradanaTV/index.m3u8
 #EXTINF:-1 tvg-id="ArgusNews.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ARGUS/images/LOGO_HD/image.png" group-title="الهند (IN)",Argus News (576p)
@@ -8367,6 +8109,8 @@ https://samitaorigin.tangotv.in/BSTV/SAMITAORIGIN/index.m3u8
 https://feeds.intoday.in/bttv/itgd.m3u8
 #EXTINF:-1 tvg-id="BVG.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/BVG.png" group-title="الهند (IN)",BVG (576p)
 https://mumt05.tangotv.in/87NeALx2BVG/index.m3u8
+#EXTINF:-1 tvg-id="C10.in@SD" tvg-logo="https://papaji.freetvindia.com/media/channels/C-10.png" group-title="الهند (IN)",C-10 (576p)
+https://samitaorigin.tangotv.in/C10/SAMITAORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="CalvaryTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Calvary.png" group-title="الهند (IN)",Calvary TV (576p)
 https://cdn.pishow.tv/ott/live/963/master.m3u8
 #EXTINF:-1 tvg-id="Captain.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0029CNNM.png?lock=720x540" group-title="الهند (IN)",like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Entertainment",Captain (576p)
@@ -8730,7 +8474,7 @@ http://116.90.120.149:8000/play/a12z/index.m3u8
 #EXTINF:-1 tvg-id="HMTV.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143136_ld_h15_aa.png?lock=720x540" group-title="الهند (IN)",HMTV (India) (720p)
 https://cdn.pishow.tv/ott/live/280/master.m3u8
 #EXTINF:-1 tvg-id="HNN24x7.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/HNN24x7.png" group-title="الهند (IN)",HNN 24x7 (576p)
-https://ott.livelegitpro.in:9899/hnnnews/hnnnews/index.m3u8
+https://mumt07.tangotv.in/zHjX9OFlHNN24X7/index.m3u8
 #EXTINF:-1 tvg-id="HopeChannelIndia.in@SD" tvg-logo="https://i.imgur.com/wPzPUrK.png" group-title="الهند (IN)",Hope Channel India (576p)
 https://cdn.pishow.tv/ott/live/1385/master.m3u8
 #EXTINF:-1 tvg-id="HornbillTV.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_HORNBILL/images/LOGO_HD/image.png" group-title="الهند (IN)",like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="News",Hornbill TV (576p)
@@ -9487,8 +9231,18 @@ http://116.90.120.149:8000/play/a123/index.m3u8
 http://59.103.38.46:8000/play/a0ac/index.m3u8
 #EXTINF:-1 tvg-id="SonyPix.in@HD" tvg-logo="https://i.postimg.cc/Z5G8j67L/PIX-HD-WHITE.png" group-title="الهند (IN)",Sony Pix HD (1080p)
 http://116.90.120.149:8000/play/a138/index.m3u8
+#EXTINF:-1 tvg-id="SonySAB.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/s159099_ld_h15_ab.png?lock=720x540" group-title="الهند (IN)",Sony SAB HD (1080p)
+http://116.90.120.149:8000/play/a128/index.m3u8
+#EXTINF:-1 tvg-id="SonySportsTen1.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_1/images/LOGO_HD/image.png" group-title="الهند (IN)",Sony Sports Ten 1 (576p)
+http://116.90.120.149:8000/play/a126/index.m3u8
+#EXTINF:-1 tvg-id="SonySportsTen1.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_1/images/LOGO_HD/image.png" group-title="الهند (IN)",Sony Sports Ten 1 HD (1080p)
+http://116.90.120.149:8000/play/a11t/index.m3u8
+#EXTINF:-1 tvg-id="SonySportsTen2.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_2/images/LOGO_HD/image.png" group-title="الهند (IN)",Sony Sports Ten 2 HD (1080p)
+http://116.90.120.149:8000/play/a137/index.m3u8
 #EXTINF:-1 tvg-id="SonySportsTen3Hindi.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0025TCMR.png?lock=720x540" group-title="الهند (IN)",Sony Sports Ten 3 Hindi (1080p)
 https://r2.amml.in/sony-ten-3-hd/live.m3u8
+#EXTINF:-1 tvg-id="SonySportsTen5.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_5/images/LOGO_HD/image.png" group-title="الهند (IN)",Sony Sports Ten 5 (576p)
+http://116.90.120.149:8000/play/a117/index.m3u8
 #EXTINF:-1 tvg-id="SonyWah.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s157974_ld_h15_aa.png?lock=720x540" group-title="الهند (IN)",Sony Wah (576p)
 http://163.61.226.31:9981/stream/channelid/1743466790?profile=pass
 #EXTINF:-1 tvg-id="SonyYay.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s159100_ld_h15_aa.png?lock=720x540" group-title="الهند (IN)",Sony Yay! (1080p)
@@ -9501,6 +9255,14 @@ https://indianews-yupptv.vgcdn.net/vglive-sk-926943/index.m3u8
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="StarBharat.in@HD" tvg-logo="https://i.imgur.com/Q8ajPij.png" group-title="الهند (IN)",Star Bharat (India) HD (1080p)
 http://103.135.253.32:8080/STAR-BHARAT/index.m3u8
+#EXTINF:-1 tvg-id="StarGold2.in@SD" tvg-logo="https://i.imgur.com/G0ZfzZr.png" group-title="الهند (IN)",Star Gold 2 (576p)
+http://116.90.120.149:8000/play/a12b/index.m3u8
+#EXTINF:-1 tvg-id="StarGold.in@HD" tvg-logo="https://i.imgur.com/xC460sj.png" group-title="الهند (IN)",Star Gold HD (1080p)
+http://116.90.120.149:8000/play/a12a/index.m3u8
+#EXTINF:-1 tvg-id="StarGoldRomance.in@SD" tvg-logo="https://i.imgur.com/gSWv9U3.png" group-title="الهند (IN)",Star Gold Romance (576p)
+http://116.90.120.149:8000/play/a12c/index.m3u8
+#EXTINF:-1 tvg-id="StarGoldSelect.in@HD" tvg-logo="https://i.imgur.com/U7eiuqv.png" group-title="الهند (IN)",Star Gold Select HD (1080p)
+http://116.90.120.149:8000/play/a131/index.m3u8
 #EXTINF:-1 tvg-id="StarJalsha.in@SD" tvg-logo="https://i.imgur.com/IlufzR5.png" group-title="الهند (IN)",Star Jalsha (1080p) [Geo-blocked]
 http://cdn98.com/play/live.php?extension=ts&mac=00:1A:79:99:54:11&play_token=o1cczsG9wV&stream=225805
 #EXTINF:-1 tvg-id="StarJalsha.in@HD" tvg-logo="https://i.imgur.com/IlufzR5.png" group-title="الهند (IN)",Star Jalsha HD (1080p)
@@ -9509,8 +9271,18 @@ http://103.135.253.32:8080/STAR-JALSHA-HD/index.m3u8
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starmaa1.smil/chunklist_b2628000.m3u8
 #EXTINF:-1 tvg-id="StarMaaMovies.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/s143826_ld_h15_aa.png?lock=720x540" group-title="الهند (IN)",Star Maa Movies HD (720p)
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:maamovies.smil/chunklist_b2628000.m3u8
+#EXTINF:-1 tvg-id="StarMovies.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES/images/LOGO_HD/image.png" group-title="الهند (IN)",Star Movies (India) HD (1080p)
+http://116.90.120.149:8000/play/a13a/index.m3u8
+#EXTINF:-1 tvg-id="StarMoviesSelect.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES_SELECT_HD/images/LOGO_HD/image.png" group-title="الهند (IN)",Star Movies Select HD (1080p)
+http://116.90.120.149:8000/play/a139/index.m3u8
 #EXTINF:-1 tvg-id="StarPravah.in@HD" tvg-logo="https://i.imgur.com/ZT0u7AK.png" group-title="الهند (IN)",Star Pravah HD (720p)
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starpravah.smil/chunklist_b1928000.m3u8
+#EXTINF:-1 tvg-id="StarSports1.in@HD" tvg-logo="https://i.imgur.com/E5jjKHI.png" group-title="الهند (IN)",Star Sports 1 HD (1080p)
+http://116.90.120.149:8000/play/a11x/index.m3u8
+#EXTINF:-1 tvg-id="StarSports1Hindi.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_1_HD_HINDI/images/LOGO_HD/image.png" group-title="الهند (IN)",Star Sports 1 Hindi HD (1080p)
+http://116.90.120.149:8000/play/a122/index.m3u8
+#EXTINF:-1 tvg-id="StarSports2.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_2/images/LOGO_HD/image.png" group-title="الهند (IN)",Star Sports 2 HD (1080p)
+http://116.90.120.149:8000/play/a120/index.m3u8
 #EXTINF:-1 tvg-id="StarUtsav.in@SD" tvg-logo="https://i.imgur.com/H1jhHDl.png" group-title="الهند (IN)",Star Utsav (576p)
 http://163.61.226.31:9981/stream/channelid/894286890?profile=pass
 #EXTINF:-1 tvg-id="StarUtsavMovies.in@SD" tvg-logo="https://i.imgur.com/k5QHfH2.png" group-title="الهند (IN)",Star Utsav Movies (576p)
@@ -9609,6 +9381,8 @@ https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/timesnow/timesnow_master.m3
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/a5ee7c4e7a2a4b15a22a3bcf523b9776/index.m3u8
 #EXTINF:-1 tvg-id="TimesNowNavbharat.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TIMES_NOW_NAVBHARAT_HD/images/LOGO_HD/image.png" group-title="الهند (IN)",Times Now Navbharat HD (1080p)
 https://yupprestreamliveus.akamaized.net/v1/vglive-sk-717514/main.m3u8
+#EXTINF:-1 tvg-id="TLC.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TLC/images/LOGO_HD/image.png" group-title="الهند (IN)",TLC (India) HD (1080p)
+http://116.90.120.149:8000/play/a11g/index.m3u8
 #EXTINF:-1 tvg-id="TNPNews.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TNP_News.png" group-title="الهند (IN)",TNP News (1080p)
 https://server.thelegitpro.in/tnpnews/tnpnews/index.m3u8
 #EXTINF:-1 tvg-id="TOIGlobal.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/npnhm84gz9.png" group-title="الهند (IN)",TOI Global (1080p)
@@ -9673,6 +9447,12 @@ https://stream.ottlive.co.in/ubangla/index.m3u8
 https://stream.ottlive.co.in/utvtamil/index.m3u8
 #EXTINF:-1 tvg-id="UniqueTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Unique_Tv.png" group-title="الهند (IN)",Unique TV (576p)
 http://163.61.226.31:9981/stream/channelid/1687023184?profile=pass
+#EXTINF:-1 tvg-id="Unite8Sports1.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CAFE/images/LOGO_HD/LOGO_HD_5UHAHVIHu_UNITE8-SPORTS-1_264X144.webp" group-title="الهند (IN)",Unite8 Sports 1 (576p)
+http://116.90.120.149:8000/play/a11l/index.m3u8
+#EXTINF:-1 tvg-id="Unite8Sports1.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CAFE_HD/images/LOGO_HD/LOGO_HD_F6ILcp4Kk_UNITE8-SPORTS-1_HD_264X144.webp" group-title="الهند (IN)",Unite8 Sports 1 HD (1080p)
+http://116.90.120.149:8000/play/a125/index.m3u8
+#EXTINF:-1 tvg-id="Unite8Sports2.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDFLIX_HD/images/LOGO_HD/LOGO_HD_qVrE3q5rN_UNITE8-SPORTS-2_HD_264X144.webp" group-title="الهند (IN)",Unite8 Sports 2 HD (1080p)
+http://116.90.120.149:8000/play/a129/index.m3u8
 #EXTINF:-1 tvg-id="UPNOW.in@SD" tvg-logo="https://papaji.freetvindia.com/media/channels/Upnow.png" group-title="الهند (IN)",UP NOW (720p)
 http://45.122.122.61:8080/UPNOW/video.m3u8
 #EXTINF:-1 tvg-id="UTVPalakkad.in@SD" tvg-logo="https://utvpkd.in/assets/img/logo.png" group-title="الهند (IN)",UTV Palakkad (1080p)
@@ -9771,6 +9551,8 @@ https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zee_business/v1/master/611d79b
 https://amg00862-amg00862c8-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c8-amgplt0173/playlist.m3u8
 #EXTINF:-1 tvg-id="ZeeCinema.in@APAC" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CINEMA/images/LOGO_HD/LOGO_HD_image.png" group-title="الهند (IN)",Zee Cinema APAC (720p)
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/sg/YuppTV/ZeeCinemaAPAC.m3u8
+#EXTINF:-1 tvg-id="ZeeClassic.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CLASSIC/images/LOGO_HD/LOGO_HD_image.png" group-title="الهند (IN)",Zee Classic (576p)
+http://116.90.120.149:8000/play/a121/index.m3u8
 #EXTINF:-1 tvg-id="ZeeComedyNation.in@HD" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN2100002GD_20260325T012327SQUARE.png" group-title="الهند (IN)",Zee Comedy Nation (1080p)
 https://amg00862-amg00862c5-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c5-amgplt0173/playlist.m3u8
 #EXTINF:-1 tvg-id="ZeeDelhiNCRHaryana.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0023166M.png?lock=720x540" group-title="الهند (IN)",Zee Delhi NCR Haryana (720p)
@@ -9789,12 +9571,16 @@ https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeemadhyachhattisgarh/v1/maste
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeMarathiHD.m3u8
 #EXTINF:-1 tvg-id="ZeeNews.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0023VWYC.png?lock=720x540" group-title="الهند (IN)",Zee News (1080p)
 https://dknttpxmr0dwf.cloudfront.net/index_57.m3u8
+#EXTINF:-1 tvg-id="ZeePower.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0028ZJ97.png?lock=720x540" group-title="الهند (IN)",Zee Power HD (1080p)
+http://116.90.120.149:8000/play/a11p/index.m3u8
 #EXTINF:-1 tvg-id="ZeePunjabHaryanaHimachal.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022KHKS.png?lock=720x540" group-title="الهند (IN)",Zee Punjab Haryana Himachal (720p)
 https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeepunjabharyanahima/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/65eed269-2f3a-4dd0-ac89-d18959af28e3/main.m3u8
 #EXTINF:-1 tvg-id="ZeeRajasthan.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00231732.png?lock=720x540" group-title="الهند (IN)",Zee Rajasthan (720p)
 https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeerajashthannews/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/8e864b9a-1681-41a0-99a6-387490bc5b24/main.m3u8
 #EXTINF:-1 tvg-id="ZeeSouthFlix.in@HD" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zsouthflix.png" group-title="الهند (IN)",Zee South Flix (1080p)
 https://amg00862-amg00862c9-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c9-amgplt0173/playlist.m3u8
+#EXTINF:-1 tvg-id="ZeeTalkies.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TALKIES/images/LOGO_HD/LOGO_HD_image.png" group-title="الهند (IN)",Zee Talkies HD (1080p)
+http://116.90.120.149:8000/play/a116/index.m3u8
 #EXTINF:-1 tvg-id="ZeeTamil.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022S29Y.png?lock=720x540" group-title="الهند (IN)",Zee Tamil (576p) [Geo-blocked]
 https://ev-eu-hw-fast-mpd.starzplayarabia.com/Zee_Tamil/dash/drm/index.mpd
 #EXTINF:-1 tvg-id="ZeeTamil.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00233WCL.png?lock=720x540" group-title="الهند (IN)",Zee Tamil HD (1080p)
@@ -9805,6 +9591,8 @@ https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main
 https://listas-m3u8.github.io/iptv/128.19.173.10:8888/ZEETELUGUHD.m3u8
 #EXTINF:-1 tvg-id="ZeeTeluguNews.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0023178R.png?lock=720x540" group-title="الهند (IN)",Zee Telugu News (720p)
 https://d116gfrn8orazi.cloudfront.net/index.m3u8?akes=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NjcxOTc5NzJ9.O4qmdMPbHwKrCg6hFXvD70vjSPWKQd0a7NrjmFdeMB8
+#EXTINF:-1 tvg-id="ZeeThirai.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_THIRAI/images/LOGO_HD/LOGO_HD_image.png" group-title="الهند (IN)",Zee Thirai HD (1080p)
+http://116.90.120.149:8000/play/a11q/index.m3u8
 #EXTINF:-1 tvg-id="ZeeTV.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TV/images/LOGO_HD/LOGO_HD_image.png" group-title="الهند (IN)",Zee TV HD (1080p)
 http://103.135.253.32:8080/ZEE-TV/index.m3u8
 #EXTINF:-1 tvg-id="ZeeUttarPradeshUttarakhand.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002317GQ.png?lock=720x540" group-title="الهند (IN)",Zee Uttar Pradesh/Uttarakhand (720p)
@@ -10297,7 +10085,7 @@ https://livestream.telvue.com/berkscmttv2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/p
 https://livestream.telvue.com/billerica4/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="BestofDrPhil.us@SD" tvg-logo="https://i.imgur.com/Jj0wTFQ.png" group-title="الولايات المتحدة (US)",Best of Dr Phil (1080p)
 https://44afb29d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fRHJQaGlsX0hMUw/playlist.m3u8
-#EXTINF:-1 tvg-id="BestofTheDrewBarrymoreShow.us@CA" tvg-logo="https://images.pluto.tv/channels/6310cbee5a8ad300070fdb7c/colorLogoPNG.png" group-title="الولايات المتحدة (US)",Best of The Drew Barrymore Show (United States)
+#EXTINF:-1 tvg-id="BestofTheDrewBarrymoreShow.us@CA" tvg-logo="https://images.pluto.tv/channels/6310cbee5a8ad300070fdb7c/colorLogoPNG.png" group-title="الولايات المتحدة (US)",Best of The Drew Barrymore Show
 https://jmp2.uk/plu-6310cbee5a8ad300070fdb7c.m3u8
 #EXTINF:-1 tvg-id="BETCinema.us@SD" tvg-logo="https://images.pluto.tv/channels/58af4c093a41ca9d4ecabe96/colorLogoPNG_1759338280891.png" group-title="الولايات المتحدة (US)",BET Cinema
 https://jmp2.uk/plu-58af4c093a41ca9d4ecabe96.m3u8
@@ -10389,7 +10177,7 @@ https://bonappetit-samsung.amagi.tv/playlist.m3u8
 https://jmp2.uk/plu-68e9913c4a666b9054849832.m3u8
 #EXTINF:-1 tvg-id="Bonanza.us@CA" tvg-logo="https://images.pluto.tv/channels/696e647b07ea70192d49f6a5/colorLogoPNG_1768842647658.png" group-title="الولايات المتحدة (US)",Bonanza CA
 https://jmp2.uk/plu-696e647b07ea70192d49f6a5.m3u8
-#EXTINF:-1 tvg-id="BondiRescue.us@CA" tvg-logo="https://images.pluto.tv/channels/66166989635c7500084105a2/colorLogoPNG.png" group-title="الولايات المتحدة (US)",Bondi Rescue (United States) (720p)
+#EXTINF:-1 tvg-id="BondiRescue.us@CA" tvg-logo="https://images.pluto.tv/channels/66166989635c7500084105a2/colorLogoPNG.png" group-title="الولايات المتحدة (US)",Bondi Rescue (720p)
 https://jmp2.uk/plu-66166989635c7500084105a2.m3u8
 #EXTINF:-1 tvg-id="Boomerang.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/960px-Boomerang_2014_logo.svg.png" group-title="الولايات المتحدة (US)",Boomerang (United States) (720p)
 http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
@@ -10455,7 +10243,7 @@ http://179.1.196.222:9000/play/a02y/index.m3u8
 https://d3cx6yargdnl7q.cloudfront.net/canelatv.m3u8
 #EXTINF:-1 tvg-id="CapitalCityConnectionMontgomery.us@SD" tvg-logo="https://image.roku.com/developer_channels/prod/a2cb55884ff88035ebbbb32ef9c60a228314d0a2ac4c86722aff5ea1cb9abcd8.png" group-title="الولايات المتحدة (US)",Capital City Connection Montgomery [Not 24/7]
 https://capitalcityconnection.cablecast.tv/live/stream-1/live.m3u8
-#EXTINF:-1 tvg-id="CarChase.us@SD" tvg-logo="https://images.pluto.tv/channels/65244c403fd33c0008ffff31/colorLogoPNG.png" group-title="الولايات المتحدة (US)",Car Chase (United States) (720p)
+#EXTINF:-1 tvg-id="CarChase.us@SD" tvg-logo="https://images.pluto.tv/channels/65244c403fd33c0008ffff31/colorLogoPNG.png" group-title="الولايات المتحدة (US)",Car Chase (720p)
 https://jmp2.uk/plu-65244c403fd33c0008ffff31.m3u8
 #EXTINF:-1 tvg-id="CarsTV.us@SD" tvg-logo="https://i.imgur.com/JLSHiTp.png" group-title="الولايات المتحدة (US)",Cars.TV (720p)
 https://a-cdn.klowdtv.com/live2/carstv_720p/playlist.m3u8
@@ -10599,7 +10387,7 @@ https://jmp2.uk/plu-60afbad343e3840007164348.m3u8
 https://fast-channels.sinclairstoryline.com/CHARGE/index.m3u8
 #EXTINF:-1 tvg-id="CheddarNews.us@SD" tvg-logo="https://i.imgur.com/tuP9GW8.png" group-title="الولايات المتحدة (US)",Cheddar News (1080p)
 https://hls.livecdn.io/cheddar.com/cheddar/playlist.m3u8
-#EXTINF:-1 tvg-id="Cheers.us@CA" tvg-logo="https://images.pluto.tv/channels/62bdb7f0db2eb30007376d4d/colorLogoPNG.png" group-title="الولايات المتحدة (US)",Cheers (United States)
+#EXTINF:-1 tvg-id="Cheers.us@CA" tvg-logo="https://images.pluto.tv/channels/62bdb7f0db2eb30007376d4d/colorLogoPNG.png" group-title="الولايات المتحدة (US)",Cheers
 https://jmp2.uk/plu-62bdb7f0db2eb30007376d4d.m3u8
 #EXTINF:-1 tvg-id="CheersPlusFrasier.us@SD" tvg-logo="https://images.pluto.tv/channels/66ba495ffe11e5000881f049/colorLogoPNG.png" group-title="الولايات المتحدة (US)",Cheers + Frasier
 https://jmp2.uk/plu-66ba495ffe11e5000881f049.m3u8
@@ -10827,7 +10615,7 @@ https://jmp2.uk/plu-65652f7fc0fc88000883537a.m3u8
 https://reflect-communitytv.cablecast.tv/live-4/live/stream-2/live.m3u8
 #EXTINF:-1 tvg-id="CSatTV.us@SD" tvg-logo="https://i.imgur.com/fp2EaLJ.png" group-title="الولايات المتحدة (US)",CSat TV (1080p) [Not 24/7]
 http://media.smc-host.com:1935/csat.tv/smil:csat.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="CSI.us@SD" tvg-logo="https://i.imgur.com/xLLNEfA.png" group-title="الولايات المتحدة (US)",CSI (United States)
+#EXTINF:-1 tvg-id="CSI.us@SD" tvg-logo="https://i.imgur.com/xLLNEfA.png" group-title="الولايات المتحدة (US)",CSI
 https://jmp2.uk/plu-5efbd29e4aa26700076c0d06.m3u8
 #EXTINF:-1 tvg-id="CSIenespanol.us@SD" tvg-logo="https://i.imgur.com/ifarQil.png" group-title="الولايات المتحدة (US)",CSI en espanol
 https://jmp2.uk/plu-604928d54a4f730007ff76bc.m3u8
@@ -10973,7 +10761,7 @@ https://video.oct.dc.gov/out/u/DCN.m3u8
 https://stream.diyatvinc.com/diya.m3u8
 #EXTINF:-1 tvg-id="DKN.us@SD" tvg-logo="https://i.imgur.com/DIau0GB.png" group-title="الولايات المتحدة (US)",DKN (1080p)
 https://video.oct.dc.gov/out/u/DKN.m3u8
-#EXTINF:-1 tvg-id="DocMartin.us@CA" tvg-logo="https://images.pluto.tv/channels/62e922f6675f71000736db3b/colorLogoPNG.png" group-title="الولايات المتحدة (US)",Doc Martin (United States)
+#EXTINF:-1 tvg-id="DocMartin.us@CA" tvg-logo="https://images.pluto.tv/channels/62e922f6675f71000736db3b/colorLogoPNG.png" group-title="الولايات المتحدة (US)",Doc Martin
 https://jmp2.uk/plu-62e922f6675f71000736db3b.m3u8
 #EXTINF:-1 tvg-id="DoctorWhoClassic.us@US" tvg-logo="https://i.imgur.com/JIqJQQM.png" group-title="الولايات المتحدة (US)",Doctor Who Classic (1080p)
 https://bbc-classicdrwho-1-us.roku.wurl.tv/playlist.m3u8
@@ -11143,7 +10931,7 @@ https://failarmy-international-gb.samsung.wurl.tv/playlist.m3u8
 https://jmp2.uk/rok-b484db42f3d31b6dc2f604d453c694a0.m3u8
 #EXTINF:-1 tvg-id="FaithTV.us@SD" tvg-logo="https://i.imgur.com/lUBnKK1.png" group-title="الولايات المتحدة (US)",Faith TV (1080p)
 https://faithnow-hls.secdn.net/faithnow-holland-channel/play/FaithTV.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="FamilyTies.us@SD" tvg-logo="https://i.imgur.com/WJEkKCb.png" group-title="الولايات المتحدة (US)",Family Ties (United States)
+#EXTINF:-1 tvg-id="FamilyTies.us@SD" tvg-logo="https://i.imgur.com/WJEkKCb.png" group-title="الولايات المتحدة (US)",Family Ties
 https://jmp2.uk/plu-5f77939a630f530007dde654.m3u8
 #EXTINF:-1 tvg-id="Farscape.us@SD" tvg-logo="https://i.imgur.com/2WH4lSc.png" group-title="الولايات المتحدة (US)",Farscape
 https://jmp2.uk/plu-699c1b4c9c3b075ecd513139.m3u8
@@ -11283,7 +11071,7 @@ https://amg00488-foxdigital-fox2sanfranciscoktvu-vizious-cshim.amagi.tv/playlist
 https://amg00488-foxdigital-amg00488c4-vizio-us-900.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="FoxWeather.us@WOFL" tvg-logo="https://i.imgur.com/9zu00TZ.png" group-title="الولايات المتحدة (US)",Fox Weather WOFL (1080p)
 https://amg00488-foxdigital-fox35orlandowofl-vizious-i7zzw.amagi.tv/playlist/amg00488-foxdigital-fox35orlandowofl-vizious/playlist.m3u8
-#EXTINF:-1 tvg-id="Frasier.us@CA" tvg-logo="https://images.pluto.tv/channels/62f4f90e39183b000769f12b/colorLogoPNG.png" group-title="الولايات المتحدة (US)",Frasier (United States)
+#EXTINF:-1 tvg-id="Frasier.us@CA" tvg-logo="https://images.pluto.tv/channels/62f4f90e39183b000769f12b/colorLogoPNG.png" group-title="الولايات المتحدة (US)",Frasier
 https://jmp2.uk/plu-62f4f90e39183b000769f12b.m3u8
 #EXTINF:-1 tvg-id="FreeSpeechTV.us@SD" tvg-logo="https://i.imgur.com/Qq6heRq.png" group-title="الولايات المتحدة (US)",Free Speech TV (720p)
 https://na.linear.zype.com/f2f02a72-71d0-45f3-829f-4ae51f721102/86ef0177-697d-41c4-be57-c4d1a2b83cad-hls4/live.m3u8
@@ -11409,9 +11197,9 @@ https://jmp2.uk/plu-60f75771dfc72a00071fd0e0.m3u8
 https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991709
 #EXTINF:-1 tvg-id="HallmarkMystery.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Hallmark_Mystery_2024.svg" group-title="الولايات المتحدة (US)",Hallmark Mystery (720p) [Geo-blocked]
 http://41.205.93.154/HALLMARK/index.m3u8
-#EXTINF:-1 tvg-id="HappyDays.us@SD" tvg-logo="https://images.pluto.tv/channels/62e917b5e354cf0007b97a67/colorLogoPNG.png" group-title="الولايات المتحدة (US)",Happy Days (United States)
+#EXTINF:-1 tvg-id="HappyDays.us@SD" tvg-logo="https://images.pluto.tv/channels/62e917b5e354cf0007b97a67/colorLogoPNG.png" group-title="الولايات المتحدة (US)",Happy Days
 https://jmp2.uk/plu-5f7794162a4559000781fc12.m3u8
-#EXTINF:-1 tvg-id="HappyDays.us@CA" tvg-logo="https://images.pluto.tv/channels/62e917b5e354cf0007b97a67/colorLogoPNG.png" group-title="الولايات المتحدة (US)",Happy Days (United States) CA
+#EXTINF:-1 tvg-id="HappyDays.us@CA" tvg-logo="https://images.pluto.tv/channels/62e917b5e354cf0007b97a67/colorLogoPNG.png" group-title="الولايات المتحدة (US)",Happy Days CA
 https://jmp2.uk/plu-62e917b5e354cf0007b97a67.m3u8
 #EXTINF:-1 tvg-id="HappyKids.us@SD" tvg-logo="https://i.imgur.com/cPrUCFw.png" group-title="الولايات المتحدة (US)",HappyKids (1080p)
 https://dil9xdvretp0f.cloudfront.net/index.m3u8
@@ -11545,11 +11333,11 @@ https://dos35knl8v49a.cloudfront.net/v1/food/samsungheadend_us/latest/main/hls/p
 https://jmp2.uk/plu-634f3011f4fff20007431641.m3u8
 #EXTINF:-1 tvg-id="ILoveLucy.us@CA" tvg-logo="https://images.pluto.tv/channels/63a2f1dda0d69700078b7cba/colorLogoPNG.png" group-title="الولايات المتحدة (US)",I Love Lucy CA
 https://jmp2.uk/plu-63a2f1dda0d69700078b7cba.m3u8
-#EXTINF:-1 tvg-id="iCarly.us@BR" tvg-logo="https://images.pluto.tv/channels/620ff46e0a576e0007dc2f89/colorLogoPNG.png" group-title="الولايات المتحدة (US)",iCarly (United States)
+#EXTINF:-1 tvg-id="iCarly.us@BR" tvg-logo="https://images.pluto.tv/channels/620ff46e0a576e0007dc2f89/colorLogoPNG.png" group-title="الولايات المتحدة (US)",iCarly
 https://jmp2.uk/plu-620ff46e0a576e0007dc2f89.m3u8
-#EXTINF:-1 tvg-id="iCarly.us@LatAm" tvg-logo="https://images.pluto.tv/channels/620ff46e0a576e0007dc2f89/colorLogoPNG.png" group-title="الولايات المتحدة (US)",iCarly (United States) LatAm
+#EXTINF:-1 tvg-id="iCarly.us@LatAm" tvg-logo="https://images.pluto.tv/channels/620ff46e0a576e0007dc2f89/colorLogoPNG.png" group-title="الولايات المتحدة (US)",iCarly LatAm
 https://jmp2.uk/plu-620ff0a01f9e8700076c6f9d.m3u8
-#EXTINF:-1 tvg-id="iCarly.us@SD" tvg-logo="https://images.pluto.tv/channels/620ff46e0a576e0007dc2f89/colorLogoPNG.png" group-title="الولايات المتحدة (US)",iCarly (United States) SD
+#EXTINF:-1 tvg-id="iCarly.us@SD" tvg-logo="https://images.pluto.tv/channels/620ff46e0a576e0007dc2f89/colorLogoPNG.png" group-title="الولايات المتحدة (US)",iCarly SD
 https://jmp2.uk/plu-6450209d939a5900084dba1d.m3u8
 #EXTINF:-1 tvg-id="ICCplus.us@SD" group-title="الولايات المتحدة (US)",ICC plus (1080p)
 https://icchls.wns.live/hls/stream.m3u8
@@ -11605,11 +11393,11 @@ https://jmp2.uk/plu-6582f8dadfed030008e5a93d.m3u8
 https://itiswrittentv.akamaized.net/xR8gyATuHMVx69u9G79DXnpNRL/playlist.m3u8
 #EXTINF:-1 tvg-id="ItsSupernaturalNetwork.us@SD" tvg-logo="https://i.imgur.com/JWrdL9a.png" group-title="الولايات المتحدة (US)",It's Supernatural! Network (1080p)
 https://content.uplynk.com/channel/b880a791bf95426d917a509e0c44796a.m3u8
-#EXTINF:-1 tvg-id="JAG.us@CA" tvg-logo="https://images.pluto.tv/channels/66a105f4a79dea0008aa5e0f/colorLogoPNG.png" group-title="الولايات المتحدة (US)",JAG (United States)
+#EXTINF:-1 tvg-id="JAG.us@CA" tvg-logo="https://images.pluto.tv/channels/66a105f4a79dea0008aa5e0f/colorLogoPNG.png" group-title="الولايات المتحدة (US)",JAG
 https://jmp2.uk/plu-66a105f4a79dea0008aa5e0f.m3u8
 #EXTINF:-1 tvg-id="JBS.us@SD" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lDWY-W9dD7UvLlp1NuWLJs1wV6t_KjeOT-1iVVIGuLZ8U=s512-c-k-c0x00ffffff-no-rj" group-title="الولايات المتحدة (US)",JBS (720p)
 https://rpn3.bozztv.com/jbstv-srt/srt-push/jbstv/playlist.m3u8
-#EXTINF:-1 tvg-id="JerseyShore.us@SD" tvg-logo="https://i.imgur.com/SssCaj1.png" group-title="الولايات المتحدة (US)",Jersey Shore (United States)
+#EXTINF:-1 tvg-id="JerseyShore.us@SD" tvg-logo="https://i.imgur.com/SssCaj1.png" group-title="الولايات المتحدة (US)",Jersey Shore
 https://jmp2.uk/plu-609bfa51fbecc1000733152e.m3u8
 #EXTINF:-1 tvg-id="JewelryTV2.us@SD" group-title="الولايات المتحدة (US)",Jewelry TV 2 (720p)
 https://cdn.jwplayer.com/live/broadcast/0rrJ3kkM.m3u8
@@ -11841,9 +11629,9 @@ https://amg00353-amg00353c48-vizio-us-8534.playouts.now.amagi.tv/playlist.m3u8
 https://app.viloud.tv/hls/channel/01e3b17a3605b7c0389411ae3d5dfd6e.m3u8
 #EXTINF:-1 tvg-id="LuckyDog.us@SD" tvg-logo="https://i.imgur.com/1j4gwL3.png" group-title="الولايات المتحدة (US)",Lucky Dog (720p)
 https://d3j95sejv6mybj.cloudfront.net/Lucky_Dog.m3u8
-#EXTINF:-1 tvg-id="MacGyver.us@BR" tvg-logo="https://images.pluto.tv/channels/63eb9dc84e83e70008abea92/colorLogoPNG.png" group-title="الولايات المتحدة (US)",MacGyver (United States)
+#EXTINF:-1 tvg-id="MacGyver.us@BR" tvg-logo="https://images.pluto.tv/channels/63eb9dc84e83e70008abea92/colorLogoPNG.png" group-title="الولايات المتحدة (US)",MacGyver
 https://jmp2.uk/plu-63eb9dc84e83e70008abea92.m3u8
-#EXTINF:-1 tvg-id="MacGyver.us@LatAm" tvg-logo="https://images.pluto.tv/channels/63eb9dc84e83e70008abea92/colorLogoPNG.png" group-title="الولايات المتحدة (US)",MacGyver (United States) LatAm
+#EXTINF:-1 tvg-id="MacGyver.us@LatAm" tvg-logo="https://images.pluto.tv/channels/63eb9dc84e83e70008abea92/colorLogoPNG.png" group-title="الولايات المتحدة (US)",MacGyver LatAm
 https://jmp2.uk/plu-63eb95baa99571000898a078.m3u8
 #EXTINF:-1 tvg-id="MadDogandMerrill.us@SD" tvg-logo="https://i.imgur.com/5QQy3aW.png" group-title="الولايات المتحدة (US)",Mad Dog and Merrill (540p) [Not 24/7]
 https://rpn.bozztv.com/gusa/gusa-mwg/index.m3u8
@@ -11867,9 +11655,9 @@ https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/martin/G0074_002/playlist.m3u8
 https://jmp2.uk/plu-687fea9a4fa995eff284a1c8.m3u8
 #EXTINF:-1 tvg-id="MasterChef.us@Brazil" tvg-logo="https://i.imgur.com/lOuySbz.png" group-title="الولايات المتحدة (US)",MasterChef
 https://jmp2.uk/plu-6077045b6031bd00078de127.m3u8
-#EXTINF:-1 tvg-id="Matlock.us@SD" tvg-logo="https://images.pluto.tv/channels/63da365f60bc8f0008a50f44/colorLogoPNG.png" group-title="الولايات المتحدة (US)",Matlock (United States)
+#EXTINF:-1 tvg-id="Matlock.us@SD" tvg-logo="https://images.pluto.tv/channels/63da365f60bc8f0008a50f44/colorLogoPNG.png" group-title="الولايات المتحدة (US)",Matlock
 https://jmp2.uk/plu-60f754f98185580007eb0754.m3u8
-#EXTINF:-1 tvg-id="Matlock.us@CA" tvg-logo="https://images.pluto.tv/channels/63da365f60bc8f0008a50f44/colorLogoPNG.png" group-title="الولايات المتحدة (US)",Matlock (United States) CA
+#EXTINF:-1 tvg-id="Matlock.us@CA" tvg-logo="https://images.pluto.tv/channels/63da365f60bc8f0008a50f44/colorLogoPNG.png" group-title="الولايات المتحدة (US)",Matlock CA
 https://jmp2.uk/plu-63da365f60bc8f0008a50f44.m3u8
 #EXTINF:-1 tvg-id="MaverickBlackCinema.us@SD" tvg-logo="https://images.fubo.tv/station_logos/maverick_black_cinema_c.png" group-title="الولايات المتحدة (US)",Maverick Black Cinema (1080p)
 https://maverick-maverick-black-cinema-3-us.roku.wurl.tv/playlist.m3u8
@@ -11935,9 +11723,9 @@ https://all3media-midsomer-1-us.roku.wurl.tv/playlist.m3u8
 https://frndly.keralive.workers.dev/v1/master/840a24ccd7c75076211d060179b3ad0c64fdc6ca/militaryhistory_live_nr/ab44a8245afe413db1169317ee5cda08/index.m3u8?type=ae2
 #EXTINF:-1 tvg-id="MinisterioLaVozDeUnRemanenteTV.us@SD" tvg-logo="https://new.opencaster.com/uploads/logos/logo_188_1754869413.png" group-title="الولايات المتحدة (US)",Ministerio La Voz De Un Remanente TV
 https://vs20.live.opencaster.com/remanente_5925b089/index.m3u8
-#EXTINF:-1 tvg-id="MissionImpossible.us@SD" tvg-logo="https://images.pluto.tv/channels/62ea43aa0c43540007f2db96/colorLogoPNG.png" group-title="الولايات المتحدة (US)",Mission Impossible (United States)
+#EXTINF:-1 tvg-id="MissionImpossible.us@SD" tvg-logo="https://images.pluto.tv/channels/62ea43aa0c43540007f2db96/colorLogoPNG.png" group-title="الولايات المتحدة (US)",Mission Impossible
 https://jmp2.uk/plu-5f77977bd924d80007eee60c.m3u8
-#EXTINF:-1 tvg-id="MissionImpossible.us@CA" tvg-logo="https://images.pluto.tv/channels/62ea43aa0c43540007f2db96/colorLogoPNG.png" group-title="الولايات المتحدة (US)",Mission Impossible (United States) CA
+#EXTINF:-1 tvg-id="MissionImpossible.us@CA" tvg-logo="https://images.pluto.tv/channels/62ea43aa0c43540007f2db96/colorLogoPNG.png" group-title="الولايات المتحدة (US)",Mission Impossible CA
 https://jmp2.uk/plu-62ea43aa0c43540007f2db96.m3u8
 #EXTINF:-1 tvg-id="MissionTV.us@SD" tvg-logo="https://i.imgur.com/Hb38BNo.png" group-title="الولايات المتحدة (US)",Mission TV (1080p) [Not 24/7]
 https://6096a9cf11ae5.streamlock.net:1943/live/missiontv/playlist.m3u8
@@ -12023,11 +11811,11 @@ https://jmp2.uk/plu-6047fbdbbb776a0007e7f2ff.m3u8
 https://jmp2.uk/plu-65410176770cf1000866bf31.m3u8
 #EXTINF:-1 tvg-id="MTVBiggestPop.us@LatAm" tvg-logo="https://images.pluto.tv/channels/6047fbdbbb776a0007e7f2ff/colorLogoPNG.png" group-title="الولايات المتحدة (US)",MTV Biggest Pop LatAm (1080p)
 https://jmp2.uk/plu-6047fabfce6e8e00070bcc9f.m3u8
-#EXTINF:-1 tvg-id="MTVCatfish.us@CA" tvg-logo="https://images.pluto.tv/channels/626c2a3502d84a0007cec817/colorLogoPNG.png" group-title="الولايات المتحدة (US)",MTV Catfish (United States)
+#EXTINF:-1 tvg-id="MTVCatfish.us@CA" tvg-logo="https://images.pluto.tv/channels/626c2a3502d84a0007cec817/colorLogoPNG.png" group-title="الولايات المتحدة (US)",MTV Catfish
 https://jmp2.uk/plu-64f8a2a23a0d700008a6ed7b.m3u8
-#EXTINF:-1 tvg-id="MTVCatfish.us@BR" tvg-logo="https://images.pluto.tv/channels/626c2a3502d84a0007cec817/colorLogoPNG.png" group-title="الولايات المتحدة (US)",MTV Catfish (United States) BR (720p)
+#EXTINF:-1 tvg-id="MTVCatfish.us@BR" tvg-logo="https://images.pluto.tv/channels/626c2a3502d84a0007cec817/colorLogoPNG.png" group-title="الولايات المتحدة (US)",MTV Catfish BR (720p)
 https://jmp2.uk/plu-626c2a3502d84a0007cec817.m3u8
-#EXTINF:-1 tvg-id="MTVCatfish.us@LatAm" tvg-logo="https://images.pluto.tv/channels/626c2a3502d84a0007cec817/colorLogoPNG.png" group-title="الولايات المتحدة (US)",MTV Catfish (United States) LatAm (720p)
+#EXTINF:-1 tvg-id="MTVCatfish.us@LatAm" tvg-logo="https://images.pluto.tv/channels/626c2a3502d84a0007cec817/colorLogoPNG.png" group-title="الولايات المتحدة (US)",MTV Catfish LatAm (720p)
 https://jmp2.uk/plu-625461ef01f27a0007976ad1.m3u8
 #EXTINF:-1 tvg-id="MTVClassic.us@BR" tvg-logo="https://images.pluto.tv/channels/66a01dcb8561260008b0a41d/colorLogoPNG.png" group-title="الولايات المتحدة (US)",MTV Classic BR (720p)
 https://jmp2.uk/plu-66a01dcb8561260008b0a41d.m3u8
@@ -12039,11 +11827,11 @@ https://jmp2.uk/plu-66a11a21a79dea0008aa90ca.m3u8
 https://jmp2.uk/plu-61a528267e1b8b0007357920.m3u8
 #EXTINF:-1 tvg-id="MTVConMiEx.us@LatAm" tvg-logo="https://images.pluto.tv/channels/638693db857364000781b471/colorLogoPNG.png" group-title="الولايات المتحدة (US)",MTV Con Mi Ex
 https://jmp2.uk/plu-638693db857364000781b471.m3u8
-#EXTINF:-1 tvg-id="MTVDating.us@BR" tvg-logo="https://images.pluto.tv/channels/6851bb3426beced4f2f67ee6/colorLogoPNG_1750686926779.png" group-title="الولايات المتحدة (US)",MTV Dating (United States)
+#EXTINF:-1 tvg-id="MTVDating.us@BR" tvg-logo="https://images.pluto.tv/channels/6851bb3426beced4f2f67ee6/colorLogoPNG_1750686926779.png" group-title="الولايات المتحدة (US)",MTV Dating
 https://jmp2.uk/plu-6851bb3426beced4f2f67ee6.m3u8
-#EXTINF:-1 tvg-id="MTVDating.us@CA" tvg-logo="https://images.pluto.tv/channels/6851bb3426beced4f2f67ee6/colorLogoPNG_1750686926779.png" group-title="الولايات المتحدة (US)",MTV Dating (United States) CA
+#EXTINF:-1 tvg-id="MTVDating.us@CA" tvg-logo="https://images.pluto.tv/channels/6851bb3426beced4f2f67ee6/colorLogoPNG_1750686926779.png" group-title="الولايات المتحدة (US)",MTV Dating CA
 https://jmp2.uk/plu-64f8a0c230ab3300084369b8.m3u8
-#EXTINF:-1 tvg-id="MTVDating.us@LatAm" tvg-logo="https://images.pluto.tv/channels/6851bb3426beced4f2f67ee6/colorLogoPNG_1750686926779.png" group-title="الولايات المتحدة (US)",MTV Dating (United States) LatAm (720p)
+#EXTINF:-1 tvg-id="MTVDating.us@LatAm" tvg-logo="https://images.pluto.tv/channels/6851bb3426beced4f2f67ee6/colorLogoPNG_1750686926779.png" group-title="الولايات المتحدة (US)",MTV Dating LatAm (720p)
 https://jmp2.uk/plu-6851b909954170e0128bc71d.m3u8
 #EXTINF:-1 tvg-id="MTVDrag.us@BR" tvg-logo="https://images.pluto.tv/channels/645111f1d8436e00081bb2bd/colorLogoPNG.png" group-title="الولايات المتحدة (US)",MTV Drag
 https://jmp2.uk/plu-645111f1d8436e00081bb2bd.m3u8
@@ -12069,15 +11857,15 @@ https://jmp2.uk/plu-5ca672f515a62078d2ec0ad2.m3u8
 https://jmp2.uk/plu-5f1212fb81e85c00077ae9ef.m3u8
 #EXTINF:-1 tvg-id="MTVPlutoTV.us@LatAm" tvg-logo="https://images.pluto.tv/channels/5fab088b3279760007d4e4fd/colorLogoPNG_1764875981566.png" group-title="الولايات المتحدة (US)",MTV Pluto TV LatAm (720p)
 https://jmp2.uk/plu-5fab088b3279760007d4e4fd.m3u8
-#EXTINF:-1 tvg-id="MTVReality.us@BR" tvg-logo="https://images.pluto.tv/channels/6493f4f566e485000853d640/colorLogoPNG.png" group-title="الولايات المتحدة (US)",MTV Reality (United States) (720p)
+#EXTINF:-1 tvg-id="MTVReality.us@BR" tvg-logo="https://images.pluto.tv/channels/6493f4f566e485000853d640/colorLogoPNG.png" group-title="الولايات المتحدة (US)",MTV Reality (720p)
 https://jmp2.uk/plu-6851bdfc9ac48fde5e07f5ae.m3u8
-#EXTINF:-1 tvg-id="MTVReality.us@CA" tvg-logo="https://images.pluto.tv/channels/6493f4f566e485000853d640/colorLogoPNG.png" group-title="الولايات المتحدة (US)",MTV Reality (United States) CA
+#EXTINF:-1 tvg-id="MTVReality.us@CA" tvg-logo="https://images.pluto.tv/channels/6493f4f566e485000853d640/colorLogoPNG.png" group-title="الولايات المتحدة (US)",MTV Reality CA
 https://jmp2.uk/plu-64f89fcfd661bb00081ba45c.m3u8
-#EXTINF:-1 tvg-id="MTVReality.us@LatAm" tvg-logo="https://images.pluto.tv/channels/6493f4f566e485000853d640/colorLogoPNG.png" group-title="الولايات المتحدة (US)",MTV Reality (United States) LatAm (720p)
+#EXTINF:-1 tvg-id="MTVReality.us@LatAm" tvg-logo="https://images.pluto.tv/channels/6493f4f566e485000853d640/colorLogoPNG.png" group-title="الولايات المتحدة (US)",MTV Reality LatAm (720p)
 https://jmp2.uk/plu-5de91b7ea86ee60009d89e75.m3u8
-#EXTINF:-1 tvg-id="MTVRidiculousness.us@CA" tvg-logo="https://images.pluto.tv/channels/68641eb4852dfe78698c3390/colorLogoPNG_1751392300412.png" group-title="الولايات المتحدة (US)",MTV Ridiculousness (United States) CA
+#EXTINF:-1 tvg-id="MTVRidiculousness.us@CA" tvg-logo="https://images.pluto.tv/channels/68641eb4852dfe78698c3390/colorLogoPNG_1751392300412.png" group-title="الولايات المتحدة (US)",MTV Ridiculousness CA
 https://jmp2.uk/plu-64f9cccf110545000837912e.m3u8
-#EXTINF:-1 tvg-id="MTVRidiculousness.us@LatAm" tvg-logo="https://images.pluto.tv/channels/68641eb4852dfe78698c3390/colorLogoPNG_1751392300412.png" group-title="الولايات المتحدة (US)",MTV Ridiculousness (United States) LatAm (720p)
+#EXTINF:-1 tvg-id="MTVRidiculousness.us@LatAm" tvg-logo="https://images.pluto.tv/channels/68641eb4852dfe78698c3390/colorLogoPNG_1751392300412.png" group-title="الولايات المتحدة (US)",MTV Ridiculousness LatAm (720p)
 https://jmp2.uk/plu-5e98a911c881310007d7aae2.m3u8
 #EXTINF:-1 tvg-id="MTVRocks.us@BR" tvg-logo="https://images.pluto.tv/channels/66a01e07d2d50d0008100d6a/colorLogoPNG.png" group-title="الولايات المتحدة (US)",MTV Rocks
 https://jmp2.uk/plu-66a01e07d2d50d0008100d6a.m3u8
@@ -12089,7 +11877,7 @@ https://jmp2.uk/plu-625463563b8ddc0007134aeb.m3u8
 https://jmp2.uk/plu-5d14fdb8ca91eedee1633117.m3u8
 #EXTINF:-1 tvg-id="MTVSpankinNew.us@CA" tvg-logo="https://images.pluto.tv/channels/6541010f770cf1000866be98/colorLogoPNG.png" group-title="الولايات المتحدة (US)",MTV Spankin' New CA (1080p)
 https://jmp2.uk/plu-6541010f770cf1000866be98.m3u8
-#EXTINF:-1 tvg-id="MTVTeenMom.us@LatAm" tvg-logo="https://images.pluto.tv/channels/620fd9f4afb9a80007a9c6d5/colorLogoPNG.png" group-title="الولايات المتحدة (US)",MTV Teen Mom (United States) (720p)
+#EXTINF:-1 tvg-id="MTVTeenMom.us@LatAm" tvg-logo="https://images.pluto.tv/channels/620fd9f4afb9a80007a9c6d5/colorLogoPNG.png" group-title="الولايات المتحدة (US)",MTV Teen Mom (720p)
 https://jmp2.uk/plu-620fd9f4afb9a80007a9c6d5.m3u8
 #EXTINF:-1 tvg-id="MuslimNetworkTV.us@SD" group-title="الولايات المتحدة (US)",Muslim Network TV
 https://afghantv.app/hls2/muslimnetwork/index.m3u8
@@ -12217,13 +12005,13 @@ https://d1si3n1st4nkgb.cloudfront.net/10502/88896001/hls/master.m3u8?ads.xumo_ch
 https://d4whmvwm0rdvi.cloudfront.net/10007/99993008/hls/master.m3u8?ads.xumo_channelId=99993008
 #EXTINF:-1 tvg-id="NBCLX.us@SD" tvg-logo="https://i.imgur.com/5iT7hEa.png" group-title="الولايات المتحدة (US)",NBCLX (1080p)
 https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8
-#EXTINF:-1 tvg-id="NCIS.us@BR" tvg-logo="https://images.pluto.tv/channels/63eb9fdda995710008991c54/colorLogoPNG.png" group-title="الولايات المتحدة (US)",NCIS (United States)
+#EXTINF:-1 tvg-id="NCIS.us@BR" tvg-logo="https://images.pluto.tv/channels/63eb9fdda995710008991c54/colorLogoPNG.png" group-title="الولايات المتحدة (US)",NCIS
 https://jmp2.uk/plu-63eb9fdda995710008991c54.m3u8
-#EXTINF:-1 tvg-id="NCIS.us@CA" tvg-logo="https://images.pluto.tv/channels/63eb9fdda995710008991c54/colorLogoPNG.png" group-title="الولايات المتحدة (US)",NCIS (United States) CA
+#EXTINF:-1 tvg-id="NCIS.us@CA" tvg-logo="https://images.pluto.tv/channels/63eb9fdda995710008991c54/colorLogoPNG.png" group-title="الولايات المتحدة (US)",NCIS CA
 https://jmp2.uk/plu-62f4f5de1c100100075665ef.m3u8
-#EXTINF:-1 tvg-id="NCIS.us@LatAm" tvg-logo="https://images.pluto.tv/channels/63eb9fdda995710008991c54/colorLogoPNG.png" group-title="الولايات المتحدة (US)",NCIS (United States) LatAm
+#EXTINF:-1 tvg-id="NCIS.us@LatAm" tvg-logo="https://images.pluto.tv/channels/63eb9fdda995710008991c54/colorLogoPNG.png" group-title="الولايات المتحدة (US)",NCIS LatAm
 https://jmp2.uk/plu-63eb947c4e83e70008ab877b.m3u8
-#EXTINF:-1 tvg-id="NCISLosAngeles.us@CA" tvg-logo="https://images.pluto.tv/channels/66a106c8a79dea0008aa5ef3/colorLogoPNG.png" group-title="الولايات المتحدة (US)",NCIS: Los Angeles (United States)
+#EXTINF:-1 tvg-id="NCISLosAngeles.us@CA" tvg-logo="https://images.pluto.tv/channels/66a106c8a79dea0008aa5ef3/colorLogoPNG.png" group-title="الولايات المتحدة (US)",NCIS: Los Angeles
 https://jmp2.uk/plu-66a106c8a79dea0008aa5ef3.m3u8
 #EXTINF:-1 tvg-id="NCMEducationalKidsChannel.us@SD" tvg-logo="https://i.imgur.com/3YPvfPn.png" group-title="الولايات المتحدة (US)",NCM Educational & Kids Channel
 https://reflect-npa.cablecast.tv/live-9/live/live.m3u8
@@ -12361,7 +12149,7 @@ https://live.ntdtv.com/cnlive900/playlist.m3u8
 https://amg17596-ntdtv-amg17596c1-rakuten-gb-6741.playouts.now.amagi.tv/playlist/amg17596-newtangdynastytelevision-ntdtv-rakutengb/playlist.m3u8
 #EXTINF:-1 tvg-id="NTDTVEnglish.us@UK" tvg-logo="https://i.imgur.com/26uv1ww.png" group-title="الولايات المتحدة (US)",NTD TV English UK (1080p)
 https://ntd02.akamaized.net/NTD-UK/index.m3u8
-#EXTINF:-1 tvg-id="Numbers.us@BR" tvg-logo="https://images.pluto.tv/channels/67f960c5441853fe50e7afc1/colorLogoPNG_1747430170532.png" group-title="الولايات المتحدة (US)",Numbers (United States)
+#EXTINF:-1 tvg-id="Numbers.us@BR" tvg-logo="https://images.pluto.tv/channels/67f960c5441853fe50e7afc1/colorLogoPNG_1747430170532.png" group-title="الولايات المتحدة (US)",Numbers
 https://jmp2.uk/plu-67f960c5441853fe50e7afc1.m3u8
 #EXTINF:-1 tvg-id="Numeros.us@LatAm" tvg-logo="https://images.pluto.tv/channels/67f960680072d6b187a0682e/colorLogoPNG_1747415112008.png" group-title="الولايات المتحدة (US)",Numeros
 https://jmp2.uk/plu-67f960680072d6b187a0682e.m3u8
@@ -12547,7 +12335,7 @@ https://toy.vcdn.fyi/placid/index.m3u8
 https://jmp2.uk/plu-66dad50215d2c60008d7afbd.m3u8
 #EXTINF:-1 tvg-id="PlutoTVALaMexicana.us@LatAm" tvg-logo="https://images.pluto.tv/channels/5dfcde52d28b09000a42d7a2/colorLogoPNG.png" group-title="الولايات المتحدة (US)",Pluto TV A La Mexicana
 https://jmp2.uk/plu-5dfcde52d28b09000a42d7a2.m3u8
-#EXTINF:-1 tvg-id="PlutoTVAction.us@US" tvg-logo="https://i.imgur.com/tDapGal.png" group-title="الولايات المتحدة (US)",Pluto TV Action (United States)
+#EXTINF:-1 tvg-id="PlutoTVAction.us@US" tvg-logo="https://i.imgur.com/tDapGal.png" group-title="الولايات المتحدة (US)",Pluto TV Action
 https://jmp2.uk/plu-561d7d484dc7c8770484914a.m3u8
 #EXTINF:-1 tvg-id="PlutoTVActionMovies.us@CA" tvg-logo="https://images.pluto.tv/channels/62ea3c2e4823db00072788ed/colorLogoPNG.png" group-title="الولايات المتحدة (US)",Pluto TV Action Movies
 https://jmp2.uk/plu-62ea3c2e4823db00072788ed.m3u8
@@ -12699,11 +12487,11 @@ https://jmp2.uk/plu-5f4d3696d938c900072679fd.m3u8
 https://jmp2.uk/plu-5a4d35dfa5c02e717a234f86.m3u8
 #EXTINF:-1 tvg-id="PlutoTVHometownDrama.us@SD" tvg-logo="https://images.pluto.tv/channels/69d6c7befde57cd5ba0160c3/colorLogoPNG_1777488284970.png" group-title="الولايات المتحدة (US)",Pluto TV Hometown Drama
 https://jmp2.uk/plu-69d6c7befde57cd5ba0160c3.m3u8
-#EXTINF:-1 tvg-id="PlutoTVHorror.us@US" tvg-logo="https://images.pluto.tv/channels/569546031a619b8f07ce6e25/colorLogoPNG.png" group-title="الولايات المتحدة (US)",Pluto TV Horror (United States)
+#EXTINF:-1 tvg-id="PlutoTVHorror.us@US" tvg-logo="https://images.pluto.tv/channels/569546031a619b8f07ce6e25/colorLogoPNG.png" group-title="الولايات المتحدة (US)",Pluto TV Horror
 https://jmp2.uk/plu-569546031a619b8f07ce6e25.m3u8
-#EXTINF:-1 tvg-id="PlutoTVHorror.us@CA" tvg-logo="https://images.pluto.tv/channels/569546031a619b8f07ce6e25/colorLogoPNG.png" group-title="الولايات المتحدة (US)",Pluto TV Horror (United States) CA
+#EXTINF:-1 tvg-id="PlutoTVHorror.us@CA" tvg-logo="https://images.pluto.tv/channels/569546031a619b8f07ce6e25/colorLogoPNG.png" group-title="الولايات المتحدة (US)",Pluto TV Horror CA
 https://jmp2.uk/plu-62ea3f8a38acc80007072d26.m3u8
-#EXTINF:-1 tvg-id="PlutoTVHumor.us@LatAm" tvg-logo="https://images.pluto.tv/channels/5e8397936791b30007ebb5a7/colorLogoPNG.png" group-title="الولايات المتحدة (US)",Pluto TV Humor (United States)
+#EXTINF:-1 tvg-id="PlutoTVHumor.us@LatAm" tvg-logo="https://images.pluto.tv/channels/5e8397936791b30007ebb5a7/colorLogoPNG.png" group-title="الولايات المتحدة (US)",Pluto TV Humor
 https://jmp2.uk/plu-5e8397936791b30007ebb5a7.m3u8
 #EXTINF:-1 tvg-id="PlutoTVIcons.us@SD" tvg-logo="https://images.pluto.tv/channels/64b585f84ea480000838e446/colorLogoPNG.png" group-title="الولايات المتحدة (US)",Pluto TV Icons
 https://jmp2.uk/plu-64b585f84ea480000838e446.m3u8
@@ -12769,9 +12557,9 @@ https://jmp2.uk/plu-6474a86917f5e100089a0c1c.m3u8
 https://jmp2.uk/plu-5defde6d6c07b50009cf0757.m3u8
 #EXTINF:-1 tvg-id="PlutoTVPaisagensporStingray.us@BR" tvg-logo="https://images.pluto.tv/channels/604a8dedbca75b0007b1c753/colorLogoPNG.png" group-title="الولايات المتحدة (US)",Pluto TV Paisagens por Stingray (720p)
 https://jmp2.uk/plu-604a8dedbca75b0007b1c753.m3u8
-#EXTINF:-1 tvg-id="PlutoTVParanormal.us@US" tvg-logo="https://images.pluto.tv/channels/62e92a58f3e4290007290c96/colorLogoPNG.png" group-title="الولايات المتحدة (US)",Pluto TV Paranormal (United States)
+#EXTINF:-1 tvg-id="PlutoTVParanormal.us@US" tvg-logo="https://images.pluto.tv/channels/62e92a58f3e4290007290c96/colorLogoPNG.png" group-title="الولايات المتحدة (US)",Pluto TV Paranormal
 https://jmp2.uk/plu-5adf96e3e738977e2c31cb04.m3u8
-#EXTINF:-1 tvg-id="PlutoTVParanormal.us@CA" tvg-logo="https://images.pluto.tv/channels/62e92a58f3e4290007290c96/colorLogoPNG.png" group-title="الولايات المتحدة (US)",Pluto TV Paranormal (United States) CA
+#EXTINF:-1 tvg-id="PlutoTVParanormal.us@CA" tvg-logo="https://images.pluto.tv/channels/62e92a58f3e4290007290c96/colorLogoPNG.png" group-title="الولايات المتحدة (US)",Pluto TV Paranormal CA
 https://jmp2.uk/plu-62e92a58f3e4290007290c96.m3u8
 #EXTINF:-1 tvg-id="PlutoTVPeleas.us@LatAm" tvg-logo="https://images.pluto.tv/channels/5e98b0447665f200078caded/colorLogoPNG.png" group-title="الولايات المتحدة (US)",Pluto TV Peleas
 https://jmp2.uk/plu-5e98b0447665f200078caded.m3u8
@@ -12801,11 +12589,11 @@ https://jmp2.uk/plu-6408b41b83f58900081d91ad.m3u8
 https://jmp2.uk/plu-5a66795ef91fef2c7031c599.m3u8
 #EXTINF:-1 tvg-id="PlutoTVSanctuary.us@SD" tvg-logo="https://i.imgur.com/Fu2jn2t.png" group-title="الولايات المتحدة (US)",Pluto TV Sanctuary
 https://jmp2.uk/plu-63eb57d6c111bc0008fe2658.m3u8
-#EXTINF:-1 tvg-id="PlutoTVSciFi.us@US" tvg-logo="https://images.pluto.tv/channels/66166cb1307fa30008f275e7/colorLogoPNG.png" group-title="الولايات المتحدة (US)",Pluto TV Sci-Fi (United States)
+#EXTINF:-1 tvg-id="PlutoTVSciFi.us@US" tvg-logo="https://images.pluto.tv/channels/66166cb1307fa30008f275e7/colorLogoPNG.png" group-title="الولايات المتحدة (US)",Pluto TV Sci-Fi
 https://jmp2.uk/plu-5b4fc274694c027be6ed3eea.m3u8
-#EXTINF:-1 tvg-id="PlutoTVSciFi.us@CA" tvg-logo="https://images.pluto.tv/channels/66166cb1307fa30008f275e7/colorLogoPNG.png" group-title="الولايات المتحدة (US)",Pluto TV Sci-Fi (United States) CA
+#EXTINF:-1 tvg-id="PlutoTVSciFi.us@CA" tvg-logo="https://images.pluto.tv/channels/66166cb1307fa30008f275e7/colorLogoPNG.png" group-title="الولايات المتحدة (US)",Pluto TV Sci-Fi CA
 https://jmp2.uk/plu-66166cb1307fa30008f275e7.m3u8
-#EXTINF:-1 tvg-id="PlutoTVSciFi.us@LatAm" tvg-logo="https://images.pluto.tv/channels/66166cb1307fa30008f275e7/colorLogoPNG.png" group-title="الولايات المتحدة (US)",Pluto TV Sci-Fi (United States) LatAm
+#EXTINF:-1 tvg-id="PlutoTVSciFi.us@LatAm" tvg-logo="https://images.pluto.tv/channels/66166cb1307fa30008f275e7/colorLogoPNG.png" group-title="الولايات المتحدة (US)",Pluto TV Sci-Fi LatAm
 https://jmp2.uk/plu-5f2817d3d7573a00080f9175.m3u8
 #EXTINF:-1 tvg-id="PlutoTVScience.us@US" tvg-logo="https://i.imgur.com/uhunRoU.png" group-title="الولايات المتحدة (US)",Pluto TV Science
 https://jmp2.uk/plu-563a970aa1a1f7fe7c9daad7.m3u8
@@ -12859,9 +12647,9 @@ https://jmp2.uk/plu-67352ed93a61d4000881f9fa.m3u8
 https://jmp2.uk/plu-5b4e69e08291147bd04a9fd7.m3u8
 #EXTINF:-1 tvg-id="PlutoTVTrendingNow.us@SD" tvg-logo="https://images.pluto.tv/channels/673247127d5da5000817b4d6/colorLogoPNG_1732662634386.png" group-title="الولايات المتحدة (US)",Pluto TV Trending Now
 https://jmp2.uk/plu-673247127d5da5000817b4d6.m3u8
-#EXTINF:-1 tvg-id="PlutoTVTrueCrime.us@US" tvg-logo="https://images.pluto.tv/channels/62e9289f8d467f0007fbc701/colorLogoPNG.png" group-title="الولايات المتحدة (US)",Pluto TV True Crime (United States)
+#EXTINF:-1 tvg-id="PlutoTVTrueCrime.us@US" tvg-logo="https://images.pluto.tv/channels/62e9289f8d467f0007fbc701/colorLogoPNG.png" group-title="الولايات المتحدة (US)",Pluto TV True Crime
 https://jmp2.uk/plu-5812be1c249444e05d09cc50.m3u8
-#EXTINF:-1 tvg-id="PlutoTVTrueCrime.us@CA" tvg-logo="https://images.pluto.tv/channels/62e9289f8d467f0007fbc701/colorLogoPNG.png" group-title="الولايات المتحدة (US)",Pluto TV True Crime (United States) CA
+#EXTINF:-1 tvg-id="PlutoTVTrueCrime.us@CA" tvg-logo="https://images.pluto.tv/channels/62e9289f8d467f0007fbc701/colorLogoPNG.png" group-title="الولايات المتحدة (US)",Pluto TV True Crime CA
 https://jmp2.uk/plu-62e9289f8d467f0007fbc701.m3u8
 #EXTINF:-1 tvg-id="PlutoTVTurbo.us@BR" tvg-logo="https://images.pluto.tv/channels/6014761dfb91870008ea6463/colorLogoPNG.png" group-title="الولايات المتحدة (US)",Pluto TV Turbo
 https://jmp2.uk/plu-6014761dfb91870008ea6463.m3u8
@@ -12873,9 +12661,9 @@ https://jmp2.uk/plu-5f32d432d612e50007e56133.m3u8
 https://jmp2.uk/plu-5f32d4d9ec194100070c7449.m3u8
 #EXTINF:-1 tvg-id="PlutoTVVidaReal.us@LatAm" tvg-logo="https://images.pluto.tv/channels/5f32d4d9ec194100070c7449/colorLogoPNG_1732044921019.png" group-title="الولايات المتحدة (US)",Pluto TV Vida Real LatAm
 https://jmp2.uk/plu-5df265697ec3510009df1ef0.m3u8
-#EXTINF:-1 tvg-id="PlutoTVWesterns.us@US" tvg-logo="https://images.pluto.tv/channels/62bdacc96a3751000811842d/colorLogoPNG.png" group-title="الولايات المتحدة (US)",Pluto TV Westerns (United States)
+#EXTINF:-1 tvg-id="PlutoTVWesterns.us@US" tvg-logo="https://images.pluto.tv/channels/62bdacc96a3751000811842d/colorLogoPNG.png" group-title="الولايات المتحدة (US)",Pluto TV Westerns
 https://jmp2.uk/plu-5b4e94282d4ec87bdcbb87cd.m3u8
-#EXTINF:-1 tvg-id="PlutoTVWesterns.us@CA" tvg-logo="https://images.pluto.tv/channels/62bdacc96a3751000811842d/colorLogoPNG.png" group-title="الولايات المتحدة (US)",Pluto TV Westerns (United States) CA
+#EXTINF:-1 tvg-id="PlutoTVWesterns.us@CA" tvg-logo="https://images.pluto.tv/channels/62bdacc96a3751000811842d/colorLogoPNG.png" group-title="الولايات المتحدة (US)",Pluto TV Westerns CA
 https://jmp2.uk/plu-62bdacc96a3751000811842d.m3u8
 #EXTINF:-1 tvg-id="PlutoTVWipeout.us@SD" tvg-logo="https://i.imgur.com/KVTNBFr.png" group-title="الولايات المتحدة (US)",Pluto TV Wipeout
 https://jmp2.uk/plu-6909e5c3a3a4b49706b8373b.m3u8
@@ -12947,9 +12735,9 @@ https://newidco-rakutenviki-2-eu.xiaomi.wurl.tv/playlist.m3u8
 https://fd18f1cadd404894a31a3362c5f319bd.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_RakutenViki-1/playlist.m3u8
 #EXTINF:-1 tvg-id="RallyTV.us@SD" tvg-logo="https://i.postimg.cc/WtLq2C7c/logo-Rally-Tv1.png" group-title="الولايات المتحدة (US)",Rally TV (1080p)
 https://rally-tv-live.akamaized.net/hls/live/2117704/RallyTV-Pri/master.m3u8
-#EXTINF:-1 tvg-id="Rawhide.us@SD" tvg-logo="https://images.pluto.tv/channels/65660223635c3c00086c2578/colorLogoPNG.png" group-title="الولايات المتحدة (US)",Rawhide (United States)
+#EXTINF:-1 tvg-id="Rawhide.us@SD" tvg-logo="https://images.pluto.tv/channels/65660223635c3c00086c2578/colorLogoPNG.png" group-title="الولايات المتحدة (US)",Rawhide
 https://jmp2.uk/plu-634f307c7a068e00072c9982.m3u8
-#EXTINF:-1 tvg-id="Rawhide.us@CA" tvg-logo="https://images.pluto.tv/channels/65660223635c3c00086c2578/colorLogoPNG.png" group-title="الولايات المتحدة (US)",Rawhide (United States) CA
+#EXTINF:-1 tvg-id="Rawhide.us@CA" tvg-logo="https://images.pluto.tv/channels/65660223635c3c00086c2578/colorLogoPNG.png" group-title="الولايات المتحدة (US)",Rawhide CA
 https://jmp2.uk/plu-65660223635c3c00086c2578.m3u8
 #EXTINF:-1 tvg-id="RCTV3.us@SD" tvg-logo="https://i.imgur.com/TvFKG35.png" group-title="الولايات المتحدة (US)",RCTV3 (480p)
 https://vod.cityofrc.us/live-6/live/stream-1/live.m3u8
@@ -12989,7 +12777,7 @@ https://linear-44.frequency.stream/dist/plex/44/hls/master/playlist.m3u8
 https://linear-43.frequency.stream/dist/galxy/43/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="RFDTV.us@SD" tvg-logo="https://i.imgur.com/FcT3beY.png" group-title="الولايات المتحدة (US)",RFD-TV
 https://rfdtv-jw.cdn.vustreams.com/live/7cba1a3b-318a-4097-8492-374478370b91/live.isml/7cba1a3b-318a-4097-8492-374478370b91.m3u8
-#EXTINF:-1 tvg-id="Ridiculousness.us@SD" tvg-logo="https://images.pluto.tv/channels/6996296087742204bff43147/colorLogoPNG_1772645176417.png" group-title="الولايات المتحدة (US)",Ridiculousness (United States)
+#EXTINF:-1 tvg-id="Ridiculousness.us@SD" tvg-logo="https://images.pluto.tv/channels/6996296087742204bff43147/colorLogoPNG_1772645176417.png" group-title="الولايات المتحدة (US)",Ridiculousness
 https://jmp2.uk/plu-6996296087742204bff43147.m3u8
 #EXTINF:-1 tvg-id="RiffTrax.us@US" tvg-logo="https://i.imgur.com/hM4yKMn.png" group-title="الولايات المتحدة (US)",RiffTrax (720p)
 https://wurlrifftrax.global.transmit.live/hls/68222b9cbe836edbe6f39e74/playlist.m3u8
@@ -13021,7 +12809,7 @@ http://4.59.210.197:8815/udp/127.0.0.1:6002
 https://651c69fa2ff4e.streamlock.net/3707/live1/chunklist.m3u8
 #EXTINF:-1 tvg-id="RTViUS.us@SD" tvg-logo="https://www.einpresswire.com/image/large/960869/logo-rtvi-us.png#676x536" group-title="الولايات المتحدة (US)",RTVi US (1080p)
 https://amg17233-amg17233c1-wisptv-us-6409.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Rugrats.us@LatAm" tvg-logo="https://images.pluto.tv/channels/5ea7215005d66d0007e8128a/colorLogoPNG.png" group-title="الولايات المتحدة (US)",Rugrats (United States)
+#EXTINF:-1 tvg-id="Rugrats.us@LatAm" tvg-logo="https://images.pluto.tv/channels/5ea7215005d66d0007e8128a/colorLogoPNG.png" group-title="الولايات المتحدة (US)",Rugrats
 https://jmp2.uk/plu-5ea7215005d66d0007e8128a.m3u8
 #EXTINF:-1 tvg-id="Runtime.us@SD" tvg-logo="https://i.imgur.com/2USCMvP.png" group-title="الولايات المتحدة (US)",Runtime (720p)
 https://jmp2.uk/plu-6086d3f420fc8500075f8dbf.m3u8
@@ -13133,7 +12921,7 @@ https://livestream.telvue.com/santamariactv3/f7b44cfafd5c52223d5498196c8a2e7b.sd
 https://jmp2.uk/plu-6298bd10d88ef000073f16b7.m3u8
 #EXTINF:-1 tvg-id="SmithsonianChannelPlutoTV.us@LatAm" tvg-logo="https://images.pluto.tv/channels/6298bd10d88ef000073f16b7/colorLogoPNG.png" group-title="الولايات المتحدة (US)",Smithsonian Channel Pluto TV LatAm
 https://jmp2.uk/plu-63a084934734f30007457b2c.m3u8
-#EXTINF:-1 tvg-id="SmithsonianChannelSelects.us@SD" tvg-logo="https://i.imgur.com/Kt5j8Vr.png" group-title="الولايات المتحدة (US)",Smithsonian Channel Selects (United States)
+#EXTINF:-1 tvg-id="SmithsonianChannelSelects.us@SD" tvg-logo="https://i.imgur.com/Kt5j8Vr.png" group-title="الولايات المتحدة (US)",Smithsonian Channel Selects
 https://jmp2.uk/plu-5f21ea08007a49000762d349.m3u8
 #EXTINF:-1 tvg-id="SmurfTV.us@SD" tvg-logo="https://img.static-ottera.com/prod/tg/linear_channel/thumbnails/widescreen/EJIyYyBMkbW5UntSCAkGp-uLla7Z8KWHvDjyEqoOf3k.jpg" group-title="الولايات المتحدة (US)",Smurf TV (480p)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4065
@@ -13155,11 +12943,11 @@ https://a-cdn.klowdtv.com/live1/smc_720p/playlist.m3u8
 http://15.204.246.24:8080/SonyMoviesHD/index.m3u8
 #EXTINF:-1 tvg-id="SoundViewCommunityMedia.us@SD" tvg-logo="https://i.imgur.com/3gASzGc.png" group-title="الولايات المتحدة (US)",Sound View Community Media (480p)
 https://livestream.telvue.com/soundviewcmt2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="SouthPark.us@CA" tvg-logo="https://images.pluto.tv/channels/62bdb1c5e25122000798ac79/colorLogoPNG.png" group-title="الولايات المتحدة (US)",South Park (United States)
+#EXTINF:-1 tvg-id="SouthPark.us@CA" tvg-logo="https://images.pluto.tv/channels/62bdb1c5e25122000798ac79/colorLogoPNG.png" group-title="الولايات المتحدة (US)",South Park
 https://jmp2.uk/plu-62bdb1c5e25122000798ac79.m3u8
 #EXTINF:-1 tvg-id="SouthParkEnFrancais.us@CA" tvg-logo="https://images.pluto.tv/channels/62bdb919d36cbd0007e6ab8a/colorLogoPNG.png" group-title="الولايات المتحدة (US)",South Park En Francais
 https://jmp2.uk/plu-62bdb919d36cbd0007e6ab8a.m3u8
-#EXTINF:-1 tvg-id="SouthParkCartmanCollection.us@CA" tvg-logo="https://images.pluto.tv/channels/65df4934f7f0af0008c32545/colorLogoPNG.png" group-title="الولايات المتحدة (US)",South Park: Cartman Collection (United States)
+#EXTINF:-1 tvg-id="SouthParkCartmanCollection.us@CA" tvg-logo="https://images.pluto.tv/channels/65df4934f7f0af0008c32545/colorLogoPNG.png" group-title="الولايات المتحدة (US)",South Park: Cartman Collection
 https://jmp2.uk/plu-65df4934f7f0af0008c32545.m3u8
 #EXTINF:-1 tvg-id="SouthParkColecaoCartman.us@BR" tvg-logo="https://images.pluto.tv/channels/65df71008b24c80008f04281/colorLogoPNG.png" group-title="الولايات المتحدة (US)",South Park: Colecao Cartman
 https://jmp2.uk/plu-65df71008b24c80008f04281.m3u8
@@ -13177,11 +12965,11 @@ https://jmp2.uk/plu-65df7272ec9fda0008b7a970.m3u8
 https://jmp2.uk/plu-65df73520d4561000817c29b.m3u8
 #EXTINF:-1 tvg-id="SouthParkColeccionStan.us@LatAm" tvg-logo="https://images.pluto.tv/channels/65df72db18036500081a8292/colorLogoPNG.png" group-title="الولايات المتحدة (US)",South Park: Coleccion Stan
 https://jmp2.uk/plu-65df72db18036500081a8292.m3u8
-#EXTINF:-1 tvg-id="SouthParkKennyCollection.us@CA" tvg-logo="https://images.pluto.tv/channels/65df47f428730900089f83ac/colorLogoPNG.png" group-title="الولايات المتحدة (US)",South Park: Kenny Collection (United States)
+#EXTINF:-1 tvg-id="SouthParkKennyCollection.us@CA" tvg-logo="https://images.pluto.tv/channels/65df47f428730900089f83ac/colorLogoPNG.png" group-title="الولايات المتحدة (US)",South Park: Kenny Collection
 https://jmp2.uk/plu-65df47f428730900089f83ac.m3u8
-#EXTINF:-1 tvg-id="SouthParkKyleCollection.us@CA" tvg-logo="https://images.pluto.tv/channels/65df49b30d45610008172c5b/colorLogoPNG.png" group-title="الولايات المتحدة (US)",South Park: Kyle Collection (United States)
+#EXTINF:-1 tvg-id="SouthParkKyleCollection.us@CA" tvg-logo="https://images.pluto.tv/channels/65df49b30d45610008172c5b/colorLogoPNG.png" group-title="الولايات المتحدة (US)",South Park: Kyle Collection
 https://jmp2.uk/plu-65df49b30d45610008172c5b.m3u8
-#EXTINF:-1 tvg-id="SouthParkStanCollection.us@CA" tvg-logo="https://images.pluto.tv/channels/65df48ba28730900089f8480/colorLogoPNG.png" group-title="الولايات المتحدة (US)",South Park: Stan Collection (United States)
+#EXTINF:-1 tvg-id="SouthParkStanCollection.us@CA" tvg-logo="https://images.pluto.tv/channels/65df48ba28730900089f8480/colorLogoPNG.png" group-title="الولايات المتحدة (US)",South Park: Stan Collection
 https://jmp2.uk/plu-65df48ba28730900089f8480.m3u8
 #EXTINF:-1 tvg-id="SouthParkWelcometoCanada.us@CA" tvg-logo="https://images.pluto.tv/channels/663115d923e24f000843b49c/colorLogoPNG.png" group-title="الولايات المتحدة (US)",South Park: Welcome to Canada!
 https://jmp2.uk/plu-663115d923e24f000843b49c.m3u8
@@ -13221,9 +13009,9 @@ https://jmp2.uk/plu-5ec5761aabe4690007f6e047.m3u8
 https://jmp2.uk/plu-5efbd39f8c4ce900075d7698.m3u8
 #EXTINF:-1 tvg-id="StarTrekDeepSpaceNine.us@SD" tvg-logo="https://images.pluto.tv/channels/65c69bbfd77d450008c7ffee/colorLogoPNG_1758310416057.png" group-title="الولايات المتحدة (US)",Star Trek: Deep Space Nine
 https://jmp2.uk/plu-65c69bbfd77d450008c7ffee.m3u8
-#EXTINF:-1 tvg-id="StarTrekTheNextGeneration.us@SD" tvg-logo="https://images.pluto.tv/channels/695c32e61ca20bb8ca802eb9/colorLogoPNG_1768440087394.png" group-title="الولايات المتحدة (US)",Star Trek: The Next Generation (United States)
+#EXTINF:-1 tvg-id="StarTrekTheNextGeneration.us@SD" tvg-logo="https://images.pluto.tv/channels/695c32e61ca20bb8ca802eb9/colorLogoPNG_1768440087394.png" group-title="الولايات المتحدة (US)",Star Trek: The Next Generation
 https://jmp2.uk/plu-695c32e61ca20bb8ca802eb9.m3u8
-#EXTINF:-1 tvg-id="StarTrekVoyager.us@SD" tvg-logo="https://images.pluto.tv/channels/634dacf51d90320007fcd5fa/colorLogoPNG_1758310287876.png" group-title="الولايات المتحدة (US)",Star Trek: Voyager (United States)
+#EXTINF:-1 tvg-id="StarTrekVoyager.us@SD" tvg-logo="https://images.pluto.tv/channels/634dacf51d90320007fcd5fa/colorLogoPNG_1758310287876.png" group-title="الولايات المتحدة (US)",Star Trek: Voyager
 https://jmp2.uk/plu-634dacf51d90320007fcd5fa.m3u8
 #EXTINF:-1 tvg-id="Starz.us@West" tvg-logo="https://i.imgur.com/N7oSm4d.png" group-title="الولايات المتحدة (US)",Starz West (720p)
 http://23.237.104.106:8080/USA_STARZ_WEST/index.m3u8
@@ -13333,7 +13121,7 @@ http://45.171.64.30:6060/play/a014/index.m3u8
 https://cdn.jwplayer.com/live/broadcast/frRD2nUK.m3u8
 #EXTINF:-1 tvg-id="TED.us@SD" tvg-logo="https://i.imgur.com/KeIhwNP.png" group-title="الولايات المتحدة (US)",TED (1080p)
 https://d1b16tvvxk3tnu.cloudfront.net/TED.m3u8
-#EXTINF:-1 tvg-id="TeenMom.us@SD" tvg-logo="https://i.imgur.com/8o3ClCV.png" group-title="الولايات المتحدة (US)",Teen Mom (United States)
+#EXTINF:-1 tvg-id="TeenMom.us@SD" tvg-logo="https://i.imgur.com/8o3ClCV.png" group-title="الولايات المتحدة (US)",Teen Mom
 https://jmp2.uk/plu-6127e12ed140e900077e7b6f.m3u8
 #EXTINF:-1 tvg-id="TeenNick.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/TeenNick_logo_2023_%28outline%29.svg/1280px-TeenNick_logo_2023_%28outline%29.svg.png" group-title="الولايات المتحدة (US)",TeenNick (United States) (432p)
 http://tvsen7.aynascope.net/teennick/index.m3u8
@@ -13445,11 +13233,11 @@ https://dlttx48mxf9m3.cloudfront.net/vod_clients/amp/live/ch3/video.m3u8
 https://jmp2.uk/plu-6391cef9edb23c0008598cee.m3u8
 #EXTINF:-1 tvg-id="TheNest.us@SD" tvg-logo="https://iili.io/JGqD21e.png" group-title="الولايات المتحدة (US)",The Nest (1080p)
 https://fast-channels.sinclairstoryline.com/THENEST/index.m3u8
-#EXTINF:-1 tvg-id="TheNewDetectives.us@US" tvg-logo="https://images.pluto.tv/channels/62bdabbc5611f2000761ca30/colorLogoPNG.png" group-title="الولايات المتحدة (US)",The New Detectives (United States)
+#EXTINF:-1 tvg-id="TheNewDetectives.us@US" tvg-logo="https://images.pluto.tv/channels/62bdabbc5611f2000761ca30/colorLogoPNG.png" group-title="الولايات المتحدة (US)",The New Detectives
 https://jmp2.uk/plu-5aea40b35126c2157123aa64.m3u8
-#EXTINF:-1 tvg-id="TheNewDetectives.us@CA" tvg-logo="https://images.pluto.tv/channels/62bdabbc5611f2000761ca30/colorLogoPNG.png" group-title="الولايات المتحدة (US)",The New Detectives (United States) CA
+#EXTINF:-1 tvg-id="TheNewDetectives.us@CA" tvg-logo="https://images.pluto.tv/channels/62bdabbc5611f2000761ca30/colorLogoPNG.png" group-title="الولايات المتحدة (US)",The New Detectives CA
 https://jmp2.uk/plu-62bdabbc5611f2000761ca30.m3u8
-#EXTINF:-1 tvg-id="TheNewDetectives.us@LatAm" tvg-logo="https://images.pluto.tv/channels/62bdabbc5611f2000761ca30/colorLogoPNG.png" group-title="الولايات المتحدة (US)",The New Detectives (United States) LatAm
+#EXTINF:-1 tvg-id="TheNewDetectives.us@LatAm" tvg-logo="https://images.pluto.tv/channels/62bdabbc5611f2000761ca30/colorLogoPNG.png" group-title="الولايات المتحدة (US)",The New Detectives LatAm
 https://jmp2.uk/plu-5ea71d48af1d0b0007d837f4.m3u8
 #EXTINF:-1 tvg-id="TheNowNetwork.us@SD" tvg-logo="https://i.imgur.com/Wp6d0F8.png" group-title="الولايات المتحدة (US)",The Now Network (480p) [Not 24/7]
 https://mediaprod1.nowcast.cc:5443/LiveApp/streams/anZPy7eaVWLyDMZB1697488814699.m3u8
@@ -13495,7 +13283,7 @@ https://jmp2.uk/plu-5e82bb378601b80007b4bd78.m3u8
 https://amc-twdfanexperience-1-us.vizio.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TheWeatherChannel.us@SD" tvg-logo="https://i.imgur.com/PIaNjfa.png" group-title="الولايات المتحدة (US)",The Weather Channel (1080p)
 https://twcprod-live.twc-tv.com/v1/manifest/b4d4d63a49309cc5140171fb2e92485c31be1e9e/DSP_6228e4760505741a116f1ba2_twcprod-live/6bf09ce5-366b-463c-b67e-c4b799f73c3f/4.m3u8
-#EXTINF:-1 tvg-id="TheWildWildWest.us@SD" tvg-logo="https://images.pluto.tv/channels/664e640a0120f40008be4582/colorLogoPNG.png" group-title="الولايات المتحدة (US)",The Wild Wild West (United States)
+#EXTINF:-1 tvg-id="TheWildWildWest.us@SD" tvg-logo="https://images.pluto.tv/channels/664e640a0120f40008be4582/colorLogoPNG.png" group-title="الولايات المتحدة (US)",The Wild Wild West
 https://jmp2.uk/plu-664e640a0120f40008be4582.m3u8
 #EXTINF:-1 tvg-id="TheWordNetwork.us@SD" tvg-logo="https://i.imgur.com/ltFBrrj.png" group-title="الولايات المتحدة (US)",The Word Network (1080p)
 https://clouditize.piksel.tech/hls/live/2043070/ClouditizeStream1/playlist.m3u8
@@ -13577,13 +13365,13 @@ http://190.61.42.218:9000/play/a06i/index.m3u8
 https://amg01329-otterainc-toongoggles-samsungau-ad-4c.amagi.tv/playlist/amg01329-otterainc-toongoggles-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-id="TopStoriesbyNewsy.us@SD" tvg-logo="https://i.imgur.com/UfN6aAi.png" group-title="الولايات المتحدة (US)",Top Stories by Newsy (720p)
 https://content.uplynk.com/channel/33c48f602cfd4474b957eb4ad999caf8.m3u8
-#EXTINF:-1 tvg-id="TortuesNinjaTV.us@CA" tvg-logo="https://images.pluto.tv/channels/62e9566e27ce19000732ec85/colorLogoPNG.png" group-title="الولايات المتحدة (US)",Tortues Ninja TV (United States) (720p)
+#EXTINF:-1 tvg-id="TortuesNinjaTV.us@CA" tvg-logo="https://images.pluto.tv/channels/62e9566e27ce19000732ec85/colorLogoPNG.png" group-title="الولايات المتحدة (US)",Tortues Ninja TV (720p)
 https://jmp2.uk/plu-62e9566e27ce19000732ec85.m3u8
-#EXTINF:-1 tvg-id="Tosh0.us@SD" tvg-logo="https://i.imgur.com/sXkluxg.png" group-title="الولايات المتحدة (US)",Tosh.0 (United States)
+#EXTINF:-1 tvg-id="Tosh0.us@SD" tvg-logo="https://i.imgur.com/sXkluxg.png" group-title="الولايات المتحدة (US)",Tosh.0
 https://jmp2.uk/plu-5dae084727c8af0009fe40a4.m3u8
-#EXTINF:-1 tvg-id="TotallyTurtles.us@US" tvg-logo="https://images.pluto.tv/channels/62e95265c9fd030007268fb9/colorLogoPNG.png" group-title="الولايات المتحدة (US)",Totally Turtles (United States)
+#EXTINF:-1 tvg-id="TotallyTurtles.us@US" tvg-logo="https://images.pluto.tv/channels/62e95265c9fd030007268fb9/colorLogoPNG.png" group-title="الولايات المتحدة (US)",Totally Turtles
 https://jmp2.uk/plu-5d0c16d686454ead733d08f8.m3u8
-#EXTINF:-1 tvg-id="TotallyTurtles.us@CA" tvg-logo="https://images.pluto.tv/channels/62e95265c9fd030007268fb9/colorLogoPNG.png" group-title="الولايات المتحدة (US)",Totally Turtles (United States) CA (720p)
+#EXTINF:-1 tvg-id="TotallyTurtles.us@CA" tvg-logo="https://images.pluto.tv/channels/62e95265c9fd030007268fb9/colorLogoPNG.png" group-title="الولايات المتحدة (US)",Totally Turtles CA (720p)
 https://jmp2.uk/plu-62e95265c9fd030007268fb9.m3u8
 #EXTINF:-1 tvg-id="ToughJobs.us@SD" tvg-logo="https://images.pluto.tv/channels/65c69bf23ef47d0008583967/colorLogoPNG.png" group-title="الولايات المتحدة (US)",Tough Jobs
 https://jmp2.uk/plu-65c69bf23ef47d0008583967.m3u8
@@ -14921,6 +14709,8 @@ http://92.114.85.87:8010/play/a00p/index.m3u8
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883104
 #EXTINF:-1 tvg-id="AntenaHD.pl@SD" tvg-logo="https://i.imgur.com/obwYQZC.png" group-title="بولندا (PL)",like Gecko) Chrome/154.0.0.0 Safari/537.36" group-title="Entertainment",Antena HD
 http://92.114.85.87:8010/play/a00g/index.m3u8
+#EXTINF:-1 tvg-id="ATMRozrywkaREWORK.pl@HD" tvg-logo="https://i.ibb.co/B5BfmQNs/ATM.jpg" group-title="بولندا (PL)",ATM Rozrywka REWORK (1080p)
+https://183.giatvcdn.com/giatvplayout7/giatv-211353/playlist.m3u8
 #EXTINF:-1 tvg-id="AXNBlack.pl@SD" tvg-logo="https://i.imgur.com/Nqvx6nz.png" group-title="بولندا (PL)",AXN Black (Poland) (576i)
 http://92.114.85.87:8014/play/a00h/index.m3u8
 #EXTINF:-1 tvg-id="AXNPoland.pl@SD" tvg-logo="https://i.imgur.com/i5wOhkf.png" group-title="بولندا (PL)",AXN Poland (1080p)
@@ -14951,14 +14741,6 @@ http://92.114.85.87:8019/play/a003/index.m3u8
 http://92.114.85.87:8019/play/a008/index.m3u8
 #EXTINF:-1 tvg-id="CanalPlusKuchnia.pl@SD" tvg-logo="https://i.imgur.com/d1JTJBl.png" group-title="بولندا (PL)",Canal+ Kuchnia (576i)
 http://92.114.85.87:8019/play/a009/index.m3u8
-#EXTINF:-1 tvg-id="CanalPlusSport2.pl@SD" tvg-logo="https://i.imgur.com/Aq2hnUj.png" group-title="بولندا (PL)",like Gecko) Chrome/156.0.0.0 Safari/537.36" group-title="Sports",Canal+ Sport 2
-http://57.129.96.133:888/stream/94/index.m3u8
-#EXTINF:-1 tvg-id="CanalPlusSport3.pl@SD" tvg-logo="https://i.imgur.com/QZwPFa8.png" group-title="بولندا (PL)",like Gecko) Chrome/156.0.0.0 Safari/537.36" group-title="Sports",Canal+ Sport 3
-http://57.129.96.133:888/stream/93/index.m3u8
-#EXTINF:-1 tvg-id="CanalPlusSport4.pl@SD" tvg-logo="https://i.imgur.com/BNAPYAx.png" group-title="بولندا (PL)",like Gecko) Chrome/156.0.0.0 Safari/537.36" group-title="Sports",Canal+ Sport 4
-http://57.129.96.133:888/stream/95/index.m3u8
-#EXTINF:-1 tvg-id="CanalPlusSport.pl@SD" tvg-logo="https://i.imgur.com/E0WTMa2.png" group-title="بولندا (PL)",like Gecko) Chrome/156.0.0.0 Safari/537.36" group-title="Sports",Canal+ Sport (Poland)
-http://57.129.96.133:888/stream/92/index.m3u8
 #EXTINF:-1 tvg-id="CarCityAdventures.pl@SD" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/bd356b80-79d9-46ff-9674-e69aaf10022f-width200-quality90.jpeg" group-title="بولندا (PL)",Car City Adventures (720p)
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883095
 #EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/3227c06e-333b-4b1b-b657-3e3ab99ebd06-width200-quality90.jpeg" group-title="بولندا (PL)",Cartoon Classics (Poland)
@@ -14967,8 +14749,6 @@ https://daiconnect.com/live/hls/tvup/rk-cartoonclassics/578f4b7eb725168349ec0af8
 http://92.114.85.87:8017/play/a004/index.m3u8
 #EXTINF:-1 tvg-id="CrimePlusInvestigationPolsat.pl@SD" tvg-logo="https://i.imgur.com/kSZCvah.png" group-title="بولندا (PL)",Crime + Investigation Polsat (576i)
 http://92.114.85.87:8015/play/a00d/index.m3u8
-#EXTINF:-1 tvg-id="DaVinci.pl@SD" tvg-logo="https://i.imgur.com/V8AUJP6.png" group-title="بولندا (PL)",Da Vinci (Poland) (576p)
-http://116.90.120.149:8000/play/a0ad/index.m3u8
 #EXTINF:-1 tvg-id="DiscoPoloMusic.pl@SD" tvg-logo="https://i.imgur.com/ZZbuTv7.png" group-title="بولندا (PL)",Disco Polo Music (1080p)
 http://92.114.85.87:8014/play/a007/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.pl@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg" group-title="بولندا (PL)",Disney Channel (Poland) HD (1080p)
@@ -15005,10 +14785,10 @@ https://cdn-euronews.akamaized.net/live/eds/euronews-pl/26382/index.m3u8
 http://57.128.210.196:8080/264/index.m3u8
 #EXTINF:-1 tvg-id="Eurosport2Polska.pl@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/16/Eurosport_2_2022.svg/revision/latest?cb=20220417183127" group-title="بولندا (PL)",Eurosport 2 Polska (1080p)
 http://57.128.210.196:8080/263/index.m3u8
-#EXTINF:-1 tvg-id="Eurosport3Polska.pl@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/da/Eurosport_3_2022.svg/revision/latest?cb=20220418054130" group-title="بولندا (PL)",Eurosport 3 Polska
-http://sultanios.alwaysdata.net/vavo.php?ID=512159637
-#EXTINF:-1 tvg-id="Eurosport4Polska.pl@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ae/Eurosport_4_2022.svg/revision/latest?cb=20220418053934" group-title="بولندا (PL)",Eurosport 4 Polska
-http://sultanios.alwaysdata.net/vavo.php?ID=2896573317
+#EXTINF:-1 tvg-id="Eurosport3Polska.pl@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/da/Eurosport_3_2022.svg/revision/latest?cb=20220418054130" group-title="بولندا (PL)",Eurosport 3 Polska (1080p)
+https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F5121596371c5191ed9b35
+#EXTINF:-1 tvg-id="Eurosport4Polska.pl@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ae/Eurosport_4_2022.svg/revision/latest?cb=20220418053934" group-title="بولندا (PL)",Eurosport 4 Polska (1080p)
+https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2896573317d9d69e0e2d72
 #EXTINF:-1 tvg-id="EWTNPoland.pl@SD" tvg-logo="https://i.imgur.com/VtKYELf.png" group-title="بولندا (PL)",EWTN Poland (1080p)
 https://cdn3.wowza.com/1/ZHdrMWt1NjlDSzFu/bzdDVG10/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="FILMBOXPlusAction.pl@HD" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Baction.png" group-title="بولندا (PL)",FILMBOX+ Action (720p)
@@ -15111,8 +14891,8 @@ http://92.114.85.87:8013/play/a004/index.m3u8
 http://92.114.85.87:8013/play/a008/index.m3u8
 #EXTINF:-1 tvg-id="NowaTV.pl@SD" tvg-logo="https://i.imgur.com/8cHK49r.png" group-title="بولندا (PL)",Nowa TV (1080p)
 http://92.114.85.87:8001/play/a013/index.m3u8
-#EXTINF:-1 tvg-id="ParamountNetwork.pl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/960px-Paramount_Network.svg.png" group-title="بولندا (PL)",Paramount Network (Poland)
-http://sultanios.alwaysdata.net/vavo.php?ID=3390498693
+#EXTINF:-1 tvg-id="ParamountNetwork.pl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/960px-Paramount_Network.svg.png" group-title="بولندا (PL)",Paramount Network (Poland) (1080p)
+https://guard.sekobes.workers.dev/?url=https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3390498693
 #EXTINF:-1 tvg-id="Polonia1.pl@SD" tvg-logo="https://i.imgur.com/4TVDMGD.png" group-title="بولندا (PL)",Polonia 1 (576i)
 http://92.114.85.87:8012/play/a006/index.m3u8
 #EXTINF:-1 tvg-id="Polsat1.pl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Polsat_1_2021_gradient.svg/960px-Polsat_1_2021_gradient.svg.png" group-title="بولندا (PL)",Polsat 1 [Not 24/7]
@@ -15197,6 +14977,8 @@ https://prx-y5cf8.mediatool.tv/playout/sepl-abr67/index.m3u8
 http://92.114.85.87:8004/play/a00c/index.m3u8
 #EXTINF:-1 tvg-id="SzlagierTV.pl@SD" tvg-logo="https://i.imgur.com/VQk19Ng.png" group-title="بولندا (PL)",Szlagier TV
 http://92.114.85.87:8010/play/a00l/index.m3u8
+#EXTINF:-1 tvg-id="TBNPolska.pl@SD" tvg-logo="https://ocdn.eu/ptv2-images-transforms/1/4fPkrxsb2dvLW1pZ3JhdGVkL3Ribi1wb2xza2EucG5nkpUCZADCw5UCACjCww" group-title="بولندا (PL)",TBN Polska (1080p)
+https://prx-y5cf8.mediatool.tv/playout/tbn-abr67/index.m3u8
 #EXTINF:-1 tvg-id="TeenNick.pl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/TeenNick_logo_2023_%28outline%29.svg/1280px-TeenNick_logo_2023_%28outline%29.svg.png" group-title="بولندا (PL)",TeenNick (Poland) (576i)
 http://92.114.85.87:8010/play/a009/index.m3u8
 #EXTINF:-1 tvg-id="Tele5.pl@SD" tvg-logo="https://i.imgur.com/36ZNsIL.png" group-title="بولندا (PL)",Tele5 (576i)
@@ -15205,6 +14987,8 @@ http://92.114.85.87:8012/play/a005/index.m3u8
 http://92.114.85.87:8009/play/a006/index.m3u8
 #EXTINF:-1 tvg-id="TelewizjaBiznesowa.pl@SD" tvg-logo="https://i.imgur.com/XC7i7ZL.png" group-title="بولندا (PL)",Telewizja Biznesowa (1080p)
 https://s-pl-01.mediatool.tv/playout/tbpl-abr/index.m3u8
+#EXTINF:-1 tvg-id="TelewizjaImperium.pl@SD" tvg-logo="https://i.ibb.co/k2jQkHq/Cropped-mperiumczarne-768x243-1-1.png" group-title="بولندا (PL)",Telewizja Imperium (1080p)
+https://str10.imperiummedia.pl/TVIMPERIUM/index.m3u8
 #EXTINF:-1 tvg-id="TelewizjaiTTV.pl@SD" tvg-logo="https://www.ittv.pl/media/images/ittv-logo.png" group-title="بولندا (PL)",Telewizja iTTV (1080p)
 https://5d84fe297ee2b.streamlock.net/sercanie/scj_florek.stream_aac/playlist.m3u8
 #EXTINF:-1 tvg-id="TelewizjaJaslo.pl@SD" tvg-logo="https://i.imgur.com/nV2jQQP.png" group-title="بولندا (PL)",Telewizja Jaslo (720p)
@@ -15249,6 +15033,8 @@ https://live-ch1.trwam.cf.insyscd.net/out/v1/b99041a282774d4a8fe84a54243af5de/tr
 http://92.114.85.87:8010/play/a00m/index.m3u8
 #EXTINF:-1 tvg-id="TVCSuper.pl@SD" tvg-logo="https://radiopolska.pl/files/thumb/32049b3594ccdd5/300" group-title="بولندا (PL)",TVC Super
 http://92.114.85.87:8010/play/a00n/index.m3u8
+#EXTINF:-1 tvg-id="TVKSMNT.pl@HD" tvg-logo="https://i.ibb.co/XZ3m8kr1/logotvk.png" group-title="بولندا (PL)",TVK SMNT (1080p)
+https://tvk.smnt.pl/memfs/cf3a66ef-133a-4579-86da-5995ab23ae2a.m3u8
 #EXTINF:-1 tvg-id="TVKStella.pl@SD" tvg-logo="https://www.tvkstella.pl/img/poster.png" group-title="بولندا (PL)",TVK Stella (576p)
 https://stream.tvkstella.pl/stella/stella.m3u8
 #EXTINF:-1 tvg-id="TVN.pl@SD" tvg-logo="https://i.imgur.com/PeUsth6.png" group-title="بولندا (PL)",TVN (Poland) [Not 24/7]
@@ -16411,8 +16197,8 @@ https://live.artidijitalmedya.com/artidijital_tontv/tontv/playlist.m3u8
 https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRT2.tr@SD" tvg-logo="https://i.imgur.com/iOCQdyD.png" group-title="تركيا (TR)",TRT 2 (1440p) [Geo-blocked]
 https://tv-trt2.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="TRT3.tr@SD" tvg-logo="https://i.imgur.com/JrWFwBd.png" group-title="تركيا (TR)",TRT 3 (720p)
-https://tv-trt3.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TRT3.tr@SD" tvg-logo="https://i.imgur.com/JrWFwBd.png" group-title="تركيا (TR)",TRT 3 (1080p)
+https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F418740351278f04c94b243
 #EXTINF:-1 tvg-id="TRTArabi.tr@SD" tvg-logo="https://i.imgur.com/dEfI2M9.png" group-title="تركيا (TR)",TRT Arabi (1080p) [Not 24/7]
 https://tv-trtarabi.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTAvaz.tr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TRT_Avaz_logo.svg/960px-TRT_Avaz_logo.svg.png" group-title="تركيا (TR)",TRT Avaz (720p)
@@ -17339,8 +17125,8 @@ https://ss2.tvrdomi.com:1936/eradiofonicas/eradiofonicas/playlist.m3u8
 http://190.122.104.210:5080/LiveApp/streams/tarima.m3u8
 #EXTINF:-1 tvg-id="TDNMedios.do@SD" tvg-logo="https://i.imgur.com/C8dSJM7.png" group-title="جمهورية الدومينيكان (DO)",TDN Medios (720p) [Not 24/7]
 https://castv10.plugstreaming.com:19360/tdntv/tdntv.m3u8
-#EXTINF:-1 tvg-id="TeleAntillas.do@SD" tvg-logo="https://i.imgur.com/G1pJZkC.png" group-title="جمهورية الدومينيكان (DO)",Tele Antillas (1080p)
-http://45.171.108.253:8888/TELEANTILLAS/index.m3u8
+#EXTINF:-1 tvg-id="TeleAntillas.do@SD" tvg-logo="https://i.imgur.com/G1pJZkC.png" group-title="جمهورية الدومينيكان (DO)",Tele Antillas (480p)
+https://hls.tvabierta.net/hls/010.m3u8
 #EXTINF:-1 tvg-id="TeleDajabonTV.do@HD" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3822-294x165-FFFFFF.jpg" group-title="جمهورية الدومينيكان (DO)",Tele Dajabon TV (720p) [Not 24/7]
 https://5790d294af2dc.streamlock.net/dajabon/dajabon/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleDominicanaTV.do@SD" tvg-logo="https://dominicanchannels.com/wp-content/uploads/teledominicana.png" group-title="جمهورية الدومينيكان (DO)",Tele Dominicana TV (720p) [Not 24/7]
@@ -17777,7 +17563,7 @@ https://cityeden.catcast.tv/content/34246/index.m3u8
 http://stream.mcquack.net/312/index.m3u8
 #EXTINF:-1 tvg-id="Crimea24.ru@SD" tvg-logo="https://i.imgur.com/k4C0uvp.png" group-title="روسيا (RU)",Crimea 24
 https://cdn.1tvcrimea.ru/24tvcrimea.m3u8
-#EXTINF:-1 tvg-id="DaVinci.ru@SD" tvg-logo="https://i.imgur.com/V8AUJP6.png" group-title="روسيا (RU)",Da Vinci (Russia) (576p)
+#EXTINF:-1 tvg-id="DaVinci.ru@SD" tvg-logo="https://i.imgur.com/V8AUJP6.png" group-title="روسيا (RU)",Da Vinci (576p)
 http://116.90.120.149:8000/play/a0s6/index.m3u8
 #EXTINF:-1 tvg-id="Dagestan.ru@SD" tvg-logo="https://i.imgur.com/jumkRvc.png" group-title="روسيا (RU)",Dagestan (1080p)
 https://dagestan.mediacdn.ru/cdn/dagestan/playlist.m3u8
@@ -18721,14 +18507,6 @@ https://live77cdn2.antenaplay.ro/live2_fast/ch4/stream.m3u8
 https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/5928.m3u8
 #EXTINF:-1 tvg-id="Digi24.ro@SD" tvg-logo="https://i.imgur.com/qmRnD0M.png" group-title="رومانيا (RO)",Digi 24 (720p)
 https://edge-ar.rcs-rds.ro/digi24ar/index.m3u8
-#EXTINF:-1 tvg-id="DigiSport1.ro@HD" tvg-logo="https://i.imgur.com/5zMxDYq.png" group-title="رومانيا (RO)",Digi Sport 1 HD
-http://sultanios.alwaysdata.net/vavo.php?ID=3174529991
-#EXTINF:-1 tvg-id="DigiSport2.ro@HD" tvg-logo="https://i.imgur.com/KWDUi3v.png" group-title="رومانيا (RO)",Digi Sport 2 HD
-http://sultanios.alwaysdata.net/vavo.php?ID=867728420
-#EXTINF:-1 tvg-id="DigiSport3.ro@HD" tvg-logo="https://i.imgur.com/T1ci5UK.png" group-title="رومانيا (RO)",Digi Sport 3 HD
-http://sultanios.alwaysdata.net/vavo.php?ID=4279401658
-#EXTINF:-1 tvg-id="DigiSport4.ro@SD" tvg-logo="https://i.imgur.com/Knj9I6f.png" group-title="رومانيا (RO)",Digi Sport 4
-http://sultanios.alwaysdata.net/vavo.php?ID=4124538275
 #EXTINF:-1 tvg-id="DiscoMix.ro@SD" tvg-logo="https://www.discomix.ro/wp-content/uploads/2023/03/Disco-Mix-1.png" group-title="رومانيا (RO)",Disco Mix (576i) [Geo-blocked]
 https://vs2129.vcdn.biz/781da550c3e711e56f17de33318050f9_megogo/live/hls/b/700_2490_4000/u_sid/0/o/183395021/rsid/39f910cb-e9d4-46a0-b2fb-a12bfc104baf/u_uid/2260062697/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/81.196.174.41*asn/u_srvc/109126/u_did/web_c02d0d195494991ada83b5ae2a2f87d6041c11b1b8f79fc86ae5b7b557894fa0/type.live/playlist.m3u8
 #EXTINF:-1 tvg-id="DiscoveryChannel.ro@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png" group-title="رومانيا (RO)",Discovery Channel (Romania)
@@ -18739,8 +18517,6 @@ https://galandriel1.thobias11.cfd/dysnee/usergendx0k2rnd.m3u8
 https://atlantida1.aquax1.cfd/disjr/usergendxvoq4rnd.m3u8
 #EXTINF:-1 tvg-id="DottoTV.ro@SD" tvg-logo="https://i.imgur.com/pfs882Z.png" group-title="رومانيا (RO)",Dotto TV (1080p)
 https://live.dottotv.ro/index.m3u8
-#EXTINF:-1 tvg-id="E.ro@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ef/E%21_2022_%28Scarlet%29.svg/revision/latest?cb=20260709150437" group-title="رومانيا (RO)",E! (Romania)
-http://sultanios.alwaysdata.net/vavo.php?ID=3166915380
 #EXTINF:-1 tvg-id="EMITV.ro@SD" tvg-logo="https://i.imgur.com/B5zssCz.png" group-title="رومانيا (RO)",EMI TV (576i)
 https://hls01ns.antenaplay.ro/hls/emi-tv-sd/index.m3u8
 #EXTINF:-1 tvg-id="EtnoTV.ro@SD" tvg-logo="https://i.imgur.com/jzhZ8kl.png" group-title="رومانيا (RO)",Etno TV
@@ -18855,12 +18631,10 @@ https://hls01ns.antenaplay.ro/hls/orizont-tv-sd/index.m3u8
 https://hls02ns.antenaplay.ro/hls/party-mix-hd/index.m3u8
 #EXTINF:-1 tvg-id="PrimaNews.ro@SD" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Prima_News_logo_2022.svg/1280px-Prima_News_logo_2022.svg.png" group-title="رومانيا (RO)",Prima News
 https://hls02ns.antenaplay.ro/hls/prima-news-hd/index.m3u8
+#EXTINF:-1 tvg-id="PrimaSport1.ro@HD" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/5/52/Prima_Sport_1_%282022-.n.v.%29.png/revision/latest/scale-to-width-down/1000?cb=20240205121905" group-title="رومانيا (RO)",Prima Sport 1 HD
+https://rundle.tv/proxy5.php?src=https%3A%2F%2Firon1.xn--x2rw19a.space%2Fpuk1%2Fusergenrx0cir27aq-got.htm
 #EXTINF:-1 tvg-id="PrimaSport2.ro@HD" tvg-logo="https://i.imgur.com/hROcepe.png" group-title="رومانيا (RO)",Prima Sport 2 HD
-http://sultanios.alwaysdata.net/vavo.php?ID=3381201599
-#EXTINF:-1 tvg-id="PrimaSport3.ro@HD" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/9/9a/Prima_Sport_3_%282022-.n.v.%29.png/revision/latest/scale-to-width-down/1000?cb=20240205122802" group-title="رومانيا (RO)",Prima Sport 3 HD
-http://sultanios.alwaysdata.net/vavo.php?ID=2762629881
-#EXTINF:-1 tvg-id="PrimaSport4.ro@HD" tvg-logo="https://i.imgur.com/lqaIIhc.png" group-title="رومانيا (RO)",Prima Sport 4 HD
-http://sultanios.alwaysdata.net/vavo.php?ID=3194919143
+https://rundle.tv/proxy5.php?src=https%3A%2F%2Firon1.xn--x2rw19a.space%2Fpuk2%2Fusergenrnd0clv03fyt-got.htm
 #EXTINF:-1 tvg-id="PrimaSportPPV1.ro@SD" tvg-logo="https://www.primaplay.ro/uploads/thumb/publisher/b05ce5d64523401d0fc3225c5b629019.png" group-title="رومانيا (RO)",Prima Sport PPV 1
 https://rundle.tv/proxy5.php?src=https%3A%2F%2Fpulse1.sanseny001.shop%2Fpuki1%2Fusergendx6kal0r2bsm-got.htm
 #EXTINF:-1 tvg-id="PrimaSportPPV2.ro@SD" tvg-logo="https://www.primaplay.ro/uploads/thumb/publisher/a8c4cd410038eab9d207fd2f15d4d1ce.png" group-title="رومانيا (RO)",Prima Sport PPV 2
@@ -19781,7 +19555,9 @@ https://stream2.mandarine.media/brionnaistv/brionnaistv/playlist.m3u8
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/cstar/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="Caillou.fr@SD" tvg-logo="https://i.imgur.com/RgKaoe4.png" group-title="فرنسا (FR)",Caillou
 https://do7nccdsswstc.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1aso0bc668saa/a5233c83-f772-4a81-959a-45ec7877ef61/5.m3u8
-#EXTINF:-1 tvg-id="CanalPlusSport.fr@SD" tvg-logo="https://i.imgur.com/EOXnU15.png" group-title="فرنسا (FR)",Canal+ Sport (France) (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="CanalJ.fr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Canal_J_2019_Logo.png/960px-Canal_J_2019_Logo.png" group-title="فرنسا (FR)",Canal J (1080p)
+https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3860888136d301b247640b
+#EXTINF:-1 tvg-id="CanalPlusSport.fr@SD" tvg-logo="https://i.imgur.com/EOXnU15.png" group-title="فرنسا (FR)",Canal+ Sport (1080p) [Geo-blocked]
 http://tv.streambox.fr/live/testlivestream/testlivestream/31.m3u8
 #EXTINF:-1 tvg-id="CannesLerinsTV.fr@SD" tvg-logo="https://i.imgur.com/atlgnum.png" group-title="فرنسا (FR)",Cannes Lerins TV (1080p)
 https://vdo2.pro-fhi.net:3628/live/uppodsfqlive.m3u8
@@ -19791,8 +19567,8 @@ https://r.eu.cdn-redge.media/livehls/oeu/mt/live/chasse_et_peche/live.livx/playl
 https://zylo-cinenanar-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="CineWestern.fr@SD" tvg-logo="https://i.imgur.com/tteOFkL.png" group-title="فرنسا (FR)",Cine Western (France) (1080p)
 https://amg00711-zylo-amg00711c8-rakuten-uk-2686.playouts.now.amagi.tv/playlist/amg00711-zylofast-cinewestern-rakutenuk/playlist.m3u8
-#EXTINF:-1 tvg-id="CinePlusClassic.fr@SD" tvg-logo="https://i.imgur.com/y2zeLS3.jpeg" group-title="فرنسا (FR)",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",Cine+ Classic
-http://99.27.51.147/CineClassic/index.m3u8
+#EXTINF:-1 tvg-id="CinePlusClassic.fr@SD" tvg-logo="https://i.imgur.com/y2zeLS3.jpeg" group-title="فرنسا (FR)",Cine+ Classic (1080p)
+https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F1398934027
 #EXTINF:-1 tvg-id="CinePlusFrisson.fr@SD" tvg-logo="https://i.imgur.com/MwFtbnR.jpeg" group-title="فرنسا (FR)",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",Cine+ Frisson (1080p)
 http://99.27.51.147:8080/CineFrisson/index.m3u8
 #EXTINF:-1 tvg-id="CNews.fr@SD" tvg-logo="https://i.imgur.com/sSNhk2g.png" group-title="فرنسا (FR)",CNews (1080p)
@@ -19809,6 +19585,8 @@ https://r.eu.cdn-redge.media/livehls/oeu/mt/live/crime_district/live.livx/playli
 https://dbmtv.vedge.infomaniak.com/livecast/dbmtv/playlist.m3u8
 #EXTINF:-1 tvg-id="DiscoveryChannel.fr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png" group-title="فرنسا (FR)",like Gecko) Chrome/156.0.0.0 Safari/537.36" group-title="Entertainment",Discovery Channel (France)
 http://192.99.186.30/stream/68/index.m3u8
+#EXTINF:-1 tvg-id="DisneyChannel.fr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg" group-title="فرنسا (FR)",Disney Channel (France)
+https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F11741266772bc970bcdea5
 #EXTINF:-1 tvg-id="DisneyJr.fr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg" group-title="فرنسا (FR)",Disney Jr. (France) (1080p)
 http://151.80.18.177:86/Disney_Junior_HD/index.m3u8
 #EXTINF:-1 tvg-id="EmotionL.fr@SD" tvg-logo="https://i.imgur.com/MP34aaj.png" group-title="فرنسا (FR)",Emotion L (1080p)
@@ -20105,8 +19883,8 @@ https://channels.trace.plus/Traceprod/AFRICA_FR_hd/index.m3u8
 https://channels.trace.plus/Traceprod/TERANGA_hd/index.m3u8
 #EXTINF:-1 tvg-id="TraceAyiti.fr@SD" tvg-logo="https://i.imgur.com/KkJ6fet.png" group-title="فرنسا (FR)",like Gecko) Chrome/156.0.0.0 Safari/537.36" group-title="Music",Trace Ayiti (1080p)
 https://channels.trace.plus/Traceprod/AYITI_hd/index.m3u8
-#EXTINF:-1 tvg-id="TraceBrazuca.fr@SD" tvg-logo="https://i.imgur.com/DFBocPu.png" group-title="فرنسا (FR)",Trace Brazuca (1080p)
-https://amg01131-tracetv-amg01131c4-stirr-us-4390.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TraceBrazuca.fr@SD" tvg-logo="https://i.imgur.com/DFBocPu.png" group-title="فرنسا (FR)",like Gecko) Chrome/156.0.0.0 Safari/537.36" group-title="Music",Trace Brazuca (1090p)
+https://channels.trace.plus/Traceprod/BRAZIL_sd/index.m3u8
 #EXTINF:-1 tvg-id="TraceBrazuca.fr@HD" tvg-logo="https://i.imgur.com/DFBocPu.png" group-title="فرنسا (FR)",Trace Brazuca HD (1080p)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-samsungbr/playlist.m3u8
 #EXTINF:-1 tvg-id="TraceCaribbean.fr@SD" tvg-logo="https://i.imgur.com/ZHD7Vxy.png" group-title="فرنسا (FR)",like Gecko) Chrome/156.0.0.0 Safari/537.36" group-title="Music",Trace Caribbean (1080p)
@@ -20853,7 +20631,7 @@ https://live.relentlessinnovations.net:1936/afghannobel/afghannobel/playlist.m3u
 https://live.relentlessinnovations.net:1936/afghannobeltv/afghannobeltv/playlist.m3u8
 #EXTINF:-1 tvg-id="AmazingDiscoveriesTV.ca@SD" tvg-logo="https://i.imgur.com/I0oPFTj.png" group-title="كندا (CA)",Amazing Discoveries TV (720p)
 https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8
-#EXTINF:-1 tvg-id="ApnaPunjabTV.ca@SD" tvg-logo="https://i.imgur.com/IM4D8Wz.png" group-title="كندا (CA)",Apna Punjab TV (720p)
+#EXTINF:-1 tvg-id="ApnaPunjabTV.ca@SD" tvg-logo="https://i.imgur.com/IM4D8Wz.png" group-title="كندا (CA)",Apna Punjab TV (Canada) (720p)
 https://plus.gigabitcdn.net/live-stream/apna-punjab-H3sE/playlist.m3u8
 #EXTINF:-1 tvg-id="AzStarTV.ca@SD" tvg-logo="https://i.imgur.com/di3XX5L.png" group-title="كندا (CA)",Az Star TV (1080p)
 http://live.azstartv.com/azstar/smil:azstar.smil/playlist.m3u8
@@ -21331,6 +21109,8 @@ http://202.60.106.14:8080/214/playlist.m3u8
 https://live.koryocdn.org/kctv/index.m3u8
 #EXTINF:-1 tvg-id="KoreanCentralTelevision.kp@SD" tvg-logo="https://i.imgur.com/p02AEOF.png" group-title="كوريا الشمالية (KP)",like Gecko) Chrome/118.0.4044.138 Safari/537.36" group-title="General",Korean Central Television SD (576p)
 https://streamer.nknews.org/tvdash/stream.mpd
+#EXTINF:-1 tvg-id="MansudaeTelevision.kp@HD" tvg-logo="https://i.imgur.com/7xowUs2.png" group-title="كوريا الشمالية (KP)",Mansudae Television (1080p) [Not 24/7]
+https://live.koryocdn.org/mansudae/index.m3u8
 #EXTINF:-1 tvg-id="RyongnamsanTelevision.kp@HD" tvg-logo="https://i.imgur.com/1BHJjY4.png" group-title="كوريا الشمالية (KP)",Ryongnamsan Television (720p) [Not 24/7]
 https://live.koryocdn.org/ryongnamsan/index.m3u8
 #EXTINF:-1 tvg-id="SportsTelevision.kp@HD" tvg-logo="https://i.imgur.com/HvFpGeH.png" group-title="كوريا الشمالية (KP)",Sports Television (720p) [Not 24/7]
@@ -21933,7 +21713,7 @@ http://stream.mcquack.net/374/index.m3u8
 https://med-tv-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-hls-aes128-medtv-1-restreaming/bitok/eyJzdGlkIjoiMGUzYjU2OWQtYTY3NC00ZDQxLThmZmMtNjA2NWU5YzMwNTViIiwibWt0IjoiaXQiLCJjaCI6IjUiLCJwdGYiOjV9/hls/main.m3u8
 #EXTINF:-1 tvg-id="NET.mt@SD" tvg-logo="https://i.imgur.com/K4Uve1n.png" group-title="مالطا (MT)",NET [Geo-blocked]
 http://80.79.6.221:25461/smash/public/22
-#EXTINF:-1 tvg-id="One.mt@SD" tvg-logo="https://i.imgur.com/UPlfzFx.png" group-title="مالطا (MT)",One (720p)
+#EXTINF:-1 tvg-id="One.mt@SD" tvg-logo="https://i.imgur.com/UPlfzFx.png" group-title="مالطا (MT)",One (Malta) (720p)
 https://2-fss-1.streamhoster.com/pl_148/201830-1293592-1/playlist.m3u8
 #EXTINF:-1 tvg-id="ParliamentofMalta.mt@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/53/Logo_of_the_Parliament_of_Malta.png" group-title="مالطا (MT)",Parliament of Malta [Geo-blocked]
 http://80.79.6.221:25461/smash/public/23
@@ -22973,14 +22753,6 @@ https://webtvstream.bhtelecom.ba/fightbox.m3u8
 https://nosignal1.antenaplay.ro/hls/fightbox-hd/index.m3u8
 #EXTINF:-1 tvg-id="FightBox.nl@Poland" tvg-logo="https://i.imgur.com/mRsnztA.png" group-title="هولندا (NL)",FightBox Poland (576i)
 http://92.114.85.87:8003/play/a00b/index.m3u8
-#EXTINF:-1 tvg-id="Film1Action.nl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Film1_Action_SVG.svg/960px-Film1_Action_SVG.svg.png" group-title="هولندا (NL)",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Movies",Film1 Action
-http://86.87.15.10:8008/play/a01l/index.m3u8
-#EXTINF:-1 tvg-id="Film1Drama.nl@SD" tvg-logo="https://i.imgur.com/oqrnvib.png" group-title="هولندا (NL)",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Movies",Film1 Drama
-http://86.87.15.10:8008/play/a01k/index.m3u8
-#EXTINF:-1 tvg-id="Film1Family.nl@SD" tvg-logo="https://i.imgur.com/8XRfXIa.png" group-title="هولندا (NL)",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Movies",Film1 Family
-http://86.87.15.10:8008/play/a01m/index.m3u8
-#EXTINF:-1 tvg-id="Film1Premiere.nl@SD" tvg-logo="https://i.imgur.com/Kn9LX8i.png" group-title="هولندا (NL)",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Movies",Film1 Premiere
-http://86.87.15.10:8008/play/a01n/index.m3u8
 #EXTINF:-1 tvg-id="FomixTV.nl@HD" tvg-logo="https://i.imgur.com/7SLYEMG.png" group-title="هولندا (NL)",FomixTV (1080p)
 https://stream.fomixmedia.nl/FomixTV/video.m3u8
 #EXTINF:-1 tvg-id="FunBoxUHD.nl@SD" tvg-logo="https://i.imgur.com/9FJct9o.png" group-title="هولندا (NL)",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Relax",FunBox UHD SD (720p)
